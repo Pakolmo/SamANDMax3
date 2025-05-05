@@ -1,0 +1,300 @@
+﻿1) 
+Antialiasing:
+2) 
+Atrás
+3) 
+Cancelar
+4) 
+<ui_menu_iconRestart.d3dtx>Capítulo %d
+5) 
+<ui_menu_iconRestart.d3dtx>Selección de capítulo
+6) 
+Continuar episodio %d
+7) 
+CONTROLES
+8) 
+Copiar
+9) 
+Eliminar
+10) 
+EPISODIO 1
+11) 
+EPISODIO 2
+12) 
+EPISODIO 3
+13) 
+EPISODIO 4
+14) 
+EPISODIO 5
+15) 
+JUGAR
+16) 
+Pantalla completa:
+17) 
+AJUSTES DEL JUEGO
+18) 
+AJUSTES GRÁFICOS
+19) 
+Idioma:
+20) 
+MENÚ PRINCIPAL
+21) 
+Jugar episodio %d
+22) 
+SALIR
+23) 
+Salir al escritorio
+24) 
+Calidad gráfica:
+25) 
+Resolución
+26) 
+<ui_menu_iconRestart.d3dtx>Reiniciar
+27) 
+REANUDAR
+28) 
+GUARDAR PARTIDA
+29) 
+RANURAS DE GUARDADO
+30) 
+Seleccionar
+31) 
+AJUSTES
+32) 
+Ranura 1
+33) 
+Ranura 2
+34) 
+Ranura 3
+35) 
+Subtítulos:
+36) 
+Calidad de texturas:
+37) 
+Volumen general
+38) 
+Volumen de la música
+39) 
+Volumen de sonidos
+40) 
+Volumen de voces
+41) 
+El idioma del juego ha sido cambiado. ¿Quieres aplicar este cambio ahora?
+42) 
+La resolución ha sido cambiada. ¿Quieres aplicar este cambio ahora?
+43) 
+¿Estás seguro de que quieres salir?
+44) 
+¿Salir del juego y volver al menú principal? ^font:ChatterboxItalic^Se perderá cualquier progreso no guardado.
+45) 
+¿Estás seguro de que quieres reiniciar este episodio? ^font:ChatterboxItalic^Tu progreso en el episodio se perderá.
+46) 
+¿Estás seguro de que quieres volver al capítulo %d? ^font:ChatterboxItalic^Tu guardado automático actual será sobrescrito.
+47) 
+¿Estás seguro de que quieres copiar en esta ranura? ^font:ChatterboxItalic^Todos los guardados de esta ranura serán sobrescritos.
+48) 
+¿Estás seguro de que quieres eliminar esta ranura? ^font:ChatterboxItalic^Todos los guardados de esta ranura se perderán.
+49) 
+Continúa jugando desde un punto anterior del episodio. ^font:ChatterboxItalic^Esto sobrescribirá tu guardado automático para este episodio.
+50) 
+CAPÍTULOS:
+51) 
+Cambiar personaje
+52) 
+Inventario
+53) 
+Menú de pausa
+54) 
+Mover
+55) 
+Correr
+56) 
+Seleccionar objeto
+57) 
+Mostrar puntos interactivos
+58) 
+Usar objeto
+59) 
+Vacío
+60) 
+Un ^font:ChatterboxBoldItalic^gorila espacial hambriento de poder^^ ha cruzado la galaxia en busca de los legendarios Juguetes del Poder… ¡y ha aterrizado en ^font:ChatterboxBoldItalic^la calle de Sam y Max!^^ El General Skun-ka’pe dice venir en paz, pero hay algo sospechoso en este simio sobredimensionado. Con la ayuda de los ^font:ChatterboxBoldItalic^nuevos poderes psíquicos de Max,^^ la Policía Freelance debe enviar a este matón intergaláctico de vuelta de donde vino: ¡^font:ChatterboxBoldItalic^a la Zona Penal!^^
+61) 
+¡Todos a bordo del Desorient Express! Por insistencia del ^font:ChatterboxBoldItalic^enigmático Monsieur Papierwaite,^^ los bisabuelos de Sam y Max parten hacia Egipto para ^font:ChatterboxBoldItalic^saquear la Tumba de Sammun-Mak^^ y recuperar la Caja de Juguetes del Diablo, pero no son los únicos. ¿Podrán Sameth y Maximus ^font:ChatterboxBoldItalic^resolver el Desafío de la Esfinge^^ y superar a un grupo de aspirantes a saqueadores para hacerse con el premio?
+62) 
+Pequeño amigo, ^font:ChatterboxBoldItalic^¡¿qué te han hecho?!^^ Alguien ha robado el cerebro de Max, buscando controlar sus ^font:ChatterboxBoldItalic^extraños poderes psíquicos.^^ Ahora Sam se está remangando, golpeando cabezas y disparando balas: ¡^font:ChatterboxBoldItalic^hará lo que sea necesario^^ para recuperar lo que es de Max!
+63) 
+^font:ChatterboxBoldItalic^¡Juguetes! ¡Juguetes! ¡Juguetes!^^ Una horda de clones de Sam está suelta, buscando los ^font:ChatterboxBoldItalic^Juguetes del Poder.^^ ¿Qué villano ha desatado este ejército de ^font:ChatterboxBoldItalic^Samulacras semidesnudos^^ en la ciudad? ¿Y qué tendrán que sacrificar Sam y Max para detenerlos?
+64) 
+Una bestia ^font:ChatterboxBoldItalic^colosal y sobrenatural^^ se alimenta de la energía psíquica de los sueños, desatando sus poderes destructivos con la Caja de Juguetes del Diablo. Pero esto no es una historia predecible de un ^font:ChatterboxBoldItalic^monstruo gigante atacando Manhattan^^. ¿Podrá Sam salvar la ciudad sin destruir a su pequeño amigo en el proceso?
+65) 
+LA ZONA PENAL
+131) 
+La Zona Penal
+66) 
+LA TUMBA DE SAMMUN-MAK
+67) 
+¡LE ROBARON EL CEREBRO A MAX!
+68) 
+MÁS ALLÁ DEL CALLEJÓN DE LAS MUÑECAS
+69) 
+LA CIUDAD QUE NO SE ATREVE A DORMIR
+70) 
+Español
+71) 
+Francés
+72) 
+Alemán
+73) 
+Italiano
+74) 
+Español
+75) 
+Alto
+76) 
+Bajo
+77) 
+Medio
+78) 
+Desactivado
+79) 
+Activado
+80) 
+¡Pausado!
+81) 
+Sam y Max: The Devil's Playhouse
+82) 
+Ajustar la calidad del antialiasing
+83) 
+Seleccionar una ranura para copiar
+84) 
+Cambiar entre modo pantalla completa y ventana
+85) 
+Cambiar el idioma del juego
+86) 
+Ajustar la calidad de la iluminación y las sombras
+87) 
+Cambiar la resolución de la pantalla
+88) 
+Activar o desactivar los subtítulos
+89) 
+Ajustar la calidad de las texturas
+90) 
+Ajustar el nivel de volumen general
+91) 
+Ajustar el nivel de volumen de la música
+92) 
+Ajustar el nivel de volumen de los efectos de sonido
+93) 
+Ajustar el nivel de volumen de las voces
+94) 
+Fondo de subtítulos:
+95) 
+Sincronización vertical:
+96) 
+Activar o desactivar el fondo de los subtítulos
+97) 
+Activar o desactivar la sincronización vertical
+98) 
+Desbloquear juego completo
+101) 
+DESBLOQUEAR JUEGO COMPLETO
+99) 
+Volver al menú principal
+100) 
+¡Gracias por jugar!
+102) 
+Parece que jugaste la demo de Sam y Max: El Parque del Diablo. ¿Quieres importar tu partida guardada?
+103) 
+No se pudo importar tu partida guardada. Lo sentimos.
+104) 
+Nivel de pistas:
+105) 
+Elige con qué frecuencia quieres que los personajes ofrezcan consejos cuando crean que estás atascado.
+106) 
+Sin pistas
+107) 
+Pistas muy raras
+108) 
+Pistas raras
+109) 
+Pistas periódicas
+110) 
+Pistas frecuentes
+111) 
+AJUSTES DE ACCESIBILIDAD
+112) 
+Minijuegos:
+113) 
+Permite omitir los minijuegos
+114) 
+Opcional
+115) 
+Obligatorio
+116) 
+Efectos visuales parpadeantes:
+117) 
+Activar o desactivar efectos visuales fotosensibles
+118) 
+Ruso
+119) 
+Eje X en modo Max:
+120) 
+Eje Y en modo Max:
+121) 
+Normal
+122) 
+Invertido
+123) 
+Invertir el eje X cuando juegas como Max
+124) 
+Invertir el eje Y cuando juegas como Max
+125) 
+Grano de película:
+126) 
+Activar o desactivar la superposición de grano de película
+127) 
+La nave espacial de Skun-ka’pe
+128) 
+Straight & Narrow
+129) 
+Meesta Pizza
+130) 
+Casa de empeños Mala Suerte
+132) 
+El Desafío de la Esfinge
+133) 
+El tren a Egipto
+134) 
+En la tumba
+135) 
+El enfrentamiento
+136) 
+El viaje de vuelta
+137) 
+La gran recompensa
+138) 
+Los cultistas
+139) 
+Museo
+140) 
+Frankie
+141) 
+Bóveda
+142) 
+Asedio en Stinky’s
+143) 
+La cámara de clonación
+144) 
+Laboratorios BoscoTech
+145) 
+Escalando la Estatua de la Libertad
+146) 
+El estómago de Max
+147) 
+Controles de las piernas de Max
+148) 
+La corteza cerebral de Max
+149) 
+En otro lugar
+150) 
+Cuaderno

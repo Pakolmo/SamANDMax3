@@ -1,0 +1,148 @@
+﻿1) SAM
+All right, we’ll, uh, {incredulous} let you know if we find that artifact.
+2) SUPERBALL
+{stern} After clearing it through the Department of Homeworld Security first. Just a formality.
+3) SKUNKAPE
+[friendly] {happy} Go in peace!
+4) SAM
+{sarcastic} We’re done talking now!
+5) SAM
+{suspicious} What’s this about an “artifact”?
+6) SKUNKAPE
+[reverent] {proud} It is the Eyes of Yog-Soggoth, one of hundreds of magical toys {happy} scattered throughout the {proud} galaxy by the Great Comet!
+7) SUPERBALL
+{proud} It’s believed to give the holder the power to see the future.
+8) MAX
+{surprised} What a coincidence! I was just... [interrupted by Sam]
+9) SAM
+[interrupting] {happy} He was just saying how he WISHED he could see the future, so... {sarcastic}he and I would stop showing up to work wearing the same thing.
+10) MAX
+{incredulous} It gets pretty awkward.
+11) SAM
+{enthused} So, about this artifact...
+12) SKUNKAPE
+[eager] {proud} YES! You have found it?!
+13) SAM
+[quickly, causally] {sarcastic} Not as far as you know, {suspicious} but just for fun: why is it so important to you?
+14) SKUNKAPE
+[increasingly manic] {happy} It’s a legendary treasure! Said to give the wielder the power to predict his enemy’s every movement, {angry} manipulate the economies and governments of weaker worlds, avoid death, find complex solutions to puzzles using unconventional combinations of everyday items, {evil}and CRUSH ANYONE WHO STANDS IN HIS WAY!
+15) SKUNKAPE
+[quickly recovering] {cocky} But, ha ha, that’s all just a myth. I would simply... {confused}give it away. To my nephew. In Canada.
+16) SAM
+{confused} Any luck finding that artifact?
+74) SAM
+{confused} Any luck finding that artifact?
+17) SKUNKAPE
+{evil} No, but my best minion—{surprised}err, {cocky}research assistants are on the case. Have you seen it?
+18) SAM
+{sarcastic} Err, no. {happy}But I’ve got my best Max on the case.
+19) SAM
+{suspicious} You’re not from around here, are you?
+20) SKUNKAPE
+[good-natured] {happy} Guilty! {cocky} You could tell by the accent, right? {proud} No, I have traveled from a planet hundreds of light years away from your own.
+21) SKUNKAPE
+It was once a beautiful, swampy and muggy world, the air dancing with swarms of mosquitoes, the stillness of the nights punctuated only by the mewling of infants and the drunken revelries of toothless secessionists.
+22) SKUNKAPE
+{cocky} Its name would be impossible for your Earth tongues to pronounce, but my people know it as {happy}“Pensacola.”
+23) SAM
+{suspicious} So you’re planning to just find your magic toy and leave the planet peacefully, right?
+24) SUPERBALL
+{proud} The Earth’s Chamber of Commerce has a selection of coupons for discounted dining and entertainment during your stay.
+25) SKUNKAPE
+{surprised} Find my toy and leave? {cocky} Of course not! HA HA HA HA HA!
+26) SAM
+[confidentially, to Max] {suspicious} Stay frosty, Max. This is the part where he loses it and rips his mask off or eats a live mouse or something.
+27) MAX
+[confidentially] {sarcastic} Roger that. {happy}I’ll get my video camera.
+28) SKUNKAPE
+{proud} I would never leave without sharing the technology of my world with your backward, but fascinating people!
+29) SAM
+{realizing} What are you doing here, Agent Superball?
+30) SUPERBALL
+{stern} As you know, sirs, when you {cocky} appointed me Secretary of the Posterior, {proud} that placed me in command of the Department of Homeworld Security.
+31) SAM
+{confused} I didn’t know we HAD one of those. Did you, Max?
+32) MAX
+{surprised} Heck if I know. {aloof}As soon as they gave me a button that shoots ballistic missiles and a hotline to Milla Jovovich, I lost interest in everything else.
+33) SUPERBALL
+{stern} Well, I investigate visitations from aliens, abductions, violations of the time stream, lost continents, myths & legends, that kind of thing.
+34) SUPERBALL
+{Stern} It’s currently hovering between candy apple and fire engine red, sir. {proud}I’ll keep you updated.
+35) SAM
+What’s the Homeworld Security threat level, Superball?
+36) SAM
+Just wondering: {sarcastic} how much do you pay for security on a ship like that?
+37) SKUNKAPE
+[context: What do you mean?] {confused} Security?
+38) MAX
+{happy} You know, laser grids, explosive time locks, that kind of thing.
+39) SAM
+{suspicious} We’re just curious.
+40) SKUNKAPE
+{cocky} Ha ha ha! My spaceship and the wonders aboard it are open to all the feeble people of Earth!
+41) MAX
+[whining] {sad} It’s no fun when they don’t put up a fight!
+42) SKUNKAPE
+{happy} Of course! The miracles of my technology are welcome to everyone! Especially to your planet’s mole people.
+43) SAM
+{incredulous} So... we can just walk right on your spaceship whenever we want?
+44) SAM
+{worried} Not to point fingers or anything, but {sarcastic} we couldn’t help noticing that disembodied alien brain floating in a jar on board your ship.
+45) SKUNKAPE
+[sadly, forlorn laugh] {surprised} Oh, it’s not for sale, {happy} my friends, ha hmm.
+46) MAX
+{incredulous} How much do you want for it?
+47) SKUNKAPE
+[lying]{worried}That brain is all that remains of my colleague... Gordon... {confused}Joe... hansen... son. He, uh, fought by my side for many years, {proud}and gave his life to find the great artifacts.
+48) SKUNKAPE
+{angry} He was a great warrior, he really had an eye for toys... {happy}and he was a good friend.
+49) SAM
+{incredulous} Any ideas how we can bring that brain back to life?
+50) SKUNKAPE
+{worried} No, there’s no hope for him, I’m afraid. I’ll have to find a replacement. {evil}[sinister laugh]Bwah ha ha ha ha.
+51) MAX
+[through clenched teeth] {surprised} This is making me uncomfortable.
+52) SAM
+{suspicious} What’s the story behind your whole mole man fixation?
+53) SKUNKAPE
+{happy} Ha ha ha, it’s no fixation! General Skun-ka’pe is a friend to {proud} ALL creatures of the galaxy, from the greatest ape to the tiniest, {cocky} most insignificant and pitiable mole man.
+54) MAX
+{happy} Hey, we KNOW the most insignificant and pitiable mole man!
+55) SKUNKAPE
+{cocky} On every planet I visit, all of the local mole people are invited to ride my fantastic gamma beam to a wonderful off-world vacation {evil} they’ll never forget!
+56) SKUNKAPE
+[quickly, like a disclaimer] {surprised} (I don’t kill them).
+57) SAM
+{confused} Where are these fabulous off-world vacations, exactly?
+58) SKUNKAPE
+{surprised} Why, {cocky}any planet you can imagine! {evil}Ha ha ha ha ha!
+59) MAX
+{happy} Pluto?
+60) SAM
+[scolding] {stern} That’s not a planet, Max.
+61) MAX
+{happy} The planet of nubile Amazon Priestesses bathing in rivers of chocolate and toffee?
+62) SKUNKAPE
+[lying] {confused} Um, sure. Why not?
+63) SAM
+{enthused} Does the general want a banana?
+64) SKUNKAPE
+{happy}I see. Because I resemble your Earth gorillas, you assume I want a banana. {cocky}I’m glad to see that Earthlings are still so charmingly racist.
+65) SAM
+{stern} Relax, buddy, we’re just making sure you’re getting enough potassium.
+66) 
+Artifact
+67) 
+Skunkape
+68) 
+Superball
+69) 
+Spaceship
+70) 
+Alien Brain
+71) 
+Mole men
+72) 
+Need anything?
+73) 
+Bye

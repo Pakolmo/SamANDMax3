@@ -1,0 +1,59 @@
+﻿1) SAM
+Depends on whether we can think of a way OUT of this death trap, little buddy!
+2) MAX
+{surprised}[as he’s beeing goosed] Whooooooa... {devilish}screw the vacation, I wanna keep doing THIS!
+3) MAX
+{Stern}That’s none of your damn business, computer.
+4) SAM
+[as he’s being goosed] Slight tingle... {surprised}whoa, HEY now!
+5) COMPUTERVOICE
+For the comfort of guests waiting outside, please refrain from screaming or crying out.
+out.
+6) COMPUTERVOICE
+Congratulations! Prepare yourself for a fabulous off-world vacation, courtesy of General Skun-ka’pe!
+7) MAX
+{suspicious}Sam, why is the floor so... {worried}slippery?
+8) MAX
+{happy}[happy] I’m very excited!
+9) SAM
+{suspicious}[getting suspicious] Why aren’t there any doors?
+10) COMPUTERVOICE
+Error. Cannot remove inventory. Where do you keep your personal items?
+11) MAX
+{suspicious}[suspicious] Sam, why haven’t we ever seen any mole people come OUT of here?
+12) COMPUTERVOICE
+Enjoy the rest of your experience, and remember that your sacrifice is for the glory of General Skun-ka’pe!
+13) COMPUTERVOICE
+Very well. Beginning mole man processing.
+14) COMPUTERVOICE
+You’ll feel a slight tingle as we take your personal items for safekeeping.
+15) SAM
+{worried}[context: “What does THAT mean?”] Sacrifice?
+16) MAX
+{worried}Are we going to die, Sam?
+17) SAM
+Do you smell something... burning?
+18) COMPUTERVOICE
+Welcome back!
+19) GRANDPASTINKY
+[insulted] Sous chef? Eighth class? After all I’ve done for that ungrateful monkey he can keep his bloody hands off of... [trails off]
+20) COMPUTERVOICE
+Voice print verified: Skun-ka’pe Army Sous Chef, Eighth Class. Processing aborted.
+21) GRANDPASTINKY
+{angry}Abort! For the love of Skun-ka’pe, abort!
+22) GRANDPASTINKY
+{angry}[angry] Get your hands off me! {disgusted}[frightened]Oh, what have ye DONE?!
+23) GRANDPASTINKY
+{angry}No one’s taking MY personal— {disgusted}[as he’s being goosed]GOOOLDen griddles!
+24) COMPUTERVOICE
+Welcome back! Thank you for bringing friends along to celebrate the benevolence of General Skun-ka’pe!
+25) COMPUTERVOICE
+Error. Unauthorized agent in mole processing area.
+26) MAX
+{devilish}[empty threat] Yeah, you’d BETTER run!
+27) SAM
+{worried}Oh no, all my stuff is locked inside that container!
+28) MAX
+{worried}We better get out of here, Sam! My ultra-powerful brain is starting to overheat!
+29) 
+container

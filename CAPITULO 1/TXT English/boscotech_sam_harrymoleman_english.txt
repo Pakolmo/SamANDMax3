@@ -1,0 +1,88 @@
+﻿1) HARRY
+[ominous] I’m sensing... {happy}that you want to ask me some questions!
+2) HARRY
+[ominous] I know all and see all!
+3) SAM
+But you don’t know anything about science!
+4) MAX
+{happy}Or hygiene!
+5) HARRY
+{happy}She says I’m perfect for the job!
+6) HARRY
+{normal}Which means I’ll never go mad and take over the lab for my own twisted experiments!{happy} I’m perfect!
+7) MOMMABOSCO
+I never hired him.
+8) SAM
+{confused}What are you doing here, Harry?
+9) HARRY
+I’m working as Momma Bosco’s lab assistant!
+10) SAM
+{confused}Are you sure that you’re, uh, {sarcastic}compatible with Momma Bosco?
+11) MOMMABOSCO
+{stern}Only you can see me, huh? How many fingers am I holding up?
+12) HARRY
+{happy}Only one! [to Sam & Max] HA! See? I... {embarrassed}[realizing he’s been insulted]Oh.
+13) SAM
+{incredulous}You know, Harry, we can all see and hear Momma Bosco.
+14) HARRY
+That’s just a manifestation of the unconscious... [dejected]{sad}oh, who am I kidding? You’re right. {embarrassed}I’m just useless.
+15) MAX
+{incredulous}[consoling] He’s right. {sarcastic}You’re TOTALLY useless.
+16) SAM
+{worried}Come on, Harry. You’re not “just useless.”
+17) SAM
+If you can talk to the dead, {confused}maybe you know about psychic powers?
+18) MAX
+{cocky}Sam’s worried about my brain because I can see the future now.
+19) HARRY
+Psychic powers? There’s no such thing. They just made that up to sell documentary TV series back in the 70s.
+20) HARRY
+{embarrassed}[as an afterthought] Unless they’re caused by a giant, deadly tumor.
+21) MAX
+{happy}See, Sam? There’s nothing to worry about.
+22) HARRY
+What mole man HASN’T heard about it? {happy}It’s the talk of the five burrows!
+23) SAM
+{enthused}Did you hear about General Skunkape’s fabulous off-world vacations?
+24) MAX
+{happy}Why don’t you go try it out?
+25) HARRY
+{embarrassed}[sad] I was at a job interview when they gave out the tickets. {sad}By the time I got back, it was already too late.
+26) MAX
+{sarcastic}I’ve got a really good feeling about your chances this time!
+27) HARRY
+{sad}Ah, the lottery’s just for unemployed losers who don’t understand how numbers work.
+28) MAX
+{confused}So how many tickets have you bought?
+29) SAM
+If money’s tight, {enthused}maybe you should try the lottery.
+30) HARRY
+{sad}[dejected] Twelve.{normal} No, wait... {embarrassed}one.
+31) HARRY
+That’s what I’m afraid of. {embarrassed}And ghosts.
+32) MAX
+{realizing}[encouraging] And cheer up! You’ll get what’s coming to you!
+33) SAM
+See you around, Harry.
+34) 
+Harry
+35) 
+Momma Bosco
+36) 
+Max
+37) 
+Vacation ticket
+38) 
+Lottery
+39) 
+Bye!
+40) HARRY
+[pickup1] Of course! I’ve been blessed with the unique ability to communicate with the recently deceased!
+41) HARRY
+[pickup1] Apparently there was some kind of power shake-up. I got laid off.
+42) SAM
+[pickup1] I thought you already had a job.
+43) HARRY
+[pickup1] [hopeful] You guys aren’t looking for another partner, are you?
+44) SAM
+[pickup1] We’ll, uh... keep your resume on file in case there’s an opening.

@@ -1,0 +1,92 @@
+﻿1) SAM
+{confused} Who are you guys?
+2) CULTIST1
+We are the Boxists, the last keepers of the True Way.
+3) CULTIST2
+While our brothers have succumbed to the siren song of secular America, {stern}with its basalt-rich tunnels and specialty coffees, {proud}only we remain to act as Guardians of the Box.
+4) SAM
+{confused}What’s with the creepy toybox?
+5) CULTIST2
+It is everything and nothing, {proud}the power infinite!
+6) SAM
+{sarcastic}Oh, well that makes sense.
+7) CULTIST1
+We have guarded and {proud}worshipped it from behind the shadowy veil of faith for generations.
+8) CULTIST2
+{normal}Some of us had grown to believe it was just an allegory.{stern} I’m looking at you, Jebediah.
+9) CULTIST1
+{proud}But the veil has been lifted! There it is, before us, just as the tablets foretold!
+10) SAM
+{confused}What’s inside that toybox, anyway?
+11) CULTIST1
+No one knows! {surprised}No one has seen it for thousands of years!
+12) CULTIST2
+There are those who believe it contains... toys!
+13) CULTIST1
+{stern}[sarcastic] Oh, right. Like the Creator of All Things is really some fanciful box in the sky filled with magical toys. [to Sam]You’ll have to excuse Obediah. He’s a fundamentalist.
+14) SAM
+Before, it sounded like you were expecting to see Max and me.
+15) CULTIST1
+{proud}Yes! Your coming was foretold in the sacred tablets and scrolls!
+16) CULTIST2
+[as if quoting scripture] “And yea, the Devil Bunny, knowing not his true purpose, would unlock the mysteries of the Toybox.”
+17) MAX
+{realizing}Hey, Sam! {happy}It likes me!
+18) CULTIST1
+{proud}You know what that means, Obediah!
+19) CULTIST2
+{proud}[happy, sing-song] It’s time for the apocalypse!
+20) CULTIST1
+[happy, sing-song] It’s time for the apocalypse!
+21) SAM
+{confused}What’s that toybox got to do with Max?
+22) CULTIST1
+{surprised}He must be blessed with the Gift! It will bestow great power to the one who can use its contents!
+23) CULTIST2
+{proud}[still happy] And don’t forget about the apocalypse!
+24) SAM
+{realizing}You guys seem {sarcastic}awfully chipper about the end times.
+25) CULTIST2
+It’s just nice to be proven right for once!
+26) CULTIST1
+{proud}Yeah, suck on that, Barry Diggory! {stern}Who’s wearing a stupid-looking robe NOW?
+27) SAM
+{confused}Is there anything in your scriptures about how we can defeat Skunkape?
+28) CULTIST1
+{surprised}Just that the box will show you the way!
+29) CULTIST2
+{normal}[as if quoting scripture] “And then the Devil Bunny and His Chubby Sidekick...”
+30) SAM
+{stern}[offended] Hey!
+31) CULTIST2
+{normal}[continuing scripture] “...broke down the wall and slew the Betrayer of Mole Men.”
+32) SAM
+I gotta turn on this machine to stop a gorilla.
+33) CULTIST1
+Down the tunnel, first door to your right.
+34) SAM
+{incredulous}No, I literally have to stop a gorilla.
+35) CULTIST2
+Oh, we know little of your modern inventions. {proud}The Toybox provides all WE need.
+36) SAM
+{sarcastic}You guys stay crazy.
+37) CULTIST1
+{proud}Amen!
+38) MAX
+{incredulous}[sarcastic] Man, the musical numbers have really gone downhill since we’ve been on break.
+39) CULTIST2
+{proud}We love the box so much, we’ve prepared a song about it... [clears throat]
+40) CULTIST2
+[weakly singing] We love the Toybox, ‘cause it’s really great...
+41) 
+Mole Men
+42) 
+Toybox
+43) 
+Max
+44) 
+Skunkape
+45) 
+Rift Generator
+46) 
+Bye

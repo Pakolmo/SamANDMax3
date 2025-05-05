@@ -1,0 +1,110 @@
+﻿1) SUPERBALL
+{stern} Hello Sam, {proud} Mr. President. If you have a moment, you need to be debriefed.
+2) MAX
+[mock surprise] {aloof} No!
+3) MAX
+{happy} Too late!
+4) SUPERBALL
+{normal} This may come as a shock, but our intel indicates that General Skun-ka’pe is actually quite evil.
+5) SUPERBALL
+Questions? Ask me. {proud}I’m here to help.
+6) SUPERBALL
+{stern} Penal. It’s an interdimensional prison for the most dangerous villains in the universe.
+7) SAM
+{suspicious} Okay, what’s the REAL story behind Skunkape?
+8) SUPERBALL
+General Skun-ka’pe is an intergalactic criminal warlord. There’s been a galaxy-wide gorilla hunt in effect ever since he escaped from the Penal Zone.
+9) MAX
+{confused} The what zone?
+10) SAM
+{confused} How are we supposed to get Skunkape back into the Penal Zone?
+11) SUPERBALL
+The United Planets have simple and easily reproducible fail-safe measures in place to handle escaped convicts.
+12) SAM
+{sarcastic} Well, that’s a relief.
+13) SUPERBALL
+All we need to do is open an unstable transdimensional gateway to the Penal Zone and his prisoner’s badge will take care of the rest.
+14) SAM
+Where is Skunkape now?
+15) SUPERBALL
+We can’t track him without his homing beacon, sir. This will require some traditional detective work.
+16) SAM
+{confused} Will reckless and irrational detective work do?
+17) MAX
+{sarcastic} ‘Cause that’s all we know.
+18) SUPERBALL
+I’d recommend starting with some of his known contacts.
+19) SAM
+We have to open an unstable transdimensional gateway?
+20) MAX
+{angry} You must have lost your senses, man! The odds against that are astronomical!
+21) SAM
+{stern} Even if we DID know what that was!
+22) SUPERBALL
+The gateway is the easy part, sirs. Doctor Momma Bosco’s reckless and blasphemous work tearing down the fabric of reality could be useful.
+23) SAM
+What do we need from Momma Bosco?
+24) SUPERBALL
+Her dimensional destabilizer can open a gateway to the Penal Zone. {Stern}Anyone wearing a prisoner’s homing beacon will be returned to justice automatically and scientifically.
+25) SAM
+I didn’t notice Skunkape wearing any kind of badge or homing beacon.
+26) MAX
+{incredulous} Whoa, whoa, calm down. {aloof}We can’t think with all your hysterics.
+27) SUPERBALL
+That’s because he wasn’t wearing one, sir. {Stern}I find it extraordinarily alarming.
+28) SUPERBALL
+Forgive me, Mr. President. But unless you can find General Skun-ka’pe’s homing beacon and place it on him, {Stern} we’re powerless to stop him.
+29) SAM
+What did this homing beacon look like?
+30) SUPERBALL
+It’s a standard issue intergalactic correctional facility inmate’s badge.
+31) SUPERBALL
+{Stern} It can’t be destroyed, so the only way he could’ve gotten rid of it is by giving it to someone else.
+32) SAM
+{suspicious} I’m pretty sure I never heard of a “Department of Homeworld Security,” Agent Superball.
+33) SUPERBALL
+{Stern} It’s explained in books, sir.
+34) MAX
+{realizing} Oh, right.
+35) SUPERBALL
+Established in 1901 by Theodore Roosevelt after President McKinley’s assassination by one of the Insectaurs of the Nebulon Empire.
+36) MAX
+{surprised} I’m President of the United States! {suspicious} Why didn’t I hear anything about it?
+37) SAM
+{sarcastic} Is that why you were hanging out in our office so much last season... {surprised}I mean a few months ago? {suspicious}To protect Max?
+38) SUPERBALL
+[lying] Um... sure.
+39) MAX
+{sarcastic} Wow. I feel really very close to you now, Agent Superball.
+40) SUPERBALL
+Likewise, sir. {stern}A bit TOO close.
+41) MAX
+{devilish} Right in the Penal Zone!
+42) SUPERBALL
+Yes, I get it sir.
+43) SAM
+{enthused} Don’t worry, Superball! We’ll hit that gorilla where it hurts the most!
+44) SAM
+{enthused} Stay vigilant, Superball!
+45) SUPERBALL
+Roger that.
+46) SUPERBALL
+You should start by looking for people he’s associated with.
+47) MAX
+{confused} Freemasons?
+48) SAM
+{suspicious} Or his new “queen,” Stinky!
+49) 
+Skunkape
+50) 
+Gateway?
+51) 
+Momma Bosco
+52) 
+Superball
+53) 
+Bye
+54) 
+Prisoner’s badge?
+55) 
+Homing beacon

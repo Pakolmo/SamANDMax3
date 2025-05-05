@@ -1,0 +1,153 @@
+﻿1) 
+Game paused. Press space to continue.
+2) 
+Back
+3) 
+No
+4) 
+Okay
+5) 
+Yes
+6) 
+Are you sure you want to load your last auto save? Any unsaved progress in your current game will be lost.
+7) 
+Hold <ui_controllerButtonDown.d3dtx> to skip credits
+8) 
+Hold <ui_controllerButtonRight.d3dtx> to skip credits
+9) 
+Hold <ui_mouseButtonRight.d3dtx> to skip credits
+10) 
+Touch & hold to skip credits
+11) 
+The Devil’s Playhouse
+12) 
+Press <ui_controllerButtonUp.d3dtx> to switch between Sam & Max.
+13) 
+Click the badge to switch between Sam & Max.
+14) 
+Tap the badge to switch between Sam & Max.
+15) 
+Press <ui_controllerButtonRight.d3dtx> to activate Max’s teleportation power.
+16) 
+Press <ui_controllerButtonDown.d3dtx> to activate Max’s teleportation power.
+17) 
+Click on the toy telephone to activate Max’s teleportation power.
+18) 
+Tap the toy telephone to activate Max’s teleportation power.
+19) 
+Use <ui_controllerStickRight.d3dtx> to select a destination and press <ui_controllerButtonRight.d3dtx> to teleport there.
+20) 
+Use <ui_controllerStickRight.d3dtx> to select a destination and press <ui_controllerButtonDown.d3dtx> to teleport there.
+21) 
+Click on Stinky’s picture to teleport to her cell phone.
+22) 
+Tap Stinky’s picture to teleport to her cell phone.
+23) 
+Press <ui_controllerButtonLeft.d3dtx> to open Sam’s inventory.
+24) 
+Click on the cardboard box to open Sam’s inventory.
+25) 
+Tap the cardboard box to open Sam’s inventory.
+26) 
+Use <ui_controllerStickLeft.d3dtx> or <ui_controllerStickRight.d3dtx> to select an inventory item. Press <ui_controllerButtonRight.d3dtx> to use it.
+27) 
+Use <ui_controllerStickLeft.d3dtx> or <ui_controllerStickRight.d3dtx> to select an inventory item. Press <ui_controllerButtonDown.d3dtx> to use it.
+28) 
+Click on on an inventory item to use it.
+29) 
+Tap on an inventory item to select it. Tap again to use it.
+30) 
+Use <ui_controllerStickRight.d3dtx> to select an object. Press <ui_controllerButtonRight.d3dtx> to interact with it.
+31) 
+Use <ui_controllerStickRight.d3dtx> to select an object. Press <ui_controllerButtonDown.d3dtx> to interact with it.
+32) 
+Click <ui_mouseButtonLeft.d3dtx> to interact with an object.
+33) 
+Tap on an object to select it. Tap again to interact with it.
+34) 
+Use <ui_controllerStickLeft.d3dtx> to move Sam.
+35) 
+Click <ui_mouseButtonLeft.d3dtx> to move Sam, or hold <ui_mouseButtonLeft.d3dtx> down and drag the mouse in any direction.
+36) 
+Touch and drag to move Sam.
+37) 
+Hold <ui_controllerButtonTriggerLeft.d3dtx> to run.
+38) 
+Hold down <ui_mouseButtonRight.d3dtx> or Shift to run. Double click <ui_mouseButtonLeft.d3dtx> to run to an object or area.
+39) 
+Double tap to run.
+40) 
+Max now has the power of rhinoplasty! Use <ui_controllerStickRight.d3dtx> to select rhinoplasty, then press <ui_controllerButtonRight.d3dtx> to activate it.
+41) 
+Max now has the power of rhinoplasty! Use <ui_controllerStickRight.d3dtx> to select rhinoplasty, then press <ui_controllerButtonDown.d3dtx> to activate it.
+42) 
+Max now has the power of rhinoplasty! Remember that you can click on a psychic toy to activate it.
+43) 
+Max now has the power of rhinoplasty! Remember that you can tap on a psychic toy to activate it.
+44) 
+Use <ui_controllerStickLeft.d3dtx> to look around and select the picture of the potted plant, then press <ui_controllerButtonRight.d3dtx> to copy it.
+45) 
+Use <ui_controllerStickLeft.d3dtx> to look around and select the picture of the potted plant, then press <ui_controllerButtonDown.d3dtx> to copy it.
+46) 
+Click and drag the mouse to look around, or use the WASD keys. Find the picture of the potted plant and click on it to copy it.
+47) 
+Touch and drag to look around. Find the picture of the potted plant and tap on it to copy it.
+48) 
+Now that Max has an image on the rhinoplasty, he can turn into that object. Press <ui_controllerButtonLeft.d3dtx> to activate Max’s shape-shifting power.
+49) 
+Now that Max has an image on the rhinoplasty, he can turn into that object. Click on the lump of Rhinoplasty to activate Max’s shape-shifting power.
+50) 
+Now that Max has an image on the rhinoplasty, he can turn into that object. Tap on the lump of rhinoplasty to activate Max’s shape-shifting power.
+51) 
+The Case
+52) 
+Close
+53) 
+Evidence
+54) 
+Home
+55) 
+Next
+56) 
+Max’s Powers
+57) 
+Prev
+58) 
+Suspects
+59) 
+REMASTER DEVELOPED BY
+60) 
+Randy Tudor
+Jonathan Sgro
+Jake Rodkin
+Dan Connors
+61) 
+Dan Connors
+Randy Tudor
+Jake Rodkin
+Jonathan Sgro
+62) 
+Jake Rodkin
+Randy Tudor
+Jonathan Sgro
+Dan Connors
+63) 
+Randy Tudor
+Jake Rodkin
+Dan Connors
+Jonathan Sgro
+64) 
+Jonathan Sgro
+Randy Tudor
+Jake Rodkin
+Dan Connors
+65) 
+Jonathan Sgro
+Dan Connors
+Randy Tudor
+Jake Rodkin
+66) 
+Dan Connors
+Jonathan Sgro
+Randy Tudor
+Jake Rodkin

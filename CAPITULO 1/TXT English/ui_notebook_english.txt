@@ -1,0 +1,162 @@
+﻿1)
+Una mitad de la Policía Freelance
+2)
+Le gustan: La justicia, el bluegrass, las armas pesadas, los aperitivos
+3)
+No le gustan: Los delincuentes, los comentarios sobre su peso
+4)
+La otra mitad de la Policía Freelance
+5)
+Cosa de conejo hiperquinética
+6)
+Se convirtió en presidente en una elección de emergencia
+7)
+Madre del dueño de la tienda de conveniencia Bosco
+8)
+Científico brillante (fallecido)
+9)
+Murió en una explosión de bicarbonato de sodio y vinagre
+10)
+Uno de los miles de personas que viven bajo la ciudad
+11)
+Frecuentemente desempleado
+12)
+Referencias disponibles a petición
+13)
+Ex agente del Servicio Secreto
+14)
+Nombrado para el gabinete presidencial de Max
+15)
+Alto riesgo de cantar y bailar sin previo aviso
+16)
+Dueño gruñón del restaurante de Stinky
+17)
+Experto en recetas malvadas y demoníacas
+18)
+Muy, muy, horriblemente viejo
+19)
+Dirige el restaurante de Stinky en ausencia del abuelo Stinky
+20)
+Creado a partir de una receta mágica que salió mal
+21)
+Elegido "Dueño de negocio menos digno de confianza" durante cinco años seguidos
+22)
+Vecino en el edificio de oficinas de Sam y Max
+23)
+Temido por matones y agentes de seguros por todas partes
+24)
+Señor de la guerra interestelar
+25)
+Casi definitivamente malvado
+26)
+Buscando juguetes de poder psíquico en la galaxia
+27)
+SAM
+28)
+MAX
+29)
+MAMÁ BOSCO
+30)
+HARRY MOLEMAN
+31)
+AGENTE SUPERBALL
+32)
+ABUELO STINKY
+33)
+STINKY
+34)
+PAPEL DE LINO
+35)
+GENERAL SKUN-KA’PE
+36)
+Detective privado de novela negra
+37)
+LOS COPS
+38)
+Curt 286: Procesamiento más rápido
+39)
+Bob Bell: Experto en comunicaciones
+40)
+Chippy: Generalmente inútil
+41)
+BOB BELL
+42)
+CURT 286
+43)
+CHIPPY
+44)
+Se encarga de las comunicaciones para LOS COPS
+45)
+No se incluyen controles adicionales
+46)
+La tecnología de vanguardia permite a los usuarios realizar llamadas telefónicas salientes
+47)
+Marque *9 para obtener una línea externa
+48)
+12 días desde la última infección por virus
+49)
+Sonido polifónico de dos canales
+50)
+A cargo de la música y la moral general del equipo
+51)
+Teletransportación
+52)
+Visión del futuro
+53)
+Rinoplastia
+54)
+Lectura de la mente
+55)
+Especificaciones de nutrición
+56)
+Teletransporta a Max y a cualquiera que lo toque a cualquier teléfono en funcionamiento.
+57)
+Activs el teléfono de juguete, luego haga clic en el botón con la imagen de la persona que desea llamar. Max solo puede teletransportarse a números de teléfono que ha memorizado.
+58)
+Le da a Max (y a mí, de alguna manera) el poder de ver visiones extrañas del futuro. ¿Son visiones de cosas que deben suceder o de cosas que PUEDEN suceder?
+59)
+Activs las gafas de visión del futuro, luego haz clic en la persona u objeto cuyo futuro desea ver. Algunas personas u objetos tienen múltiples futuros diferentes.
+60)
+Max puede usar la Rinoplastia para cambiar de forma en cualquier objeto inanimado, siempre y cuando pueda encontrar una imagen de ese objeto en algún lugar del mundo.
+61)
+Usa la Rinoplastia en una imagen de un objeto inanimado. La imagen se copiará en el pegamento de Rinoplastia. Luego active el pegamento de Rinoplastia en sí mismo, y Max se convertirá en una versión tridimensional del objeto.
+62)
+Max puede concentrar su energía psíquica a través de la baraja de cartas para leer los pensamientos de los demás. ¿Es ESTA su carta?
+63)
+Activa la baraja de cartas, y luego haz clic en la persona cuya mente deseas leer. Algunas personas tendrán respuestas diferentes.
+64)
+Max puede mirar a través de las Especificaciones de nutrición para descubrir los ingredientes de diferentes objetos en el mundo. También funciona con las personas.
+65)
+Activa las Especificaciones de nutrición, luego haz clic en el objeto o persona que Max deseas examinar.
+66)
+Teléfono móvil de Stinky
+67)
+Anillo de compromiso
+68)
+Juguete de pelota de paddle
+69)
+Tarjeta postal vintage
+70)
+Recibo de la tienda de juguetes
+71)
+Si Stinky fue a algún lugar para reunirse con Skunkape, probablemente tenga el número del lugar en la lista de marcación rápida.
+72)
+Recuerdo del abuelo Stinky de su encuentro con Skunkape. Pero ¿a qué Meesta Pizza fue?
+73)
+Vaso de shot de Meesta Pizza
+74)
+Un anillo de compromiso antiguo con la inscripción "Mala suerte". ¿Dónde podría haber obtenido Skunkape eso?
+75)
+Una tarjeta postal vintage de un lugar que recopila y vende antigüedades y recuerdos de familia. El nombre y la dirección están borrosos.
+76)
+Un juguete no mágico que Skunkape intentó deshacerse. El nombre de la tienda está en el juguete, pero no hay dirección.
+77)
+Skunkape dejó caer parte de este recibo de una tienda de juguetes cuando se apoderó del laboratorio de Momma Bosco. El recibo tiene parte de una dirección, pero no el nombre de la tienda.
+78)
+SOCIEDAD PARA LA PREVENCIÓN DE LA OBSOLESCENCIA DE ORDENADORES79)
+"La Zona Penal"80)
+CASO ACTUAL:
+81)
+El cerebro de LOS COPS
+82)
+Velocidad de reloj de 16 MHz, memoria principal de 32KB, memoria reprimida de 64GB

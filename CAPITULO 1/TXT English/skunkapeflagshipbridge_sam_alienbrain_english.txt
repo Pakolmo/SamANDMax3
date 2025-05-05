@@ -1,0 +1,198 @@
+﻿1) SAM
+{worried} Stay focused, pal.
+2) MAX
+[context: asking a brain if he needs anything] {happy} Like a spine?
+3) SAM
+{enthused} What’s your story, brain? Can we get you anything?
+4) SAM
+{confused} How did you get here?
+5) ALIENBRAIN
+I had found a mysterious toy and was using my strange power over it to amaze and delight the ladies of my village. It was then that Skun-ka’pe’s ship landed. He was intrigued with my power and invited me on board his spaceship.
+6) MAX
+So you just went with him?
+7) SAM
+{confused} What is Skunkape’s evil scheme, anyhow?
+8) ALIENBRAIN
+No less than domination of the entire universe!
+9) SAM
+Did he ever mention anything more specific?
+10) ALIENBRAIN
+He’s traveling from planet to planet searching for all of the Toys of Power. If he ever manages to collect all of them, he’ll be completely unstoppable!
+11) SAM
+How are we supposed to stop Skunkape?
+12) SAM
+Any weaknesses, like he’s powerless against the color yellow? Or he can’t cross running water?
+13) MAX
+{sarcastic} Or he’s powerless against yellow water?
+14) SAM
+{Stern} I know what you’re thinking, Max, and stop it.
+15) ALIENBRAIN
+Apart from that... he always says he has a weakness for potato chips, and he has to eat the whole bag.
+16) SAM
+Yeah, that doesn’t really help us much.
+17) ALIENBRAIN
+Sometimes when he’s in the shower, I could swear I hear him crying.
+18) SAM
+Why did Skunkape come here, to our street?
+19) SAM
+In the future, you seemed to know all about Max’s psychic powers.
+20) ALIENBRAIN
+Yes, Max is one with the Gift! The toys have great power, but only to those of us with a special brain.
+21) SAM
+[conceding] {happy} Well, Max DOES have a special brain.
+22) MAX
+{happy} That’s what all the teachers said! Well, that and {devilish} “Back! Back! I cast thee out, demon!”
+23) ALIENBRAIN
+You must use the Gift wisely, Max, and keep it secret from General Skun-ka’pe! The power is every bit as dangerous as it is wicked awesome.
+24) SAM
+{confused} Why do you think Max’s powers are dangerous? {sarcastic} Apart from the obvious, of course.
+25) MAX
+{confused} That’s it?
+26) ALIENBRAIN
+“That’s it”? It’s a toy that lets you teleport across vast distances in the blink of an eye using only the power of your mind! That’s not cool enough for you?
+27) SAM
+{confused} Where is Skunkape’s collection of magic toys?
+28) SAM
+{confused} It’s just... we saw more toys in Max’s vision.
+29) ALIENBRAIN
+More toys? You must not have found them yet! They must still be somewhere in this city!
+30) SAM
+{confused} What’s that “mole processing” room all about?
+97) SAM
+{confused} What’s that “mole processing” room all about?
+31) ALIENBRAIN
+Isn’t it obvious? General Skun-ka’pe is illegally harvesting mole juice!
+32) MAX
+[context: did you just say...] {confused} Mole juice?
+33) ALIENBRAIN
+The sweat of the mole man is the most valuable substance in the galaxy! I thought all civilized worlds knew that!
+34) SAM
+{sarcastic} Our civilization is still in the internet addiction phase of development.
+35) SAM
+{confused} What does Skunkape want with all that mole man sweat?
+36) ALIENBRAIN
+Some of it he sells as food additives. It gives sandwiches a tangy kick with half the fat of mayonnaise!
+37) ALIENBRAIN
+But most of it he uses as engine fuel and lubricant for this spaceship. He sometimes eliminates half a planet’s entire mole man population just to provide enough fuel and oil to travel one system.
+38) MAX
+{suspicious} Oh, that’s it. Destroying the world, conquering the galaxy: whatever. {angry}But driving a gas-guzzler is where I draw the line.
+39) ALIENBRAIN
+Oh, nothing exceptional. About six-three, raven-haired... I had what you Earthlings call a “runner’s build...”
+40) MAX
+{suspicious} I can read minds in the future, you know.
+41) ALIENBRAIN
+All right, fine. I believe the closest creature you have on your planet is called a “platypus.”
+42) SAM
+{confused} What did you look like back when you had a body?
+43) SAM
+Okay, that’s all the evidence we need! {enthused} Let’s go out and deliver some inter-planetary justice, Max!
+44) ALIENBRAIN
+If you end up cutting out his brain, I call dibs on Skun-ka’pe’s body!
+45) SAM
+{enthused} Stay oxygenated, brain!
+46) ALIENBRAIN
+Uh... you, too!
+47) ALIENBRAIN
+Sam & Max! DO NOT TRUST SKUN-KA’PE! His benevolent facade belies a heart of pure evil!
+48) ALIENBRAIN
+[awestruck] You mean... you wield the Eyes of Yog-Soggoth? But... but that must mean you ALSO have the Gift!
+49) ALIENBRAIN
+Sigh. I’ve already told you! You’ve got to find some way to knock General Skun-ka’pe into the Penal Zone!
+50) SAM
+{confused} What are we supposed to be doing, brain?
+51) MAX
+{aloof} You’ll have to excuse Sam. He’s new at this.
+52) MAX
+{sarcastic}It sounded good, though.
+53) ALIENBRAIN
+Brilliant! I’ll get right on... wait a second, that doesn’t even make sense!
+54) SAM
+{enthused} I just got an idea! Brain, can you modulate the lower quadrant tachyon emitters to emit a two-thirds pulse stream?
+55) MAX
+[protesting, then realizing] {confused} But that would generate a zeta wave strong enough to rip through the Van der Graaf polarity... ahhh! {surprised} Which would create a pocket universe in which Skunkape doesn’t even exist!
+56) ALIENBRAIN
+Don’t ask me. I’ve been watching you two for a while now, and I don’t even understand how you guys survived THIS long.
+57) SAM
+How are we doing so far, brain?
+58) SAM
+{confused} Are you okay, brain?
+59) ALIENBRAIN
+The stress of powering the higher functions of this ship is proving most detergent. Plus I think this broth is starting to go bad.
+60) MAX
+{confused} You’re looking a little green. Even for you.
+61) SAM
+How are we supposed to stop Skunkape now?
+62) ALIENBRAIN
+I don’t know... something about a homing beacon, wasn’t it?
+63) SAM
+Keep it together, brain!
+64) ALIENBRAIN
+Okay! Bye now, Grandma!
+65) 
+Alien Brain
+66) 
+Skunkape
+99) 
+Skunkape
+67) 
+Max
+68) 
+Mole men
+69) 
+Body
+70) 
+Bye
+71) SAM
+[solemn] {sad} He died too soon. I’m assuming. {confused}How are we going to wake him up?
+72) MAX
+{realizing} You must figure out how to do it eventually, Sam, {incredulous} he was awake in the future.
+73) SAM
+{enthused} Well, that’s going to be pretty clever of me. {confused}I wonder how I end up doing it.
+74) SAM
+{enthused} You never realize how disgusting a dried-out alien brain looks until you see it in person.
+75) SAM
+{Sad} The poor brain’s battery has run out.
+76) SAM
+{stern} That power core won’t do any good unless we can think of a way to hook it up.
+77) SAM
+[pickup1] {incredulous} To be fair, Max, your future vision goggles did tip us off.
+78) MAX
+[pickup1] {sarcastic} The giant fanged spaceship with disintegrator eyes was our first clue.
+79) ALIENBRAIN
+Look, I don’t know what planet you’re from...
+80) ALIENBRAIN
+Are you calling me gullible?
+81) SAM
+[pickup1] {sarcastic} Uh, yeah, we kind of already figured that out.
+82) MAX
+[pickup1] [context: that came out of nowhere!] {surprised} Uh... what?
+83) SAM
+[pickup1] {suspicious} This one, actually.
+84) ALIENBRAIN
+...but on my world, if an alien invites you onto his spaceship, you don’t just ASSUME that he’s going to cut out your brain and keep it in a jar.
+85) ALIENBRAIN
+I guess we’re just not that cynical.
+86) ALIENBRAIN
+[pickup3] No, it’s too late for me, I’m afraid. I can only help you put a stop to General Skun-ka’pe’s evil schemes, by controlling the doors and the higher functions of this spaceship.
+87) ALIENBRAIN
+[pickup3] We must work quickly, before... what is IN this broth? Is that oregano? It’s delightful!
+88) ALIENBRAIN
+[pickup3] He said he had candy. How was I supposed to know he’d imprison me here, forcing me to use my psychic powers against my will?
+89) ALIENBRAIN
+He’s been using my strange psychic connection to the Toys of Power to track them throughout the galaxy.
+90) ALIENBRAIN
+Something very powerful pulled me to this spot. I can only guess it was Max’s discovery of the Eyes of Yog-Soggoth and the Future Vision.
+91) ALIENBRAIN
+[pickup3] Well, of course the Toys of Power are useless to him without a gifted brain to control them.
+92) ALIENBRAIN
+[pickup3] General Skun-ka’pe can’t use the Toys of Power himself, so he needs the brain of someone who has the Gift!
+93) ALIENBRAIN
+[pickup3] He forced me to use my powers so much, that I would have died had you not rescued me!
+94) ALIENBRAIN
+[pickup3] If he ever found out you have the Gift, Max, he wouldn’t hesitate to do the same to you!
+95) ALIENBRAIN
+He keeps them on display as a show of power. I’m regaining control over the ship’s functions, so I can reveal them to you. BEHOLD!
+96) ALIENBRAIN
+[pickup3] That’s where General Skun-ka’pe harvests the mole man sweat he uses for spaceship fuel and lubricant!
+98) 
+Are you okay?

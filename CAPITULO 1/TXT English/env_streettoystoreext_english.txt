@@ -1,0 +1,66 @@
+﻿1) SAM
+{stern} Shut up, Max. They’re completely different streets.
+2) MAX
+How are we ever gonna find Skunkape, Sam? {incredulous} All these streets look the same!
+3) HARRY
+{scared} It’s mole men! General Skun-ka’pe is sweating mole men!
+31) HARRY
+{scared} It’s mole men! General Skun-ka’pe is sweating mole men!
+4) MAX
+[annoyed] {suspicious} Uh, SPOILER WARNING, Harry! Sheesh.
+5) MAX
+We can’t leave now! Skunkape’s gonna be here any second!
+6) SKUNKAPE
+{cocky} Ha ha ha! So you have found me at last, Freelance Police! {proud} That will make everything so much easier!
+32) SKUNKAPE
+{cocky} Ha ha ha! So you have found me at last, Freelance Police! {proud} That will make everything so much easier!
+7) SKUNKAPE
+{evil} And you have brought the elusive toy right to me. Yes! YES!
+33) SKUNKAPE
+{evil} And you have brought the elusive toy right to me. Yes! YES!
+8) MAX
+{scared} Uh-oh.
+9) HARRY
+[to Sam & Max] Smash your cell phones! That’s how he controls you!
+10) 
+toy store entrance
+11) SAM
+[pickup1] Just think Max, one of these innocent-looking toys may hold the key to unlocking another terrifying psychic power.
+12) MAX
+[pickup1] I bet it’s the giraffe. I don’t trust anything with a longer neck than mine.
+13) SAM
+[pickup1] I can’t tell... the Nutri-Specs are having a hard time seeing through all the lead paint.
+14) MAX
+[pickup1] Well? Which toy is full of spooky psychic mojo?
+15) SAM
+[pickup1][reading]“Bob’s Toys!s”
+16) MAX
+[pickup1] The extra S is for “Sorry About the Misspelled Sign.”
+17) SAM
+[pickup1] In the future, all these toys are still here, unbought and unloved. That’s kind of sad.
+18) MAX
+[pickup1] It’s their own fault for not being more fun. It’s not a welfare state, Sam.
+19) MAX
+[pickup1] What are we going to do once he shows up?
+20) SAM
+[pickup1] Hmm, I don’t know yet.
+21) 
+window display
+22) 
+sign
+23) SAM
+[pickup3] {realizing} All the clues lead here, but {suspicious} no sign of Skunkape.
+24) SAM
+[pickup3] A-ha! New York’s lackadaisical business hours win again!
+25) SAM
+[pickup3] But Skunkape will be back any second, little buddy. {stern}We’d better be ready for him!
+26) SAM
+[pickup3] Skunkape’s either waiting for this place to open, or coming back with his goons to bust the door down.
+27) SAM
+It’s locked.
+28) 
+enter toy store
+29) 
+investigate
+30) 
+read

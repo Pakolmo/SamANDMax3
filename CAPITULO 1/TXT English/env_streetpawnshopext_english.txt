@@ -1,0 +1,144 @@
+﻿1) MAX
+{sarcastic}The intergalactic warlord business must be in a real slump if Skunkape is having to hit the pawn shops.
+2) SAM
+He’s tracking down magic toys, Max. And he must’ve found something inside if he left gruesome there to guard the door.
+3) MAX
+{realizing}Intrigue!
+4) SAM
+I have GOT to get a better ammo supplier one of these days.
+5) SAM
+{sarcastic}Oldest trick in the book!
+6) SAM
+Just a bunch of food scraps and used cat litter. It’d help if I knew what I was looking for.
+7) SAM
+A-ha! A banana peel!
+8) SAM
+Freelance Police, pal. {Stern}Let us in.
+9) MINION2
+{angry}Go ‘way.
+10) SAM
+Hmm, a vintage postcard from somebody who collects old, rare toys.
+11) MAX
+What’s the address?
+12) SAM
+I don’t know, Max. The name and most of the address are smudged out. This looks like a job for the Crime-Tron!
+13) SAM
+This goes deep into the fiery bowels of America’s filthiest city.
+14) MAX
+You’ve been listening to my inner bathroom narration again.
+15) SAM
+This looks entirely too safe.
+16) SAM
+{stern}[defensive] I could’ve totally carried that heavy thing a lot farther. I just didn’t feel like it.
+17) SAM
+I think that manhole cover is perfect right where it is.
+18) MAX
+Don’t be embarrassed, Sam. {happy}You have an inner strength that outshines your frail and infant-like physical weakness.
+19) SAM
+{stern}[to attract attention] Down with Skunkape! Aliens go home!
+20) MINION2
+{angry}[angry] Hey!
+21) MINION2
+{normal}[calmly] You guys really shouldn’t be littering.
+22) MAX
+{happy}Surprise!
+23) SAM
+Seems like a waste of a perfectly good banana peel.
+24) SAM
+This just goes upstairs to the apartments.
+25) MAX
+{happy}Maybe we should go up and interrogate the locals!
+26) SAM
+{worried}Those people live above a pawn shop, Max. They’ve already suffered enough.
+27) MAX
+My psychic gifts tell me those trash cans are going to be useful later.
+28) SAM
+{enthused}Would you like to know what magical surprises are in your future? My friend here is a trained psychic.
+29) MINION2
+Beat it.
+30) MAX
+{aloof}[Jamaican accent] Call me now for your free reading!
+31) SAM
+{enthused}[tempting] Mmmm... a banana. It’s nature’s cheesecake. Isn’t it time for your lunch break, buddy?
+32) MINION2
+{Angry}Scram.
+33) MINION2
+{angry}And throw that thing away. It’s dangerous.
+34) SAM
+Looks like Skunkape gave us the slip, and left gruesome here to take the fall.
+35) SAM
+{worried}This whole block smells like a sewer.
+36) MAX
+{surprised}[context: don’t blame me!] Don’t look at me!
+37) 
+side door
+38) 
+trash cans
+39) 
+manhole
+40) 
+manhole cover
+41) 
+pawn shop entrance
+42) GRANDPASTINKY
+[pickup1] Jerks.
+43) SAM
+[pickup1] Nah, we should really get going. Plus it smells in there.
+44) 
+Research Assistant
+45) 
+DeSoto
+46) SAM
+65 percent oxygen, 18 percent carbon, 10 percent hydrogen... Well, ain’t that a stitch! These alien gorillas share the same elemental composition as you and me!
+47) MAX
+[pickup1] Speak for yourself, Sam. I have wayyyyyy more bismuth than those stupid apes.
+48) SAM
+[pickup1] [reading] Vitamin B6, vitamin C, potassium, and 82% of the recommended daily allowance of slapstick comedy.
+49) MAX
+[pickup1] Maybe, but the comedy is way, way past its freshness date.
+50) MAX
+[pickup1] What do you think I am, Sam, a rookie? [smug] I believe I know how— whoa!
+51) SAM
+[pickup1] Be careful around this banana peel, Max.
+52) SAM
+[pickup1] [sarcastic] You’d think the one with future vision would’ve seen that coming.
+53) SAM
+[pickup1] [reading] “Hard Luck Pawn Shop.”
+54) MAX
+[pickup1] Oh, good! This is the place where I hocked your baby shoes, your first bicycle, your retainer... They know me here!
+55) SAM
+[pickup1] I think one of us should try to smash through that window with his rock-hard, melon-sized head.
+56) MAX
+[pickup1] And I think one of us should try the door, unless he wants to spend the rest of the day picking plate glass out of his partner’s fluffy white nether regions.
+57) SAM
+[pickup1] No, no, no. See, the idea here is that we SOLVE the puzzles.
+58) 
+banana peel
+59) SAM
+[pickup1] I hate to have to do this, Max, but it’s the only way to save the city!
+60) MAX
+[pickup1] What the heck was THAT all about?
+61) SAM
+[pickup1] No clue, Max. Your future visions need an index or something.
+62) SAM
+Skunkape must’ve tossed it out when he realized it wasn’t magical. We’ve gotta find what store he got it from.
+63) MAX
+A paddle ball toy?
+64) 
+pawn shop sign
+65) 
+pawn shop window
+66) 
+vandalize
+67) 
+steal
+68) 
+enter pawn shop
+69) 
+look at
+70) 
+read
+71) 
+investigate
+72) 
+enter

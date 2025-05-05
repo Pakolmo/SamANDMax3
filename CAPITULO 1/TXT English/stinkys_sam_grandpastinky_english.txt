@@ -1,0 +1,244 @@
+﻿1) GRANDPASTINKY
+{sarcastic}[sarcastic] Oh, good. You two are back to barrage me with your inane questions.
+2) SAM
+We missed you, too, Grandpa Stinky!
+3) MAX
+{incredulous}[non-sequitur] Do the health inspectors ever make you wear a beard net?
+4) GRANDPASTINKY
+What is it NOW?
+5) GRANDPASTINKY
+Was all that really necessary?
+6) SAM
+{normal}Sorry. Max is all short-term memory. I have to bring him back up to speed every once in a while.
+7) MAX
+{surprised}[suddenly surprised to see Sam] Ahhh! Giant talking dog!
+8) SAM
+How’s the diner business treating you?
+9) GRANDPASTINKY
+It’s been all I can do just to turn this back into a place that lures {angry}DECENT people in to eat!
+10) MAX
+{incredulous}The carefully placed rat droppings are one of those flourishes you don’t notice until they’re missing.
+11) GRANDPASTINKY
+Did ye see all the “decorations” she’d scattered about? Rubbish!
+12) STINKY
+{sarcastic}[under her breath] At least THEN we had some customers.
+13) GRANDPASTINKY
+{sarcastic}[sarcastic] Aye, ye really appealed to the lucrative insect and talking statue demographic, I’ll give ye that.
+14) SAM
+It must be great getting back to work with your partner again...
+15) MAX
+{suspicious}I don’t know, he’s kind of cramping my style... {normal}oh, you were talking to HIM. Never mind.
+16) GRANDPASTINKY
+{sarcastic}[sarcastic] Oh, it’s great. She has me working the register and making deliveries. {angry}A master chef like meself, and she won’t even let me in the kitchen!
+17) STINKY
+{sarcastic}[lying] I already explained, Grandpa: I just have to make it... {suspicious}nicer, so that it’s um, worthy of your skills.
+18) GRANDPASTINKY
+{angry}Paaaah!
+19) SAM
+Ah, you and Girl Stinky will be working like a mole-man-oiled machine in no time.
+20) GRANDPASTINKY
+{angry}Mark my words, boyo...
+21) MAX
+{confused}“Boyo”? Do people really say that, Sam?
+22) GRANDPASTINKY
+...that woman will be the death of me!
+23) STINKY
+{sarcastic}[under her breath, suspiciously] That’s the idea.
+24) SAM
+{sarcastic}And burning it down, most likely.
+25) GRANDPASTINKY
+{happy}Skun-ka’pe is a true commander! He’s going places! I could even see him making it to the White House!
+26) GRANDPASTINKY
+{happy}[context: I know who that is!] General Skun-ka’pe? {sarcastic}We’d do well to have MORE of his kind in this neighborhood! {angry}Instead of these shiftless layabouts loitering around until somebody comes to ask them questions.
+27) MAX
+[confidentially] {incredulous}Wow, I never would’ve guessed Grandpa Stinky was so prejudiced against non-player characters.
+28) SAM
+As part of the Freelance Neighborhood Watch, we’re warning everybody about an alien gorilla on the street...
+29) GRANDPASTINKY
+Yes. Well. Your term will be over soon. One way or another.
+30) SAM
+{worried}Just be careful around Skunkape.
+31) GRANDPASTINKY
+{suspicious}[dismissive] Pah, you just don’t trust him because he’s not human!
+32) MAX
+{confused}[context: that doesn’t make sense] Uh... what?
+33) GRANDPASTINKY
+{happy}He’s welcome here anytime. [pointedly]{normal}My granddaughter could do a lot worse than to court {happy}a magnificent specimen like General Skun-ka’pe.
+34) STINKY
+{disgusted}Eww, gross.
+35) SAM
+Can’t you and Girl Stinky just get along?
+36) MAX
+All this negative energy is bad for my psychic balance.
+37) GRANDPASTINKY
+SHE’s the one locking a master chef like ME {angry}out of his own kitchen!
+38) GRANDPASTINKY
+Pah, {happy}it won’t be a problem after I perfect me recipe and make me fortune!
+39) MAX
+{incredulous}That was like 30 years ago!
+40) SAM
+What’s cooking?
+41) GRANDPASTINKY
+{happy}Oh, you’d LIKE me to tell you about me Demon Broth, wouldn’t you? {angry}So you can STEAL ANOTHER PATENT!
+42) SAM
+{incredulous}Come on, you’re not still angry about that, are you?
+43) GRANDPASTINKY
+{normal}And that’s 30 years I could’ve been living off the riches from my gooey molasses tar cake!
+44) SAM
+{normal}Can’t you at least tell us what’s in it?
+45) GRANDPASTINKY
+{suspicious}If you’re so curious about it, pick up a can after {happy}I’ve made a fortune selling it to every grocery store from here to Madagascar!
+46) SAM
+{confused}What’s so great about that demon broth, anyway?
+47) GRANDPASTINKY
+{happy}What’s great is that it’s nutrient rich, {normal}that it’s mine, {angry}and that I’m not letting you two parasites anywhere near it!
+48) GRANDPASTINKY
+{happy}Once I’ve perfected this recipe, I’ll never need to worry about money again!
+49) SAM
+{confused}Isn’t it kind of overkill to have a radio AND a jukebox?
+50) GRANDPASTINKY
+{angry}Anything to drown out the noise my granddaughter calls “music.” It ruins the digestion!
+51) MAX
+{realizing}To be fair, Sam, Stinky’s food DOES require you to be 100% focused on digestion.
+52) SAM
+What station are you listening to?
+53) GRANDPASTINKY
+There be only ONE station worth listenin’ to in the greater New York area: WSNT.
+54) RADIOANNOUNCER
+You’re listening to WSNT: all sea shanties, all the time. Yo ho!
+55) SAM
+Stay cheerful, Grandpa Stinky!
+56) GRANDPASTINKY
+Paaah!
+57) SAM
+{sarcastic}Isn’t that brooch a little fancy-pants for you, Grandpa Stinky?
+58) GRANDPASTINKY
+{angry}‘Tain’t a brooch, you cretin. {happy}It’s a badge of honor! General Skun-ka’pe was so grateful for my donation that he made me his second in command!
+59) SAM
+{confused}Where are his “Outer Dominions,” exactly?
+60) GRANDPASTINKY
+{normal}I don’t know, he told me to command them from inside the diner. {happy}I think it stretches from Alpha Centauri to the Andromeda Galaxy. {normal}And Brooklyn, of course.
+61) SAM
+{worried}That badge looks dangerous, Grandpa Stinky. You’d better let us have it.
+62) GRANDPASTINKY
+{disgusted}[context: preposterous!] Let you have it?! {normal}This badge gives me command over General Skun-ka’pe’s entire Fifth Legion and Outer Dominions! {suspicious}I’m not gonna give it to the likes of you!
+63) SAM
+Can’t we just borrow your badge?
+64) GRANDPASTINKY
+Pah, {angry}even if you WEREN’T a couple of shiftless ape-traitors, my captain ordered me never to take it off. [afterthought]{suspicious}And to keep at least 50 feet away from him at all times, for some reason.
+65) SAM
+How’s life as a multi-millionaire, Grandpa Stinky?
+66) GRANDPASTINKY
+{happy}So you’re starting to regret handing over that ticket, are ye? I almost feel bad, takin’ it from ye, but consider it a life lesson. You’ve got to be a lot more clever to outsmart an old salt like Stinky!
+67) MAX
+What are you gonna do with all the money?
+68) GRANDPASTINKY
+Oh, I already gave it away!
+69) SAM
+{confused}You what?
+70) GRANDPASTINKY
+To General Skun-ka’pe! Haven’t ye heard him talk about the big plans he has for the planet? Inspiring! And since he made me his second in command, I never have to worry about money again!
+71) SAM
+{confused}You just gave away hundreds of million dollars to an alien gorilla?
+72) GRANDPASTINKY
+Ye make it sound like I didn’t get anything in return! {happy}I got this badge, and command of an entire alien fleet!
+73) MAX
+{cocky}That IS pretty cool, Sam.
+74) SAM
+{realizing}[reluctantly] Well, yeah. Especially if he threw in the badge.
+75) SAM
+{stern}Skunkape’s a total dillweed, Grandpa Stinky. We’re placing him under arrest.
+76) MAX
+Well, we’re getting around to it. Eventually.
+77) GRANDPASTINKY
+{angry}[angry] Traitors! I knew it! Just wait until the general hears about this!
+78) SAM
+{confused}You know where he is?
+79) GRANDPASTINKY
+Well... {normal}no. And I’m not supposed to go near him. {angry}But you two are in for a world of hurt once he gets my memo!
+80) SAM
+{stern}General Skunkape’s got you brainwashed, Grandpa Stinky!
+81) MAX
+{angry}[threatening, doesn’t realize how stupid it sounds] Yeah! And he hung you out to dry to avoid further shrinkage!
+82) GRANDPASTINKY
+Pah, {angry}you gentle free-loving hippie peacenik types just can’t appreciate a REAL leader who’s not afraid to use his weapons!
+83) MAX
+{incredulous}[to Sam] He really doesn’t know us at all, does he?
+84) SAM
+This is your last warning, Grandpa Stinky. {stern}We’re taking down the whole Skunkape Army.
+85) SAM
+Okay, {Stern}THIS is your last warning, for real. We’re taking down the whole Skunkape Army!
+86) GRANDPASTINKY
+{angry}Don’t forget who you’re talking to, traitors. As long as I wear this badge, my loyalty is with the general!
+87) SAM
+{worried}I’d better get out of here before things get violent.
+88) SAM
+All hail Skunkape!
+89) GRANDPASTINKY
+[sacred oath/salute] Peace through destruction!
+90) SAM
+We’ve had a sudden change of heart. {enthused}We think Skunkape is awesome!
+91) MAX
+{happy}Where do we sign up to join the Skunkape Army?
+92) GRANDPASTINKY
+{suspicious}[disbelief] You two? In the Skun-ka’pe Army? {happy}Don’t make me laugh!
+93) SAM
+[context: we can do that!] We’re really good at not making people laugh!
+94) MAX
+{normal}Why CAN’T we be in the Skunkape Army?
+95) GRANDPASTINKY
+{normal}For starters, {sarcastic}have ye ever actually HIT anything with that gun of yours, Fido?
+96) SAM
+{stern}[offended] Now that’s just not nice.
+97) MAX
+{angry}Grrrrrrr!
+98) SAM
+{worried}Uh oh. You’ve made him angry.
+99) GRANDPASTINKY
+{normal}And as for Harvey here, {sarcastic}he’ll be a fine soldier until we run into a “you must be this tall to invade this planet” sign.
+100) SAM
+We really want to join the Skunkape Army, Grandpa Stinky! {enthused}Max needs to pay for college.
+101) GRANDPASTINKY
+{Sarcastic}Why don’t you ladies run back to your knitting and scrapbooking {angry}and leave the army work to the REAL men? {normal}And gorillas?
+102) MAX
+{angry}[really angry] That does it!
+103) SAM
+Come on, Grandpa Stinky! {worried}Let us in the Skunkape Army!
+104) GRANDPASTINKY
+{sarcastic}As soon as we drop the weight, height, and competency requirements, I’ll get back to ye.
+105) MAX
+{angry}[angry] Take it back!
+106) SAM
+Settle down, Max.
+107) MAX
+{happy}[excited] Oh! New thing!
+108) GRANDPASTINKY
+{happy}[happy] Not even the Freelance Police can put me in a bad mood today! Do your worst.
+109) GRANDPASTINKY
+[happy] He he, it is pretty cool, isn’t it! {angry}[angry] But don’t touch! And no animals on the counter!
+110) GRANDPASTINKY
+{angry}Ye’d best make this quick, traitors!
+111) 
+Grandpa Stinky
+112) 
+Stinky
+113) 
+Skunkape
+114) 
+Demon broth
+115) 
+Radio
+116) 
+Bye
+121) 
+Bye
+117) 
+Homing beacon
+118) 
+Lottery ticket
+119) 
+We hate Skunkape
+120) 
+We love Skunkape
+122) SAM
+[pickup1] [long, clumsy exposition] Boy, Grandpa Stinky, I sure am glad to see you back working in this diner again after returning from a long time away to work with your granddaughter who is also coincidentally named Stinky.

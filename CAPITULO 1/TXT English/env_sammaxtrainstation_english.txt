@@ -1,0 +1,202 @@
+﻿1) SAM
+The mole people still haven’t cleared away all those old Mimesweeper cartridges.
+2) MAX
+{confused}Clear them away? They’re vintage collector’s items! {sarcastic}Mark my words, Sam: one day, those games are going to be worth PENNIES!
+3) SAM
+Well, we’ll never be able to get past them.
+4) MAX
+Well NOW I just want to know how we get over there!
+5) SAM
+Me, too. Knowing us, it’s probably something clever but overly complicated.
+6) SAM
+Beats me.
+7) MAX
+{confused}So... why did we come over here again?
+8) MAX
+{suspicious}And it’s still warm! {angry}Documentary filmmakers must be lurking nearby!
+9) SAM
+{enthused}Hey look! It’s Momma Bosco’s futuristic power core!
+10) SAM
+It’s a big pile of low-tech audio/video equipment, tossed out like pianos from a falling zeppelin.
+11) SAM
+{normal}That’s a mystery for another episode, Max.
+12) MAX
+{confused}What was it doing down here?
+13) SAM
+{worried}You keep coming up with creepy disaster scenarios that always end up with you eating me, Max. {stern}It’s getting annoying.
+14) MAX
+{suspicious}If you don’t like it, then stop looking so damn tasty.
+15) MAX
+{worried}[disappointed] Awww. I was hoping we’d teleport under an immovable pile of rubble and debris. {happy}Trapped for weeks, we’d be forced to resort to cannibalism just to survive.
+16) SAM
+The problem with this city is you can never find a phone exactly where you need it. {sarcastic}I can see why Sybil wanted to move out.
+17) 
+wall of cartridges
+18) 
+pile o’ junk
+19) 
+sign
+20) 
+mysterious tunnel
+21) 
+inaccessible tunnel
+22) 
+mole man temple
+23) 
+secret passage
+24) 
+ladder to street
+25) SAM
+[pickup1] It’s some kind of mysterious tunnel.
+26) MAX
+[pickup1] I love those!
+27) SAM
+[pickup1] It’s too bad we can’t reach it from here.
+28) SAM
+[pickup1] As much as I’d love to get over there, I’m not quite willing to swim through the muck.
+29) MAX
+[pickup1] C’mon! I dare ya!
+30) SAM
+[pickup1] It’s too far away to see if there’s anything interesting and/or useful in there.
+31) SAM
+[pickup1] Well, I’ll be dipped... according to your spooky nutritional label, this Abe Lincoln head is almost entirely comprised of low-fat banana pudding.
+32) MAX
+[pickup1] Almost?
+33) SAM
+[pickup1] Well, it’s 99 percent pudding, and 1 percent cardboard.
+34) MAX
+[pickup1] Oh, I bet it’s a secret toy surprise!
+35) SAM
+[pickup1][reading] 100 percent banana pudding, with trace amounts of lead...
+36) MAX
+[pickup1] Too soon, Sam.
+37) SAM
+[pickup1] Looks like I owe you five bucks.
+38) MAX
+[pickup1] Why?
+39) SAM
+[pickup1] It turns out that Bosco’s gumballs really WERE made entirely out of medical waste.
+40) MAX
+[pickup1] Hah!
+41) MAX
+[pickup1] Gimme!
+42) SAM
+[pickup1] “Contained” is past tense, buckethead.
+43) SAM
+[pickup1] This soda contained enough caffeine to make a family of tree sloths do the watusi.
+44) SAM
+[pickup1] {suspicious} Foursquare and seven brides ago! {surprised}It’s a sculpture of Abe Lincoln’s head!
+45) MAX
+[pickup1] {suspicious} Sheesh, what will it take to get RID of that guy?
+46) SAM
+[pickup1] {sarcastic} He’s not a real guy, Max. I can’t be positive, {realizing}but it seems to be made out of... pudding?
+47) MAX
+[pickup1] [mild panic] {confused} Is it the annual city-wide pudding festival already? I feel unprepared.
+48) SAM
+[pickup1] {confused} Hmm, I wonder where that “cardboard” reading was coming from...
+49) MAX
+[pickup1] {surprised} Only one way to find out!
+50) SAM
+[pickup1] {stern} Oh, that’s unpleasant...
+89) SAM
+[pickup1] {stern} Oh, that’s unpleasant...
+51) MAX
+[pickup1] {realizing} Look what I found in Puddin’head Lincoln’s prefontal cortex!
+52) SAM
+[pickup1] {surprised} Hellzapoppin, Max! I’m not sure what the heck that is, {suspicious}but I’m sure it’ll be worth the horrible nightmares I’ll be having for the next few months.
+53) MAX
+[pickup1] {sarcastic} Aw, suck it up, ya big baby.
+54) MAX
+[pickup1] {sarcastic} You worry too much, Sam.
+55) SAM
+[pickup1] {confused} I’m not sure what’s more disturbing, {sarcastic} the fact that you lobotomized Puddin’head Lincoln, {suspicious} or that you did it without getting any pudding on your fur.
+56) SAM
+[pickup1] {suspicious} Even though he can’t think, has no arms, and is made of pudding, {realizing}there’s something about Puddin’head Lincoln that’d get my vote.
+57) MAX
+[pickup1][offended]{angry} Don’t vote for Puddin’head... he’s soft on crime. {sarcastic}Get it? Soft? Bwah ha ha ha!
+58) SAM
+[pickup1] {sad} This broken gumball machine always makes me wistfully nostalgic for earlier times.
+59) MAX
+[pickup1] {realizing} Like that time we smashed this gumball machine! That was great!
+60) SAM
+[pickup1] {suspicious} One of Bosco’s discarded “Giga Guzzler” soda cups.
+61) MAX
+[pickup1][wistfully] {happy} The only drink affected by the position of the moon...
+62) MAX
+[pickup1] Well, to be fair, they’ve been sub-contracting to the mutant alligators union. Those guys are notorious loafers.
+63) SAM
+[pickup1] Sheesh, the mole people are taking their own sweet time getting our subway station back into shape.
+64) SAM
+[pickup1] I’m starting to think our train’s not coming, Max.
+65) MAX
+[pickup1] It’s a good thing people generally wait for us to come talk to them before they do anything.
+66) MAX
+[pickup1] Oh boy! Whose head do we explode first?
+67) SAM
+[pickup1] [notices something halfway through] Not that kind of scan— what the?!
+68) SAM
+[pickup1] Some secret passage. It’s just a bunch of junk, like this old scanner.
+69) SAM
+[pickup1] {sarcastic} If I threw it over there, I might break Stinky’s phone. {angry}THEN where would I be?
+70) MAX
+[pickup1] {sarcastic} Stuck in a dead-end job with an annoying partner?
+71) SAM
+[pickup1] {surprised} Yeah, but without a phone!
+72) SAM
+[pickup1] {angry} Rosemary keeps wandering off and leaving this thing behind.
+73) CONSTRUCTIONWORKER
+Hey, either o’ you guys seen Charlie? He was s’posed to be back by now.
+74) SAM
+[pickup1] I’m not supposed to bother the construction workers when they’re on break. Which is always.
+75) 
+soda cup
+76) 
+mole man construction worker
+77) 
+look at
+95) 
+look at
+78) 
+Lincoln sculpture
+79) 
+Puddin’head Lincoln
+80) 
+baby carriage
+81) 
+gumball machine
+82) 
+inspect
+83) 
+reminisce about
+84) 
+contemplate
+99) 
+contemplate
+85) 
+consider
+86) 
+enter
+87) 
+enter
+88) 
+consult
+90) 
+intriguing pile o’ junk
+91) SAM
+[pickup1] [panic] Don’t look at it, Max! Stand clear of its unholy power!
+92) MAX
+[pickup1] Hey, look, Sam! It likes me!
+93) SAM
+[pickup1] [context: talking about a vision] That one was kind of hazy. It must happen a lot later.
+94) 
+Sybil’s boxes
+96) SAM
+{sarcastic} It’s a good thing Sybil packed all her junk into these boxes for safe-keeping.
+97) SAM
+{sarcastic} It’s a good thing Sybil packed all her junk into these boxes for safe-keeping.
+98) 
+investigate
+100) 
+manhandle
+101) 
+crack

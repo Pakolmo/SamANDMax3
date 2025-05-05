@@ -1,0 +1,154 @@
+﻿1) 
+Juego pausado. Pulsa la barra espaciadora para continuar.
+2) 
+Atrás
+3) 
+No
+4) 
+Aceptar
+5) 
+Sí
+6) 
+¿Estás seguro de que quieres cargar tu última partida guardada automáticamente? Se perderá cualquier progreso no guardado en tu partida actual.
+7) 
+Mantén pulsado <ui_controllerButtonDown.d3dtx> para saltar los créditos
+8) 
+Mantén pulsado <ui_controllerButtonRight.d3dtx> para saltar los créditos
+9) 
+Mantén pulsado <ui_mouseButtonRight.d3dtx> para saltar los créditos
+10) 
+Toca y mantén pulsado para saltar los créditos
+11) 
+The Devil's Playhouse
+12) 
+Pulsa <ui_controllerButtonUp.d3dtx> para cambiar entre Sam y Max.
+13) 
+Haz clic en la insignia para cambiar entre Sam y Max.
+14) 
+Toca la insignia para cambiar entre Sam y Max.
+15) 
+Pulsa <ui_controllerButtonRight.d3dtx> para activar el poder de teletransporte de Max.
+16) 
+Pulsa <ui_controllerButtonDown.d3dtx> para activar el poder de teletransporte de Max.
+17) 
+Haz clic en el teléfono de juguete para activar el poder de teletransporte de Max.
+18) 
+Toca el teléfono de juguete para activar el poder de teletransporte de Max.
+19) 
+Usa <ui_controllerStickRight.d3dtx> para seleccionar un destino y pulsa <ui_controllerButtonRight.d3dtx> para teletransportarte allí.
+20) 
+Usa <ui_controllerStickRight.d3dtx> para seleccionar un destino y pulsa <ui_controllerButtonDown.d3dtx> para teletransportarte allí.
+21) 
+Haz clic en la imagen de Stinky para teletransportarte a su teléfono móvil.
+22) 
+Toca la imagen de Stinky para teletransportarte a su teléfono móvil.
+23) 
+Pulsa <ui_controllerButtonLeft.d3dtx> para abrir el inventario de Sam.
+24) 
+Haz clic en la caja de cartón para abrir el inventario de Sam.
+25) 
+Toca la caja de cartón para abrir el inventario de Sam.
+26) 
+Usa <ui_controllerStickLeft.d3dtx> o <ui_controllerStickRight.d3dtx> para seleccionar un objeto del inventario. Pulsa <ui_controllerButtonRight.d3dtx> para usarlo.
+27) 
+Usa <ui_controllerStickLeft.d3dtx> o <ui_controllerStickRight.d3dtx> para seleccionar un objeto del inventario. Pulsa <ui_controllerButtonDown.d3dtx> para usarlo.
+28) 
+Haz clic en un objeto del inventario para usarlo.
+29) 
+Toca un objeto del inventario para seleccionarlo. Toca de nuevo para usarlo.
+30) 
+Usa <ui_controllerStickRight.d3dtx> para seleccionar un objeto. Pulsa <ui_controllerButtonRight.d3dtx> para interactuar con él.
+31) 
+Usa <ui_controllerStickRight.d3dtx> para seleccionar un objeto. Pulsa <ui_controllerButtonDown.d3dtx> para interactuar con él.
+32) 
+Haz clic con <ui_mouseButtonLeft.d3dtx> para interactuar con un objeto.
+33) 
+Toca un objeto para seleccionarlo. Toca de nuevo para interactuar con él.
+34) 
+Usa <ui_controllerStickLeft.d3dtx> para mover a Sam.
+35) 
+Haz clic con <ui_mouseButtonLeft.d3dtx> para mover a Sam, o mantén pulsado <ui_mouseButtonLeft.d3dtx> y arrastra el ratón en cualquier dirección.
+36) 
+Toca y arrastra para mover a Sam.
+37) 
+Mantén pulsado <ui_controllerButtonTriggerLeft.d3dtx> para correr.
+38) 
+Mantén pulsado <ui_mouseButtonRight.d3dtx> o Shift para correr. Haz doble clic con <ui_mouseButtonLeft.d3dtx> para correr hacia un objeto o área.
+39) 
+Toca dos veces para correr.
+40) 
+¡Max ahora tiene el poder de la rinoplastia! Usa <ui_controllerStickRight.d3dtx> para seleccionar la rinoplastia, luego pulsa <ui_controllerButtonRight.d3dtx> para activarla.
+41) 
+¡Max ahora tiene el poder de la rinoplastia! Usa <ui_controllerStickRight.d3dtx> para seleccionar la rinoplastia, luego pulsa <ui_controllerButtonDown.d3dtx> para activarla.
+42) 
+¡Max ahora tiene el poder de la rinoplastia! Recuerda que puedes hacer clic en un juguete psíquico para activarlo.
+43) 
+¡Max ahora tiene el poder de la rinoplastia! Recuerda que puedes tocar un juguete psíquico para activarlo.
+44) 
+Usa <ui_controllerStickLeft.d3dtx> para mirar alrededor y seleccionar la imagen de la planta en maceta, luego pulsa <ui_controllerButtonRight.d3dtx> para copiarla.
+45) 
+Usa <ui_controllerStickLeft.d3dtx> para mirar alrededor y seleccionar la imagen de la planta en maceta, luego pulsa <ui_controllerButtonDown.d3dtx> para copiarla.
+46) 
+Haz clic y arrastra el ratón para mirar alrededor, o usa las teclas WASD. Encuentra la imagen de la planta en maceta y haz clic en ella para copiarla.
+47) 
+Toca y arrastra para mirar alrededor. Encuentra la imagen de la planta en maceta y tócala para copiarla.
+48) 
+Ahora que Max tiene una imagen en la rinoplastia, puede transformarse en ese objeto. Pulsa <ui_controllerButtonLeft.d3dtx> para activar el poder de cambio de forma de Max.
+49) 
+Ahora que Max tiene una imagen en la rinoplastia, puede transformarse en ese objeto. Haz clic en el montón de rinoplastia para activar el poder de cambio de forma de Max.
+50) 
+Ahora que Max tiene una imagen en la rinoplastia, puede transformarse en ese objeto. Toca el montón de rinoplastia para activar el poder de cambio de forma de Max.
+51) 
+El caso
+52) 
+Cerrar
+53) 
+Pruebas
+54) 
+Inicio
+55) 
+Siguiente
+56) 
+Poderes de Max
+57) 
+Anterior
+58) 
+Sospechosos
+59) 
+REMASTER DESARROLLADO POR
+60) 
+Randy Tudor
+Jonathan Sgro
+Jake Rodkin
+Dan Connors
+61) 
+Dan Connors
+Randy Tudor
+Jake Rodkin
+Jonathan Sgro
+62) 
+Jake Rodkin
+Randy Tudor
+Jonathan Sgro
+Dan Connors
+63) 
+Randy Tudor
+Jake Rodkin
+Dan Connors
+Jonathan Sgro
+64) 
+Jonathan Sgro
+Randy Tudor
+Jake Rodkin
+Dan Connors
+65) 
+Jonathan Sgro
+Dan Connors
+Randy Tudor
+Jake Rodkin
+66) 
+Dan Connors
+Jonathan Sgro
+Randy Tudor
+Jake Rodkin
+

@@ -1,0 +1,96 @@
+﻿1) FLINT
+{happy}Hiya, furry pals!
+2) SAM
+Hey, it’s Flint Paper!
+3) MAX
+{happy}Maybe Flint can help us with our case, Sam!
+4) FLINT
+Any time, fellas! {normal}Except now. {happy}Would you look at that, Stinky’s prize-winning spaghetti! A private dick’s gotta eat, you know.
+5) FLINT
+{disgusted}Gimme a break, Sam. I haven’t eaten a thing since that yak’s blood on my Himalayan caper. And some gummy worms. {normal}Come back when I’m done eating, would ya?
+6) SAM
+{confused}Do you know anything about a missing power core, Flint?
+7) SAM
+{confused}Any idea when you’ll be done eating, Flint?
+8) FLINT
+{worried}Heck, I don’t know, Sam. Some time in the future, all right?
+9) FLINT
+{angry}It’d be a lot sooner if ya stop asking me, {normal}okay, champ?
+10) MAX
+{confused}How about now?
+11) FLINT
+{happy}What’s the word, pals?
+12) SAM
+See ya, Flint.
+13) FLINT
+{disgusted}Hey, do my eyes look puffy to you guys?
+14) FLINT
+I think I better go see Doris. {normal}She’s my allergy specialist. Man, is she gonna blow her stack when she hears about those peanuts...
+15) MAX
+Always.
+16) SAM
+{confused}Do you know anything about a power core?
+17) FLINT
+Yeah, Momma Bosco hired me to find it. {arrogant}Standard issue “Find the secret invention for the scientist before it falls into the wrong hands” stuff. {normal}Even you guys could do it! Err, no offense.
+18) SAM
+{sarcastic}Oh, yeah. We totally know where it is.
+19) MAX
+{aloof}We were just testing you.
+20) FLINT
+{arrogant}But I’m in the middle of a case that’s {angry}one hell of a lot bigger!
+21) MAX
+{sarcastic}They serve so many different kinds of toxins here, they’ve got their own menu.
+22) SAM
+Don’t be too hard on Stinky for almost poisoning you. {sarcastic}I’m sure it was an honest mistake.
+23) FLINT
+Nice try, fellas, {worried}but she’s on to me. I know it. I’m getting too close on this big case of mine, {angry}and she’s trying to rub me out!
+24) SAM
+{confused}What’s this big case you’re working on?
+25) FLINT
+{arrogant}Right, some crazy story you’d have to be an idiot to believe!
+26) FLINT
+Get ready to have your {angry}furry minds blown, pals, because this one goes WAY back. {normal}Think about it: what do we REALLY know about this Stinky doll?
+27) MAX
+{incredulous}[deflated] Right. Idiot.
+28) FLINT
+So I started digging around, and I found THIS out back.
+29) SAM
+[reading] “Stinky my queen, I cannot wait any longer. I will be making my grand appearance this afternoon. You say they won’t trust me because I’m not human, but damn the consequences! We must start phase 2 of the operation NOW. I will call your private number with the details. Love, S.”
+30) FLINT
+{normal}An inhuman monster, {disgusted}in bed with Stinky, planning something big this afternoon, {normal}name starts with S. {arrogant}You know what that means.
+31) SAM
+{surprised}Skunkape!
+44) 
+Skunkape
+32) FLINT
+{disgusted}Oh. Well, yeah, that could be it. {worried}I was thinking it was you, Sam!
+33) MAX
+{incredulous}[scolding] You think you know a guy. {aloof}I’m not angry, Sam, just very disappointed.
+34) SAM
+[reading] “P.S. Just to make sure... your private number is still 212-555-8942, isn’t it?”
+35) FLINT
+{happy}Good luck, fellas. I’ll let you know if I find anything else!
+36) FLINT
+Just that he tried to hire me to find some missing toys for him. {worried}I’m too busy with my other case, so I said nothing doing.
+37) SAM
+{confused}What do you know about this creep General Skunkape?
+38) MAX
+{worried}I can’t lie to Flint Paper, Sam!
+39) FLINT
+{normal}You wouldn’t know anything about these toys, would you?
+40) SAM
+{normal}I can, little buddy. {sarcastic}[to Flint]Nope, not a thing.
+41) 
+Stinky
+42) 
+Power core
+43) 
+Big case
+45) 
+Bye
+46) SAM
+[pickup1] Well, the story is that Grandpa Stinky actually created her using some kind of demonic spell, and she’s been running the diner ever since.
+47) MAX
+[pickup1] Sam, I may be psychic now, but I’ve got no idea how we’re going to find out Stinky’s private phone number.
+48) SAM
+[pickup1] [context: don’t be silly!] Come on, Max. If Stinky’s in cahoots with General Skunkape, it may have something to do with that missing power core.

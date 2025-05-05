@@ -1,0 +1,248 @@
+﻿1) MOMMABOSCO
+What can I do for you boys?
+2) MOMMABOSCO
+{proud}Thanks for getting rid of those gorillas, Sam & Max!
+3) MOMMABOSCO
+How can I help, Sam & Max?
+4) SUPERBALL
+Doctor Momma Bosco has been granted the fullest security clearance possible for a dead citizen, Mr. President.
+5) SAM
+See you on the other side, Doctor Momma Bosco!
+6) MOMMABOSCO
+Not if I can get this destabilizer working.
+7) SAM
+{confused}Do you happen to know anything about a “power core”?
+8) MOMMABOSCO
+{stern}[suspicious] Where did you hear about that?
+9) MAX
+{incredulous}[bad liar] From mag...a...zines? About... pam...phlets?
+10) MOMMABOSCO
+[still suspicious] Hmpf. I had a power core stolen from my lab!
+11) SAM
+{confused}Who do you think stole your power core?
+12) MOMMABOSCO
+{stern}No idea. I’ve got a, {sarcastic}um, real detective on the case, though.
+13) SAM
+{sarcastic}It’s a good thing we’re trying to steal it, too, or we’d be offended by that remark.
+14) MOMMABOSCO
+{Stern}[ignoring Sam] Couldn’t have come at a worse time, either. {normal}I’ve almost got my dimensional destabilizer working, but the dimensional rift generator is useless without power.
+15) MAX
+{sarcastic}Man, if I had a nickel for every time I didn’t understand what you just said.
+16) SAM
+{confused}What did this power core thing look like?
+17) MOMMABOSCO
+{sarcastic}[gently mocking] What a question! {sarcastic}It looks like a power core! {enthused}You know! {happy}That’s like asking what a Banderpoont particle emitter looks like!
+18) SAM
+Did you hear about the alien gorilla that landed on our street?
+19) MOMMABOSCO
+Yeah, it came through on the News Alert. Something about sharing alien technology and ending all poverty and disease on Earth, right?
+20) MAX
+{worried}Well... yeah, {incredulous}but that’s just ONE PART of why he’s evil!
+21) MOMMABOSCO
+I’m sure he’s fine. {proud}I’m even gonna ask him if he can help me finish my dimensional destabilizer!
+22) SAM
+{stern}I’d be careful around that General Skunkape.
+23) MOMMABOSCO
+{sarcastic}You two don’t trust anybody, do you?
+24) SAM
+[defensive] What do you mean by that?
+25) MAX
+[defensive] {angry}Yeah, what are you trying to pull?
+26) MOMMABOSCO
+Just wait till he helps me with my inventions, {happy}then you’ll see he’s not such a bad guy.
+27) SAM
+{confused}What were General Skunkape’s minions doing in here?
+28) MOMMABOSCO
+{stern}They came in and took over the place right after I told him about my dimensional destabilizer!
+29) SAM
+{Stern}Well, that was uncalled for.
+30) MAX
+{sarcastic}Yeah, I mean, sure, she’s really boring about it, but that’s no excuse for violence.
+31) MOMMABOSCO
+I’m pretty sure he was trying to keep anybody from using my inventions against him!
+32) SAM
+{confused}Did Skunkape give you any idea what he’s got planned?
+33) MOMMABOSCO
+Nope, he just told his guards to make sure nobody found out about my inventions.
+34) SAM
+How’s the afterlife treating you, Mrs. Momma Bosco?
+35) MOMMABOSCO
+{stern}That’s DOCTOR Momma Bosco. {proud}I spent the summer getting my Ph.D. online.
+36) MAX
+{suspicious}I started to do that, but I kept {incredulous}getting distracted by all the funny cat pictures.
+37) SAM
+{stern}You don’t know how to use computers, Max. {normal}What’s your doctorate in, Momma Bosco?
+38) MOMMABOSCO
+{happy}Bridging the transdimensional gap to return spirits to their corporeal form. {proud}My master’s was in funny cat pictures.
+39) SAM
+{worried}Sounds like you’re tired of being a ghost.
+40) MOMMABOSCO
+Oh, it’s not all bad. {proud}I’m getting better at apparating. {stern}And now I don’t leave a trail of ectoplasmic slime behind every time I leave the room.
+41) MAX
+{sarcastic}That’s better than Sam can say.
+42) MOMMABOSCO
+{normal}But I’ll be glad when I finish my dimensional destabilizer and get my body back. I miss touching things.
+43) MAX
+{realizing}Yeah, touching is my third favorite thing to do to things.
+44) MAX
+{suspicious}In case anyone was curious, second is “licking.”
+45) SAM
+[trying to be polite] The new lab is, {confused}um, nice.
+46) MOMMABOSCO
+Thanks for saying so, but it needs work.{Stern} Do you have any idea how hard it is to find abandoned real estate in Manhattan that’s not already haunted?
+47) MAX
+{realizing}It IS a diers’ market.
+48) MOMMABOSCO
+{normal}I had to start reading the exorcism listings in the paper just to find a lead on THIS place!
+49) SAM
+{confused}Why didn’t you just set up your lab in the inconvenience store?
+50) MOMMABOSCO
+{Stern}Not everything happens on your street, Sam. {normal}Besides, that place isn’t zoned for mixed-use haunting.
+51) MOMMABOSCO
+They’ve got guys from the city coming by every day to evict me from THIS place. {stern}Only way to get rid of them is by making the walls bleed.
+52) SAM
+{confused}What’s the deal with Harry Moleman?
+53) MOMMABOSCO
+I don’t know. {sarcastic}Some things science can’t explain. If you’re asking why he’s here, he’s been pestering me to be my research assistant or something.
+54) HARRY
+[ominous] The friendly spirit says she can only speak through her trusted medium!
+55) MAX
+{worried}Give it up, Harry.
+56) HARRY
+{sad}[dejected] Sorry.
+57) SAM
+Doctor Momma Bosco, {enthused}your lab is actually pretty impressive! {incredulous}Bosco’s inventions always kind of...{confused} well...
+58) MAX
+{aloof}[context: finishing Sam’s sentence] Sucked.
+59) MOMMABOSCO
+[tactful] Yes. Well. {enthused}He was always a special boy.
+60) SAM
+{confused}Have you heard from Bosco?
+61) MOMMABOSCO
+He’s sent a few postcards. He and that {sarcastic}Bluster Blaster machine {normal}finally made it to Las Vegas.
+62) SAM
+I didn’t know Bosco liked gambling.
+63) MOMMABOSCO
+He said he’s got a “system.” {sarcastic}Plus fifteen billion dollars left over from the money that some idiots gave him for his inventions.
+64) SAM
+{stern}[offended] I’m sure those idiots had very good reasons.
+65) SAM
+You’re a doctor. {confused}Can you tell us anything about late-onset male psychic dysfunction?
+66) MOMMABOSCO
+Psychic powers? {sarcastic}It’s probably a melon-sized, deadly tumor.
+67) MAX
+{confused}“Probably”?
+68) MOMMABOSCO
+{normal}Well, it could be mind worms, of course, {sarcastic}but I don’t want to be alarmist. {stern}Most likely it’s the deadly tumor.
+69) SAM
+{enthused}Couldn’t Max just have the perfectly safe kind of non-lethal psychic powers?
+70) MOMMABOSCO
+[lying unconvincingly] Oh, it’s Max? Uh... {sarcastic}I’m sure it’s nothing to worry about then.
+71) MOMMABOSCO
+{normal}Could you, uh, have him stand a little farther away from my machines, though?
+72) MAX
+{suspicious}That’s why you’ll have to record it for me, Sam. Duh!
+73) SAM
+{confused}Are these psychic powers dangerous for Max at all?
+74) MOMMABOSCO
+Well... {sarcastic}probably not, if he’s careful and only uses them responsibly.
+75) SAM
+{incredulous}And what if it’s Max?
+76) MOMMABOSCO
+{normal}Well, he’ll over-work his brain so much that it catches fire and explodes.
+77) MAX
+{realizing}Oh, I have got to see that!
+78) SAM
+{stern}You CAN’T see that, Max. {worried}Your brain will catch fire and explode.
+79) SAM
+{confused}What does that dimensional destabilizer do, exactly?
+80) MOMMABOSCO
+{enthused}It opens a temporary gateway between one dimension and the next, which can pull someone from the spirit world into the real world...
+81) SAM
+{realizing}Or from the real world to an interdimensional prison?
+82) MOMMABOSCO
+{normal}I suppose so. Do you think that’s what Skun-ka’pe was trying to keep people from finding?
+83) MAX
+{sarcastic}I dunno, my money’s still on the big screen thing. {happy}That’s just cool.
+84) MOMMABOSCO
+Well, it’s worth a try. {proud}I built a remote control so you can open the gateway anywhere.
+123) MOMMABOSCO
+Well, it’s worth a try. {proud}I built a remote control so you can open the gateway anywhere.
+85) MOMMABOSCO
+{normal}It’ll only stay open a few minutes, so you’ve got to make sure you do it right. {enthused}Anybody holding something tuned to the alternate dimension will get sucked right in.
+124) MOMMABOSCO
+{normal}It’ll only stay open a few minutes, so you’ve got to make sure you do it right. {enthused}Anybody holding something tuned to the alternate dimension will get sucked right in.
+86) SAM
+Max is confused about how that dimensional destabilizer works.
+87) MOMMABOSCO
+You just have to find Skun-ka’pe and open up the gateway. {sarcastic}If he’s holding anything tuned to that dimension, he’ll get sucked right in.
+88) MOMMABOSCO
+The remote control for it is right over there.
+89) SAM
+{confused}Can’t we just use that destabilizer thing to open up another gateway?
+90) SAM
+{confused}How are we going to stop Skunkape now?
+91) SUPERBALL
+With the Penal Zone destroyed, we have no way to return him to prison.
+92) MOMMABOSCO
+[thinking] Unless... {enthused}you could make another Penal Zone somewhere else.
+93) SAM
+{suspicious}I smell a convoluted plan coming on!
+94) MOMMABOSCO
+Before I made the destabilizer, I was working on a dimensional rift generator. {proud}It doesn’t open a gateway to another dimension, it actually CREATES another dimension!
+95) SAM
+{confused}How does this rift generator work?
+96) MOMMABOSCO
+You just plug it in and press the pedal. {proud}After that, it works just like the destabilizer: {normal}if Skun’ka-pe is wearing that homing beacon, he’ll get pulled into the new dimension.
+97) MOMMABOSCO
+The trick is finding enough power for it.
+98) MOMMABOSCO
+It’s over there {sarcastic}with the other inventions that are a deadly radiation hazard.
+99) MOMMABOSCO
+{normal}Only problem is, you’ll have to find a nexus of ley lines somewhere for it to work,{enthused} a place where the border between reality and nonsense has broken down...
+100) SUPERBALL
+{proud}There happens to be one of those in the city, ma’am. It’s at 1313 Straight Street.
+101) MAX
+{confused}That address sounds familiar.
+102) SAM
+{realizing}That’s OUR building!
+103) SAM
+{confused}So you’re suggesting we trap Skunkape in our own building?
+104) MOMMABOSCO
+Well, kind of. {proud}You’d actually be turning your building into an alternate dimension, {sarcastic}so it won’t really exist anymore.
+105) SUPERBALL
+I’m afraid it’s the only way, sirs.
+106) MAX
+On the plus side, if it doesn’t exist, {happy}think of how much money we’ll save on rent!
+107) SAM
+We don’t pay rent, Max.
+108) SUPERBALL
+Not now that the Penal Zone has been destroyed.
+109) SUPERBALL
+You’ll have to use Momma Bosco’s rift generator to create a new Penal Zone.
+110) SAM
+{confused}Do you have any more of those power cores lying around?
+111) MOMMABOSCO
+No, I never did get that back! {Stern}But even so, it would have taken a hundred of those things to give enough power to a dimensional rift generator!
+112) MAX
+{realizing}With a side order of hand-waving technical nonsense, {happy}extra crispy.
+113) 
+Momma Bosco
+114) 
+Lab
+115) 
+Harry Moleman
+116) 
+Bosco
+117) 
+Skunkape
+118) 
+Power core
+119) 
+Max
+120) 
+Destabilizer
+121) 
+Rift generator
+122) 
+Bye

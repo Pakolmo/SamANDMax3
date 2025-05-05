@@ -1,0 +1,188 @@
+﻿1) 
+chisme
+2) 
+con
+3) 
+activar
+4) 
+sacar
+5) 
+mando a distancia
+6) 
+baliza de localización
+7) 
+teléfono móvil de Stinky
+8) 
+billete de vacaciones fuera del mundo
+9) 
+boleto de lotería
+10) 
+casco de obra
+11) 
+caldo demoníaco
+12) 
+cables de arranque
+13) 
+núcleo de energía
+14) 
+vaso de chupito
+15) 
+recibo
+16) 
+juguete de pala y pelota
+17) 
+generador de grietas
+18) 
+postal antigua
+19) 
+cáscara de plátano
+20) 
+pistola de Sam
+21) 
+cultista Hombre Topo
+22) 
+hombre Topo Extraño
+23) 
+papel Flint
+24) 
+Stinky
+25) 
+General Skun-ka’pe
+26) 
+Abuelo Stinky
+27) 
+Mamá Bosco
+28) 
+Harry Moleman
+29) 
+teléfono de juguete
+30) 
+baraja de cartas
+31) 
+Max
+32) 
+Rinoplastia
+33) 
+Visión del Futuro
+34) 
+Lectura Mental
+35) 
+Ventriloquia
+36) 
+hablar con
+37) 
+hablar con
+38) 
+ranura de objeto
+39) 
+escáner
+40) 
+poner
+41) 
+en
+42) 
+poner {x} en escáner
+43) 
+Sam
+44) 
+cosa brillante
+45) 
+anillo de compromiso
+46) 
+Asistente de Investigación
+47) 
+Asistente de Investigación
+48) 
+Asistente de Investigación
+49) 
+DeSoto
+50) 
+Chippy
+51) 
+Curt 286
+52) 
+Bob Bell
+53) 
+Crime-Tron
+54) 
+Mapa de la ciudad
+55) 
+Agente Superball
+56) 
+disparar {y}
+57) 
+usar
+58) 
+mirar
+59) 
+recoger
+60) 
+consultar el mapa de la ciudad
+61) 
+conducir a algún lugar
+62) 
+Volante
+63) 
+hacer una llamada telefónica
+64) 
+hablar con los COPS
+65) 
+nota misteriosa
+66) 
+Leer
+67) 
+gafas de Nutrición
+68) 
+Examinar
+69) 
+Hablar con los COPS
+70) 
+escáner
+71) 
+objetos
+72) 
+usar
+73) 
+con
+74) 
+escanear
+75) 
+añadir objeto
+76) 
+quitar objeto
+77) 
+atrás
+78) 
+dar {x} a {y}
+79) 
+transformarse en planta en maceta
+80) 
+transformarse en bazuca espacial
+81) 
+transformarse en nueva forma
+82) 
+describir
+83) 
+activar Lata de Nueces
+84) 
+activar Rollos de Película
+85) 
+activar Visión del Futuro
+86) 
+activar Lectura Mental
+87) 
+activar Gafas de Nutrición
+88) 
+desactivar Rinoplastia
+89) 
+activar Rinoplastia
+90) 
+activar Teletransporte
+91) 
+activar Ventriloquia
+92) 
+atrás
+93) 
+destornillador
+94) 
+manzana

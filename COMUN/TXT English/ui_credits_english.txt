@@ -1,0 +1,519 @@
+﻿1) 
+EPISODE 1: THE PENAL ZONE
+2) 
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^REMASTERED RELEASE
+^^
+PRODUCED AND DEVELOPED BY
+SKUNKAPE GAMES
+
+Dan Connors
+Jake Rodkin
+Jonathan Sgro
+Randy Tudor
+
+
+LIGHTING
+Brett Rogstad
+
+CHOREOGRAPHY
+Eric Parsons
+Scott Hammack
+Christopher Rieser
+Jason Latino
+
+PROGRAMMING
+Randy Tudor
+Jasper St. Pierre
+Tim Ingram
+
+ART
+Jonathan Sgro
+Emma Cooper
+
+INTERFACE DESIGN
+Jake Rodkin
+
+PRODUCTION
+Dan Connors
+
+MARKETING
+Emily Morganti
+Shaun Finney
+
+PRODUCT SUPPORT
+Erin Yvette Ashe
+
+GRAPHICS CONSULTANT
+Ben Ingram
+
+MUSIC
+Jared Emerson-Johnson
+
+AUDIO
+Bay Area Sound
+Julian Kwasneski
+Jared Emerson-Johnson
+
+ADDITIONAL ART
+Cécilia “Calis” Goncalves
+Steve Purcell
+
+QUALITY ASSURANCE
+Lorin Smedley
+QLOC S.A.
+
+LOGO DESIGN
+Lachlan Philp
+
+LEGAL
+Matchstick Legal Inc
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^ORIGINAL RELEASE
+^^
+DEVELOPED BY
+TELLTALE GAMES
+ 
+DESIGNER & WRITER
+Chuck Jordan
+
+DIRECTOR OF ART
+David Bogan
+
+ART DIRECTOR
+Peter Tsaykel
+
+ADDITIONAL ART DIRECTION
+Derek Sakai
+
+CINEMATIC DIRECTION
+Nick Herman
+
+EXECUTIVE PRODUCERS
+Dan Connors
+Kevin Bruner
+Brett Tosti
+
+DIRECTOR OF PRODUCTION TECHNOLOGIES
+Jonathan Sgro
+
+LEAD PROGRAMMERS
+Andrew Langley
+Robert Oates
+
+LEAD ANIMATOR
+Peter Tsaykel
+
+LEAD CHOREOGRAPHER
+Dennis Lenart 
+
+SEASON DESIGN
+Chuck Jordan
+
+EPISODE DESIGN
+Chuck Jordan
+Andy Hartzell
+Mike Stemmle
+Joe Pinney
+Brendan Ferguson
+Dave Grossman
+
+DIRECTOR OF DESIGN
+Dave Grossman
+
+PRODUCER
+Franklin Alioto
+
+PROGRAMMING
+Randy Tudor
+Clarence Lum
+
+ANIMATION
+Jed Heuer
+Jeff Sarre
+Jessica Lozano
+Michael Tjosvold
+
+CHOREOGRAPHY
+Nick Herman
+Daniel Farjam Herrera
+Eric Parsons
+Greg Killion
+David Gantz
+Bryan Cohen
+
+CONCEPT ART
+Ryan Jones
+
+CHARACTER ART
+Jason Findley
+Tim Lyttle
+
+ENVIRONMENT ART
+Drew Di Domenico
+Mai Nguyen
+Tim Lyttle
+Brian Gillies
+Jonathon Banks
+
+ADDITIONAL ART
+Steve Purcell
+
+TECHNICAL ART AND VISUAL EFFECTS
+Jonathan Sgro
+Michael Perretta
+Brian Steffel
+
+INTERFACE AND TITLE DESIGN
+Jake Rodkin
+
+ADDITIONAL CHOREOGRAPHY
+Marius Winter
+Thorsten Fietzek
+
+ADDITIONAL WRITING
+Mike Stemmle
+Will Armstrong
+
+ADDITIONAL ANIMATION
+Cinematics
+
+PRODUCTION
+Cesar Bittar
+Will Armstrong
+Matt Hansen
+
+TESTING LEAD
+Alex Cannon
+
+TESTING
+Jeremy Acs
+Nick Mastroianni
+Trent Burg
+Seher Basak
+
+
+MUSIC COMPOSER
+Jared Emerson-Johnson
+
+MUSIC EDITING AND MASTERING
+Jared Emerson-Johnson
+ 
+VOICE EDITING AND MASTERING
+Bay Area Sound
+Julian Kwasneski
+Jory Prum
+ 
+VOICE COORDINATOR
+Meg Crowel
+
+SOUND DESIGN
+Jared Emerson-Johnson
+Julian Kwasneski
+
+AUDIO IMPLEMENTATION
+Damian Kastbauer
+
+ADDITIONAL MUSICIANS
+SAXOPHONES
+Jordan Wardlaw
+
+TRUMPETS
+Daniel Gianola-Norris
+
+TROMBONES
+Chip Tingle
+
+DRUMS
+Jesse Wickman
+
+
+MARKETING AND PUBLIC RELATIONS
+Tom Byron
+Joel Dreskin
+Chris Schmidt
+
+MARKETING VIDEO EDITOR
+Shaun Finney
+
+WEB DEVELOPERS
+Andre Govberg
+Mike Watson
+
+WEB DESIGN
+Jake Rodkin
+
+ART DIRECTOR FOR WEB AND MARKETING
+Stephen Whetstine
+
+WEB AND COMMUNITY
+David Eggers
+
+WEB PRODUCER
+Paul Zabierek
+
+IT
+Stan Shambaugh
+
+BUILD & DISTRIBUTION ENGINEER
+John “Seg” Seggerson
+Jeff Brill
+
+PRODUCT SUPPORT
+Bonnie Sheehan
+Will Armstrong
+David Eggers
+
+OPERATIONS
+Andre Blanadet
+Rhoda Gravador-Kao
+Greg Koll
+Lindsay Speth
+
+PUBLISHING
+James Lamorticelli
+
+LEGAL
+Mark Barbolak
+
+TELLTALE INTERNS
+Nikki Harper
+Marius Winter
+Thorsten Fietzek
+
+PLAY TESTING
+Mark “Monkey Alarm” Maloney
+Kristi Maloney
+Joseph Mizzi
+Daniel Moskowitz
+Ian Chizmar
+Richard Pastrick
+Randall Poblete
+Sebastian Masters
+Emily Morganti
+Ben Malisow
+Michelle Scheinman
+Zach Burnside
+Thomas Bennett Jobling
+Travis Grathwell
+Tim Jarratt
+Megan Davies
+Rylee Ripple
+Ashley Eden
+Kraig Kaiser
+Katherine Brugman
+Alex Kasten
+Jennifer Dockter
+Aleksandar Vujovic
+Frank Cifaldi
+Alexandra Alquati
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^CAST
+^^
+Sam
+David Nowlin
+
+Max
+William Kasten
+
+Narrator 
+Andrew Chaikin
+
+General Skun-ka’pe 
+Roger L. Jackson
+
+Grandpa Stinky
+Roger L. Jackson
+
+Stinky 
+Melissa Hutchison
+
+Alien Brain 
+Andrew Chaikin
+
+Superball 
+Peter Barto
+
+Momma Bosco 
+Cathleen Riddley
+
+Harry Moleman 
+Tim Talbot
+
+Flint Paper
+Peter Barto
+
+Skun-ka’pe Minion 1 
+Peter Barto
+
+Skun-ka’pe Minion 2 
+Jared Emerson-Johnson
+
+Jebediah Moleman 
+Andrew Chaikin
+
+Obediah Moleman 
+William Kasten
+
+Curt 286 
+Jared Emerson-Johnson
+
+Bob Bell 
+Jared Emerson-Johnson
+
+Computer Voice 
+Melissa Hutchison
+
+Construction Worker 
+Tim Talbot
+
+Radio Announcer 
+William Kasten
+
+Max’s Psychic Wheel 
+Julian Kwasneski
+
+
+CREATED WITH THE TELLTALE TOOL
+Kevin Bruner
+Jonathan Sgro
+Graham McDermott
+Karen Petersen
+Randy Tudor
+Ben Ingram
+Carlo Morgantini
+Andy Vella
+
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+© 2002 Jean-Marc Valin
+
+
+Milky Way (dairy) exhibition, Ern McQuillan
+Used by permission of State Library of New South Wales
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^SKUNKAPE SPECIAL THANKS
+^^
+Dana West
+Lorin Smedley
+Owen & Luke Sgro
+Elisa Tudor
+Nick Tudor and Karina Rousseau
+Justice Tudor and Justin Hall
+Liberty Tudor
+Jennifer Kloepping
+Kash, Rollie and Casen Connors
+Susan, Rich, and Nick Rodkin
+Andrea and Abel Parsons
+David Rose
+Jennifer, Jacob and Noah Rose
+Mark Barbolak
+Sara Guinness
+Ben Gorman
+NapalmX717
+
+
+ In Memory of Frederica “Fritzi” Batchelor
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^TELLTALE SPECIAL THANKS
+^^
+Alexandra Alquati
+Ashley, Dylann & Luca Alioto
+Jimmi Thøgersen
+Ikumi Sato
+Mindy Shambaugh
+Roger, Sandi & Andrew Hansen
+Jake Armstrong & Laura White
+Jim & Cathy Armstrong
+Owen & Luke Sgro
+Liz, Ben & Mollie Dreskin
+Marley Brezzo
+Janet Oh
+Faranak Farjamrad Herrera
+Lia Farjam Herrera
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Molly, Charlie & Max
+Nyria & Elias Bittar
+Taty, Nahyr & Elias Bittar
+Sonia & Alexander Bittar
+Marco Castellanos
+Erin & Madeleine Ashe
+Anna Embree
+David and his mop
+Munktiki
+Alfred Peet
+Sach & Max Steffel
+Jen, Noah & Baby Sarre
+Edward & Karen Seggerson
+Carolyn & Jason Bronkema
+Amanda Bombardier & Kelly Dunlap
+My parents & Nifi
+Liz M.E. Chung, Regina Wu & Sally Huang
+Elisa Tudor
+Nick, Justice & Liberty Tudor
+Harmony, Stephen & Claire Sakai
+You (yes, you)
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^SKUNKAPE PETS
+^^
+Ray the Wonder Dog
+Snowflake, Frosty, Blizzard, Olive, Neptune, Stars, Ghost
+Johnny Nolan, Tea Cake
+Mr. Puss
+Rosy
+T.C. and Guybrush
+Zeus
+
+
+^font:ChatterboxItalic^^glyphScale:6.5^^color:#f4c421^TELLTALE PETS
+^^
+Max the Dog, Tess, Belle, Cornnut, Kitty, Stumpy, Kaya,
+Inky, Squiggle, Toby, Patches, Holly, Yoshi, Fu, Buddha,
+Nick Charles Koll, Nitro T1, Eero, Misfit, Karma, Beau,
+Fritz, Brady, Indiva, Satindica, Mocha, Chai, Becky, 
+Gomez, Guinness, Jasmine, Quimby & the Fish, 
+and Brendan Q. Ferguson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^font:ChatterboxItalic^^glyphScale:6^© 2010-2024 Skunkape Games LLC
+All rights reserved^^
+3) 
+^font:ChatterboxBoldItalic^^glyphScale:4.5^^color:#f4c421^Sam & Max ^font:ChatterboxItalic^Freelance Police in:
+^glyphScale:1.5^
+^^THE PENAL ZONE
+4) 
+How will Sam & Max get out of this one?
+5) 
+Find out...
+in the full game!

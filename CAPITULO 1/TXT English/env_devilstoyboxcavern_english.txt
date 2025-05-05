@@ -1,0 +1,258 @@
+﻿1) CULTIST2
+[reverent chanting] Ooooooooommmmmmmmmm...
+2) CULTIST2
+{normal}Uh, excuse me... I’m pretty sure you mean tablet 6, verse 24.
+3) CULTIST1
+[reverent chanting] Ooooooooo...
+4) CULTIST1
+{stern}[angry] Intruders! They’ve come to defile the Toybox!
+5) CULTIST1
+{stern}[angry] Heretic!
+6) SAM
+{sarcastic}You try and entertain the OTHER wing nuts {normal}while I find a way to power this thing up.
+7) CULTIST2
+{stern}KILL THEM! {surprised}No, wait, brother! Look! It is the dog and rabbit!
+8) MAX
+{sarcastic}We’re in so many prophecies we should start charging royalties.
+9) SAM
+Looks like another in a long line of wacky cults, Max.
+10) MAX
+{angry}Could you guys keep it down? We’re trying to save the planet here.
+11) CULTIST1
+{surprised}[awestruck] Just as prophesied on tablet 8, verse 32!
+12) SAM
+{worried}That’s the most evil-looking toy chest I’ve ever seen!
+13) CULTIST2
+{surprised}That would give General Skun-ka’pe unimaginable power to destroy us all!
+14) SAM
+{worried}No doubt it’d unleash all kinds of horrors if we ever opened it.
+15) SAM
+{happy}And I’ll scrounge up some blasting caps!
+16) CULTIST1
+{surprised}No! You mustn’t open it!
+17) MAX
+{happy}I’ll get a crowbar!
+18) SAM
+{worried}[disappointed] They’re right, pal. We’d better get rid of Skunkape first.
+19) SAM
+The power’s out in the whole building.
+20) SAM
+Well, it’s plugged in. But there’s not enough power to turn it on.
+21) SAM
+That should be enough power. Now to turn it on.
+22) SAM
+{confused}I can’t turn it on. There’s no power.
+23) SAM
+First I need to get this homing beacon onto Skunkape, {worried}or else I’LL get sucked in again.
+24) MAX
+{sarcastic}Doing that twice in one day would just be humiliating.
+25) SKUNKAPE
+{happy}Ha ha ha ha! Well played, Sam & Max! {evil}But once again I’m too strong, and you have only seconds before...
+26) SKUNKAPE
+{surprised}[surprised] Wait! It can’t be! The Devil’s Toybox?
+27) SAM
+{confused}[never heard of it] Devil’s Toybox?
+28) MAX
+{angry}Yeah, go find your own toys.
+29) SKUNKAPE
+{happy}Ha ha ha, perfect! {proud}You have led me right to the greatest prize of all! {evil}Soon your bothersome dimensional rift will close, and I will take the toybox AND the one who can control it! YES!
+30) MAX
+{worried}Think of something quick, Sam. I don’t like the way he’s undressing me with his eyes.
+31) SAM
+There’s no place on the toybox to plug this in.
+32) SAM
+{Stern}Give up, Skunkape. You’re under arrest.
+108) SAM
+{Stern}Give up, Skunkape. You’re under arrest.
+33) SKUNKAPE
+{happy}Ha ha ha, under arrest? {confused}By an Earth dog and his pitiful inventions?
+34) SKUNKAPE
+{angry}I have more strength in one hand than in {evil}all the inventions of your planet’s greatest scientists!
+35) SAM
+{stern}Just stop fighting so we can hurry this thing up already. I’ve got places to be.
+36) SKUNKAPE
+{cocky}Give up now? When I’m so close to having ALL of the toys? {angry}Nonsense!
+37) SAM
+As soon as this case is over, I’m getting a gun with more gorilla-stopping power.
+38) SAM
+Pretty sloppy of you to miss this toy, Skunkape. It’s the best one yet!
+39) SKUNKAPE
+Nonsense! It’s worthless.
+40) SAM
+Are you kidding me? It’s just dripping with psychic power. Right, Max?
+41) MAX
+[faking it] Huh? Oh, right. That one gives me the power to... uh... automatically calculate the proper tip at restaurants.
+42) SAM
+Nice one, bonehead.
+43) MAX
+It’s a very practical power, Sam. They can’t all be show-stoppers.
+44) SKUNKAPE
+Give it to me! NOW!
+45) SAM
+[taunting] Betcha can’t get it from me!
+46) SKUNKAPE
+Arrggh!
+47) SAM
+{happy}[taunting] Keep away from the big monkey!
+107) SAM
+{happy}[taunting] Keep away from the big monkey!
+48) SKUNKAPE
+{angry}No fair, give it!
+49) NARRATOR
+{arrogant}And so our heroes save the world once again, {normal}our villain undone by his own greed. It would seem {Stern}a fitting conclusion.
+50) NARRATOR
+{stern}But this is not the end—{arrogant}oh, no—{stern}but merely a beginning. {arrogant}The overture, if you will, of a five-part symphony of mayhem that will {Stern}BLOW YOUR EVER-LOVING MIND.
+51) NARRATOR
+{normal}What is this mysterious toybox, with its bizarre connection to Max? Is General Skun-ka’pe truly defeated? {arrogant}Will Sam ever find true love? {Stern}Will Max be able to control his emerging powers, or are his ominous visions of the future a sign of tragedy to come?
+52) NARRATOR
+{normal}I’ll see you in the coming chapters to answer all of these questions, {arrogant}and more! But for now, I leave you with this chilling conclusion:
+53) SAM
+{normal}Ouch! {enthused}Sucked right through three floors and a septic tank!
+54) MAX
+{incredulous}There goes our security deposit.
+55) SAM
+{confused}I wonder if our building is zoned to act as an interdimensional prison... [trails off, notices something]
+56) MAX
+{incredulous}Sam, {worried}what are they looking at?
+109) MAX
+{incredulous}Sam, {worried}what are they looking at?
+57) SAM
+{surprised}Holy heaping helpings of Herodotus on bass with Marshall stacks and a wah-wah pedal!
+58) MAX
+{scared}Is that... US?!
+59) SAM
+{sarcastic}The workers left some of the cable exposed when they were busy {stern}not fixing the power in this dump.
+60) SAM
+Well, it’s worth a shot. Hey Max, want to come here and ground me?
+110) SAM
+Well, it’s worth a shot. Hey Max, want to come here and ground me?
+61) MAX
+{incredulous}You’re pushing 40 in dog years, you’re not a very good detective, and it looks like you’ve put on weight.
+62) SAM
+Thanks, that should do it.
+63) SAM
+Now I should be able to turn on that rift transmogrifier or whatever.
+64) CULTIST1
+{Stern}[angry] Turn it off!
+65) CULTIST2
+{stern}Cut it out! We live in cool, dark places!
+106) CULTIST2
+{stern}Cut it out! We live in cool, dark places!
+66) CULTIST1
+{stern}Ahhh! Turn that off!
+104) CULTIST1
+{stern}Ahhh! Turn that off!
+67) CULTIST2
+{stern}You’re killing us here!
+105) CULTIST2
+{stern}You’re killing us here!
+68) SAM
+Well, at least the boiler still works.
+69) CULTIST2
+{stern}What is WRONG with you?
+70) SAM
+Oops, sorry.
+71) SAM
+{enthused}Lookit, Max! I’ve never been that good with hieroglyphics, but it looks like this tablet is all about us!
+72) MAX
+{realizing}Ooo! {cocky}What does it say about me?
+73) SAM
+{stern}Let’s see... you’re going to fight a monkey, get a bunch of magic weapons, {confused}merge with the collective unconsciousness to become one with infinity, {normal}and then destroy the universe.
+74) MAX
+{confused}Are you sure you’re not reading it backwards?
+75) SAM
+{confused}Hmmm... well if that’s the case, {Stern}you’re about to wrestle a crocodile and I’m going to turn into an owl.
+76) MAX
+{happy}I can hardly wait!
+77) SAM
+{stern}I’m tired of trying to read this thing. I’ll wait for the movie.
+78) 
+mysterious chest
+79) 
+The Box
+80) 
+cable
+81) 
+boiler controls
+82) 
+outlet
+83) 
+ancient tablet
+84) 
+The Devil’s Toybox
+85) 
+subway station
+86) MAX
+[pickup1] Leave in our moment of triumph? Surely you over-estimate the space ape’s chances!
+87) SAM
+[pickup1] That’s why I’m freaked out. Whatever’s in there, it has no respect for math.
+88) SAM
+[pickup1] Well, now I’m a little freaked out.
+89) MAX
+[pickup1] Why?
+90) SAM
+[pickup1] According to your Nutri-Specs, that box contains 90 percent evil, 50 percent chaos, and 30 percent childlike whimsy.
+91) MAX
+[pickup1] That’s 170 percent.
+92) SAM
+[pickup1] [reading] Gullibility, ignorance, well-founded feelings of inadequacy... yep, those are the ingredients of a cult member, all right.
+93) MAX
+[pickup1] What about potential for violence?
+94) SAM
+[pickup1] Only trace amounts.
+95) MAX
+[pickup1] Must be one of those wussy pacifist cults.
+96) MAX
+[pickup1] Where’s the fun in that?
+97) SAM
+[pickup1][reading] Hmmm. Maybe we don’t have to defeat Skunkape after all. If your Nutri-Specs are right, he’ll keel over from mercury poisoning in a few years anyway.
+98) SAM
+THAT won’t work.
+99) SAM
+[pickup1] It’s hard to believe that good old Steamy has been sporadically keeping our building warm for almost a century!
+100) MAX
+[pickup1] It’s even harder to believe that you’ve given it a cutesy nickname.
+101) SAM
+[pickup1] We better call a contractor to fix that hole in our basement once this scintillating adventure has come to its inevitably earth-shattering conclusion.
+102) 
+boiler
+103) 
+hole in the wall
+111) SAM
+[pickup1] [start out scolding, then getting worried] Max, what’s wrong with you? Max? Little buddy?
+112) SAM
+[pickup1] Well, THAT didn’t sound good.
+113) MAX
+[pickup1] [dismissive] Ah, that was one of the “distant future” ones. We don’t have to worry about it for a while.
+114) 
+pick up
+115) 
+leave the cavern
+116) 
+turn on
+117) 
+plug in rift generator
+118) 
+plug power cable into toybox
+119) 
+offer paddle ball toy to Skun-ka’pe
+120) 
+look at
+121) 
+look at
+122) 
+look at
+123) 
+look at
+124) 
+read
+125) 
+plug power cable into {y}
+126) SAM
+{realizing} That’s right, Jack! And it’s ours!
+127) SAM
+That should be enough power.
+128) SAM
+[pickup1] Pushing that button doesn’t do anything, now that the Penal Zone’s been wiped out.
+129) MAX
+[pickup1] Wait, wait... was that a setup for a dirty joke? I can’t even tell anymore.

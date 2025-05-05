@@ -1,0 +1,96 @@
+﻿1) SAM
+{surprised} It’s Stinky’s cell phone! {confused} But why would she have left it behind?
+2) MAX
+{sarcastic} Especially since she’s got 18 months left on her contract!
+3) SAM
+{suspicious} Either there was some kind of struggle, {realizing} or it was left here for us to find, {surprised} and we’re walking right into a trap!
+4) MAX
+[eureka moment] {realizing} I’ve got it! She waived her early cancellation fees with a {happy} recommended device upgrade!
+5) SAM
+{suspicious} So now we know two things: you’re an idiot, {enthused} and this phone is going to lead us directly to General Skunkape! Somehow...
+6) MAX
+Don’t beat yourself up, Sam. {sarcastic}We can knock it over when we come back.
+7) SAM
+We must’ve driven around this corner a million times, and I never noticed that fire hydrant before.
+8) SAM
+These buildings are all closed in observance of Skunkape Appreciation Day. Skunkape must’ve gone somewhere else.
+9) 
+fire hydrant
+10) 
+door
+11) GRANDPASTINKY
+[pickup1] {angry} I don’t have time for your shenanigans.
+12) SAM
+[pickup1][reading] Hmmm. You wouldn’t expect a fire hydrant to have so much kerosene...
+13) MAX
+[pickup1] [context: ...but I would] Maybe YOU wouldn’t.
+14) SAM
+[pickup1] It’s empty. Well, not EMPTY empty, but empty of anything useful.
+15) SAM
+[pickup1] I wonder what’s in that dumpster.
+16) MAX
+[pickup1] Sam, if you want me to dive into that dumpster, just ask. Don’t go all passive-aggressive on me.
+17) MAX
+[pickup1] Hikeebaaaaa!
+18) MAX
+[pickup1][process - inside dumpster] Hotchy motchy!
+19) SAM
+[pickup1] Max! Are you okay!?
+20) MAX
+[pickup1][calm] I’m fine, Sam. In fact, I seem to have acquired the ability to scan the ingredients of foods, people, and arbitrarily selected items.
+21) SAM
+[pickup1] Keen.
+22) SAM
+[pickup1] What’d you find, you filthy wretch?
+23) MAX
+[pickup1] I give you... THE NUTRI-SPECS!
+24) SAM
+[pickup1] Nutri-Specs? What do they do?
+25) MAX
+[pickup1] Only one way to find out!
+26) MAX
+[pickup1][Acquiring a new psychic power] Wubbiduwubbiduwubbidu!
+27) MAX
+[pickup1] Oh, Sam, you should really cut down on the seal jerky. Your phosphate levels are through the roof!
+28) SAM
+[pickup1] That’s a swell power, Max. Who knows what other sorts of amusing and quasi-useful information we’ll glean from those Nutri-Specs.
+29) MAX
+[pickup1] “Glean”? This isn’t France, Sam.
+30) SAM
+[pickup1] Nah, sounds like they’re planning a big gang-related shootout or illegal organ trade in there. I don’t want to bother them.
+31) SAM
+[pickup1] It’s empty. Why use a trash can when the pavement will do?
+32) MAX
+[pickup1] What’s in there?
+33) SAM
+[pickup1] As far as I can tell, a bunch of temp workers who’ve never seen a six-foot-tall dog peeking in their window before.
+34) 
+garage door
+35) 
+trash can
+36) 
+dumpster
+37) 
+window
+38) 
+dive into
+39) 
+open
+40) 
+investigate
+41) 
+peer inside
+42) 
+keypad
+43) 
+One
+44) 
+Two
+45) 
+Three
+46) 
+Four
+47) 
+Five
+48) 
+Six

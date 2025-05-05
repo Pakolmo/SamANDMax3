@@ -1,0 +1,20 @@
+﻿1) 
+© 2010–2024 Skunkape Games LLC y Steve Purcell. Todos los derechos reservados.
+Todas las marcas comerciales pertenecen a sus respectivos propietarios.
+Traducción: Dieguzo69 y Pakolmo
+2) 
+El progreso se guarda siempre que aparece este icono.
+Por favor, no apague la alimentación mientras el icono esté en pantalla.
+3) 
+Pulsa <ui_controllerButtonRight.d3dtx> para empezar
+4) 
+Pulsa <ui_controllerButtonDown.d3dtx> para empezar
+5) 
+Pulsa para empezar
+6) 
+Toca para empezar
+7) 
+Algunas escenas contienen destellos brillantes o efectos estroboscópicos que
+pueden afectar a los jugadores propensos a la epilepsia fotosensible
+o con otras sensibilidades a la luz.
+^color:#ff742f^Estos efectos pueden desactivarse en el menú Ajustes de accesibilidad.^^

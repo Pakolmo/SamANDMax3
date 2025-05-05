@@ -1,0 +1,6 @@
+﻿1) 
+Item slot
+2) 
+Remove item
+3) 
+Swap item

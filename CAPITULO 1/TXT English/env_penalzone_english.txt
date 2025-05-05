@@ -1,0 +1,30 @@
+﻿1) SAM
+{suspicious} If I know my high-tech futuristic explosive devices, this is an antimatter bomb that will {surprised} destroy the entire Penal Zone and anyone inside it!
+2) SAM
+{worried} And it’s going to go off at any second!
+3) SAM
+{realizing} Well, maybe I’m exaggerating a little bit, but {sarcastic}still, best not to dawdle.
+4) MAX
+[skeptical] {incredulous} Really, Sam? “Any second”?
+5) SAM
+[angry] {angry} Can you believe that guy? Skunkape knew what we were going to do the whole time!
+6) MAX
+{scared} I don’t like being in the Penal Zone, Sam.
+7) SAM
+{incredulous} You’re not supposed to, Max. {angry}It’s a horrible plane of nonexistence forever trapped between reality and unreality.
+8) MAX
+{suspicious} Yeah, that, and also that beeping noise is really getting on my nerves.
+9) SAM
+[panicked] {surprised} Turn around, Max!
+10) SAM
+{worried} Skunkape strapped an antimatter bomb on your back while we were out cold! Get rid of it!
+11) MAX
+{suspicious} Geez, what a jerk!
+12) SAM
+[angry] {angry} He just wanted to rub our noses in the Penal Zone! So to speak.
+13) SAM
+{worried} We’ve got to get out here, Max! Pronto!
+14) 
+antimatter bomb
+15) 
+freak out about

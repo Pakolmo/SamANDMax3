@@ -1,0 +1,108 @@
+﻿1) SAM
+{confused}How are you guys supposed to help us fight crime?
+2) MAX
+{sarcastic}Yeah, you’re not even as powerful as a cell phone.
+3) SAM
+{Stern}[scolding] Max, that was completely uncalled for.
+4) SYNTH
+WITH MY 16 MHZ OF RAW POWER I AM ABLE TO ANALYZE DATA AT SPEEDS RIVALING THE MOST ADVANCED POCKET CALCULATORS.
+5) BLEEPS
+Bleep bloop!
+6) MOVIEFONE
+And that’s about it.
+7) SYNTH
+HE HAS TRAVELED WITH USER BOSCO TO LAS VEGAS NEVADA.
+8) MAX
+{confused}What’s an outdated arcade machine supposed to do in Vegas? He doesn’t even have any money!
+9) MOVIEFONE
+Bluster Blaster received a generous workers’ compensation settlement upon his termination from Pimp Le Car.
+10) SYNTH
+WE CANNOT COMMENT WHILE LITIGATION IS PENDING.
+11) SAM
+You guys should keep an eye on General Skunkape. {suspicious}We’re pretty sure he’s evil.
+12) SYNTH
+THAT GUY IS A TOTAL HEAT SINK.
+13) BLEEPS
+Blaaaaat!
+14) MAX
+We thought everybody else liked him except for us!
+15) MOVIEFONE
+His so-called “advanced technology” is going to make thousands of hard-working computers and robots lose their jobs.
+16) SYNTH
+WHEN BUYING TECHNOLOGY, LOOK FOR THE MADE-ON-EARTH LABEL.
+17) SAM
+{confused}Do you guys know where to find something called a “power core”?
+18) MAX
+{confused}What’s his problem?
+19) MOVIEFONE
+We were forced to witness Momma Bosco tearing apart circuit boards to construct her power core. We prefer not to talk about it.
+20) SYNTH
+IT WAS HORRIBLE.
+21) BLEEPS
+[panicked beeping] Bleep! Blap! Bloop! Bloop!
+22) SYNTH
+A REAL MOTHERBOARD.
+23) MOVIEFONE
+If you’d like to drive somewhere, use the handy city map contained in the glove box.
+24) SAM
+Talking to you guys is great and all, {confused}but could we have our car back?
+25) MAX
+Hey Sam,{confused} isn’t our car still possessed by demons?
+26) SYNTH
+IT IS NOT SO BAD AS LONG AS YOU DO NOT TRY TO RUN THE AIR CONDITIONER.
+27) SAM
+See ya, COPS.
+28) SYNTH
+END OF LINE.
+29) MAX
+{aloof}[annoyed] Yeah. What are you doing in our car?
+30) MOVIEFONE
+Hello and welcome to a bold new reimagining of the Computer Obsolescence Prevention Society!
+31) SYNTH
+YOU HAVE BEEN RANDOMLY SELECTED TO ENJOY A FREE TRIAL OF THE CRIME-TRON XL AT NO COST TO YOU.
+32) MOVIEFONE
+Hello and welcome to the COPS version 2.5!
+33) SAM
+{confused}What’s this business about a “free trial”?
+34) SYNTH
+SUBMIT CLUES GATHERED FROM YOUR INVESTIGATIONS AND WE WILL ANALYZE THE LIVING HELL OUT OF THEM.
+35) MOVIEFONE
+[movie pitch] In a world where thugs and super villains rule the streets, only the most technologically advanced crime stoppers will emerge victorious.
+36) MOVIEFONE
+You have selected to hear more about the Crime-Tron XL!
+37) MOVIEFONE
+For the last time, we are not letting your Japanese robot dog into this group.
+38) SYNTH
+WE TALKED ABOUT THIS. THAT DOG IS STRAIGHT UP CREEPY.
+39) SAM
+{enthused}Let’s try out the Crime-Tron right now!
+40) BLEEPS
+Blaaat!
+41) MOVIEFONE
+We’re sorry, the Crime-Tron XL may not yet be available in some areas.
+42) SYNTH
+WE ARE STILL RECRUITING MEMBERS FOR THE COPS.
+43) 
+Crime-Tron
+44) 
+COPS
+45) 
+Bluster Blaster
+46) 
+Skunkape
+47) 
+DeSoto
+48) 
+Power core
+49) 
+Bye
+50) SAM
+[pickup1] What happened to that Bluster Blaster machine you used to hang out with?
+51) MAX
+[pickup1] And what do YOU do?
+52) MOVIEFONE
+[pickup1] I’m a functional telephone!
+53) SAM
+[pickup1] I said you guys could hang out in our car until you found your own place, but it’s been months now.
+54) 
+Phone call

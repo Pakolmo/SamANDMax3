@@ -1,0 +1,710 @@
+1) SAM
+Necesito una salida.
+2) MAX
+¿Has considerado la carpintería o tal vez escribir un blog?
+3) SAM
+Una salida de PODER, cabeza de chorlito.
+4) SAM
+¿Meesta Pizza? Quiero una pizza extragrande de masa gruesa, con una mitad de mantequilla de cacahuete y fruta de la pasión, y la otra mitad SÓLO con sandía.
+5) SAM
+Vale, y dos... no, tres pedidos de cheesy dingles. Gouda... no, brie. Correcto. Y salsa de chocolate extra. ¡Vale, gracias!
+6) SAM
+¿Quieres cheesy dingles, Max?
+7) MAX
+¿Tienes que preguntarlo?
+8) MAX
+¿Cuánto falta para que llegue?
+9) SAM
+Probablemente nunca, Max. Nadie contestó.
+10) MOMMABOSCO-PHONE
+[process phone] Ha llegado a BoscoTech Labs, el centro de investigación líder de la ciudad en avances científicos con un toque femenino.
+11) MAX
+“Ciencia” y “toque femenino” son dos cosas que rara vez se oyen juntas.
+12) MOMMABOSCO-PHONE
+[process phone] Ahora mismo estoy muerto, pero no dudes en volver a llamar más tarde.
+13) GRANDPASTINKY-PHONE
+[process phone] Pahhh, has llegado a Stinky's Diner.
+14) STINKY
+Dilo, abuelo...
+15) GRANDPASTINKY-PHONE
+[process phone] [begrudging]  Ahhhh, de acuerdo. Hogar del colosal aguacate floreciente tastebanger deluxe.
+16) GRANDPASTINKY-PHONE
+Haz tu pedido en el pitido y uno de nuestros amables repartidores te lo llevará corriendo, si alguna vez tiene la oportunidad. ¡LO CUAL NO TENDRÁ!
+17) SAM
+Sybil todavía está en su luna de miel. Un poco inútil tratar de llamarla, en retrospectiva.
+18) STINKY-PHONE
+Esperaba que llamaras. ¡No, no, no hagas! Esos detectives por fin se han ido, pero alguien podría estar escuchando. Deberíamos vernos en persona.
+19) SAM
+Debe haberme confundido con otra persona. Quería uno de sus platos de buffet de cochinillo alimentado con langosta para llevar, por favor.
+20) STINKY-PHONE
+Perfecto, salgo ahora mismo.
+21) SAM
+¡Sí! ¡Ja ja! Deberíamos ir a, eh... ese sitio... con las cosas... que te gustan.
+22) STINKY-PHONE
+Perfecto, salgo ahora mismo.
+23) SAM
+Nos vemos donde sea que esté eso, entonces... eh, mi amor.
+24) SAM
+Oh, sí, una cosa más: ¿tus perritos calientes están REALMENTE hechos con carne de vacuno 100% pura?
+25) STINKY-PHONE
+¡Qué! ¡Por supuesto que no! Y Sam y Max no sospechan nada.
+26) MAX
+¡Vaya, qué alivio! Desde que cerró Dairy Freeze, los perritos calientes de Stinky han sido mi única fuente de esfínteres de cerdo nutritivos.
+27) SAM
+¿Has revisado al bebé?
+28) SAM
+¿Ves, Max? Está bien. Te dije que dejaras de preocuparte.
+29) MAX
+¿Qué clase de madre de mentira sería si no me preocupara por nuestro bebé imaginario?
+30) MAX
+¿No vas a contestar eso, Sam?
+31) SAM
+No, no se sabe quién puede ser.
+32) SAM
+Hmm, no hay respuesta.
+33) SAM
+No hay respuesta. Debo haber dejado el teléfono en alguna parte.
+34) MOVIEFONE
+¡Hola y bienvenido al TeleVoice Comunitron Extreme 5000, con más de 800 funciones de mensajería disponibles!
+35) MOVIEFONE
+Por favor, diga el nombre de la persona a la que quiere llamar.
+36) MAX
+¡Vaya! Ahora por fin puedo montar mi línea de chat para adultos las 24 horas con conejos desnudos.
+37) MOVIEFONE
+Lo sentimos, hemos perdido el manual de esa función.
+38) SAM
+¿Puedes hacer llamadas telefónicas?
+39) MOVIEFONE
+Eso lo puedo manejar.
+40) SYNTH
+TAMBIÉN PUEDO AYUDAR A ORGANIZAR TU COLECCIÓN DE DISCOS COMPACTOS.
+41) MOVIEFONE
+Si se encuentra una prueba en nuestra base de datos, oirás este ruido:
+42) BLEEPS
+¡Bip!
+43) MOVIEFONE
+Si el Crimen-Tron puede encontrar una conexión entre las dos piezas de evidencia...
+44) BLEEPS
+¡Bip-ba-da-Bip!
+45) SYNTH
+ALGORITMOS AVANZADOS DE ANÁLISIS DE DATOS COMPARARÁN LAS PRUEBAS CON NUESTRA BASE DE DATOS DE 64KB A UNA VELOCIDAD DE HASTA 12 CÁLCULOS POR SEGUNDO.
+46) MOVIEFONE
+No estás ayudando. Realmente no es tan complicado.
+47) MOVIEFONE
+Parece que estás usando el Crime-Tron. ¿Quieres ayuda?
+48) SAM
+Claro, pero que sea breve.
+49) SAM
+No, lo tengo.
+50) SAM
+¡Este mando a distancia puede abrir una puerta a la Zona Penal!
+51) SAM
+Es el nuevo teléfono móvil de Stinky.
+52) SAM
+Es el billete de vacaciones de ese pobre hombre topo.
+53) SAM
+Antiguamente el billete de lotería ganador de Harry Moleman.
+54) SAM
+Ese obrero de la construcción habría querido que nos quedáramos con su casco.
+55) SAM
+Es un par de galones de caldo del demonio rico en nutrientes del abuelo Stinky.
+56) SAM
+Solo cables de arranque. No tienen mucho, la verdad.
+57) SAM
+Parece mucho lío para una batería de coche futurista.
+58) SAM
+El abuelo Stinky debió de conseguir este vaso de chupito en Meesta Pizza cuando fue a reunirse con Skunkape.
+59) SAM
+Uno de los secuaces de Skunkape dejó este recibo roto de una juguetería.
+60) SAM
+Skunkape debió de dejar caer este juguete de pala y pelota mientras buscaba por la ciudad.
+61) SAM
+Es el generador de grietas dimensionales de Mamá Bosco.
+62) SAM
+Es una postal antigua de un coleccionista de juguetes raros. Pero la dirección está borrosa.
+63) MAX
+Debe de haber un centenar de Pizzas Meesta en la ciudad.
+64) SAM
+Ciento cuarenta y dos, pequeño. Entonces, ¿a cuál fue Skunkape?
+65) SAM
+Una cáscara de plátano, repleta de posibilidades cómicas.
+66) SAM
+No quiero usar eso hasta que Skunkape esté cerca.
+67) SAM
+No quiero gastar los minutos de Stinky.
+68) MAX
+Admítelo, Sam. No sabes cómo encenderlo.
+69) SAM
+Si Dios quisiera que usáramos móviles, no habría inventado los cables.
+70) SAM
+No, solo un sorbo de ese caldo demoníaco y acabaría bebiéndomelo todo.
+71) SAM
+Eso es algo.
+72) SAM
+¿Has visto eso?
+73) SAM
+Estupendo.
+74) SAM
+ESO no funcionará.
+75) SAM
+No, no lo creo.
+331) SAM
+No, no lo creo.
+76) SAM
+No.
+77) SAM
+No voy a regalar esto a CUALQUIERA.
+78) SAM
+¿Estáis listos para ayudarnos a combatir el crimen?
+79) MOVIEFONE
+¡Seguimos buscando nuevos reclutas!
+80) SYNTH
+SI VES ALGÚN EQUIPO DE OFICINA SIN USAR, ASEGÚRATE DE CONECTAR A UN HERMANO.
+81) BLEEPS
+¡Bip bloop!
+82) SYNTH
+NO OLVIDES NUESTRO SEMINARIO SOBRE ACOSO EN EL LUGAR DE TRABAJO. ADEMÁS, YO PEDÍ PRIMERO.
+83) SAM
+¿Alguna idea sobre el caso, COPS?
+84) MOVIEFONE
+Lo sentimos, no hemos estado prestando atención.
+85) SYNTH
+ESCANEA LAS PRUEBAS CON EL CRIME-TRON Y RASTREAREMOS A LOS VILLANOS SIN PIEDAD.
+86) HARRY-PHONE
+[process phone] Soy Harry Moleman, Orador de los Muertos. Si desea una sesión de espiritismo, un exorcismo o un ritual tibetano, deje un mensaje y me pondré en contacto con usted lo antes posible. También hago trabajos ligeros de secretaría o domésticos.  [desperate]Por favor, contrátame.
+87) SAM
+Qué raro, el teléfono de Harry ha sido desconectado.
+88) SAM
+Skunkape debió de estar en un Meesta Pizza, pero ¿cómo podemos saber cuál?
+89) SAM
+Si Stinky fue a algún sitio a encontrarse con Skunkape, probablemente tenga el número del lugar en marcación rápida.
+90) SAM
+Este recibo solo tiene parte de una dirección, pero no el nombre de la tienda.
+91) SAM
+Puedo distinguir parte del nombre de la tienda de la que procede, pero no la dirección.
+92) SAM
+Max, ¿no se te ocurre alguna forma de movernos por la nave?
+93) SAM
+El General Skunkape debe haber perdido su radiobaliza. Será mejor que se la devuelva.
+94) SAM
+Esta nave espacial podría usar algo de vegetación para que se sienta más habitada.
+95) SAM
+Mamá Bosco me dijo algo de que necesitaba un mando a distancia. Ojalá hubiera prestado atención.
+96) SAM
+Me pregunto si Harry Moleman conoce alguna forma de llegar a las cubiertas superiores.
+97) SAM
+Necesitaremos algo peligroso y poderoso para llevar a Skunkape a la Zona Penal.
+98) SAM
+Ese cerebro alienígena tenía todas las respuestas. Apuesto a que él sabría qué hacer.
+99) SAM
+Va a hacer falta un verdadero trabajo detectivesco para encontrar el núcleo de energía perdido.
+100) SAM
+Daría 758 millones de dólares por un poco de ese caldo demoníaco ahora mismo.
+101) SAM
+Con todos los trastos que se amontonan en nuestro coche, uno pensaría que alguno de ellos sería útil ahora mismo.
+102) SAM
+El Agente Superball y yo solíamos estar mucho más unidos. Deberíamos tomarnos un tiempo para ponernos al día.
+103) SAM
+¡El General Skunkape podría estar en cualquier parte de la ciudad! Al menos podría haber dejado una dirección o un número de teléfono.
+104) SAM
+Mamá Bosco sería de gran ayuda ahora mismo, si tan solo pudiéramos entrar en su laboratorio.
+105) SAM
+El abuelo Stinky sonaba como el mayor fan del General Skunkape. Me pregunto si puede ayudar.
+106) SAM
+¡Ahora estamos muy cerca, Max! Solo tenemos que usar nuestras pistas para descubrir dónde aparecerá Skunkape la próxima vez.
+107) SAM
+¡Usa uno de tus extraños poderes para sacarnos de aquí antes de que explote la bomba, Max!
+108) SAM
+Sin ofender a Stinky, pero en nuestra visión del futuro, Max y yo teníamos una celda PRIVADA.
+109) SAM
+Tengo que ponerle esta baliza al General Skunkape antes de que nos vuelvan a encarcelar accidentalmente.
+110) SAM
+Están pasando cosas grandes bajo tierra, Max. Lo siento. Si tan solo pudiéramos encontrar una forma de bajar ahí.
+111) SAM
+Tiene que haber algo en esta ciudad con el poder impío que necesitamos para impulsar este invento.
+112) SAM
+No sé cómo puedes estar cómodo, Max. ¡Hace un FRÍO que pela aquí!
+113) SAM
+Le preguntaría a Skunkape si sabe qué hacer, pero parece que tiene las manos ocupadas.
+114) SAM
+Mi segundo mejor y tercer amigo más peligroso.
+115) SAM
+Ya limpié mi arma hoy. Como hago todos los días. Religiosamente.
+116) SAM
+No necesito dispararle a nadie. Es suficiente con que sepan que TENGO una pistola.
+117) SAM
+No, eso sería un desperdicio de balas.
+118) 
+Teléfono móvil de Stinky
+119) 
+Meesta Pizza
+120) 
+BoscoTech
+121) 
+Restaurante Stinkys
+122) 
+Sybil
+123) 
+Harry Moleman
+124) 
+Pedir comida
+125) 
+Reunámonos
+126) 
+¿Revisaste al bebé?
+127) 
+Sí
+128) SAM
+¿Por qué tenemos cables de arranque? Ninguno de los dos sabe cómo usarlos.
+129) MAX
+Es sencillo, Sam: el cable ROJO va en la boquilla DERECHA, y el cable NEGRO se sujeta a la...
+130) SAM
+Ninguno de los dos sabe cómo usarlos LEGALMENTE, Max.
+131) SAM
+Pulsar ese botón no hace nada, ahora que la Zona Penal ha sido eliminada.
+132) MAX
+Espera, espera... ¿era eso una preparación para un chiste subido de tono? Ya ni siquiera lo sé.
+133) SAM
+Es una de esas obsoletas máquinas todo en uno de escáner/fax/fotocopiadora/exprimidor.
+134) SAM
+Es la nota que encontró Flint Paper, de un misterioso señor S para Stinky.
+135) SAM
+“Stinky mi reina, no puedo esperar más. Haré mi gran aparición esta tarde. Dices que no confiarán en mí porque no soy humano, ¡pero al diablo con las consecuencias! Debemos empezar la fase 2 de la operación AHORA. Te llamaré a tu número privado con los detalles. Con amor, S.”
+136) SAM
+“P.D. Solo para asegurarme... tu número privado sigue siendo 212-555-8942, ¿verdad?”
+137) SAM
+No necesito esta cosa. Quizá haya alguien por la ciudad buscando material de oficina anticuado.
+138) SAM
+Es el anillo de compromiso barato que Skunkape compró para su nueva “reina”.
+139) SAM
+No estoy listo para comprometerme.
+140) SAM
+No, pero apuesto a que ALGUIEN más está buscando esta cosa obsoleta.
+141) SAM
+¿Seguís buscando un cuarto miembro?
+142) SAM
+No hay espacio para eso con los cables de arranque en el asiento trasero.
+143) SYNTH
+BUENO, HOLA, PRECIOSA. ¿ESTABAN BIEN ASEGURADAS TUS PARTES MÓVILES CUANDO CAÍSTE DEL CIELO?
+144) MOVIEFONE
+Tras insertar dos objetos, nuestra tecnología exclusiva Clue-Match escaneará en busca de posibles conexiones.
+145) MOVIEFONE
+...¡revelará una nueva ubicación en tu mapa!
+146) MAX
+¿Cuándo, exactamente, se volvió todo esto tan asqueroso?
+147) MOVIEFONE
+¡Gracias por unirse a nosotros en un nuevo estilo de lucha contra el crimen del siglo XX! Puedes empezar a enviar pistas al Crime-Tron cuando las encuentres.
+148) MOVIEFONE
+Si no podemos reconocer una pieza, escucharás esto:
+149) BLEEPS
+¡Blaat!
+150) BLEEPS
+¡Blip! ¡Blip! Blip!
+151) MOVIEFONE
+Aleja eso de nosotros.
+152) SYNTH
+ES DEMASIADO PODER. MI MENTE SE ESTÁ YENDO. LO SIENTO. LO SIENTO.
+153) SAM
+No quiero tirar esta cosa por ahí, podría romperla.
+154) SAM
+¡Todavía necesito esto! Además, el contrato dice explícitamente que los minutos no son transferibles.
+155) SAM
+Será mejor que me quede con esto.
+156) SAM
+El móvil de Harry Moleman. Sin llamadas, sin mensajes, sin números. Triste, la verdad.
+157) SAM
+Esta cosa es demasiado complicada. Tendrías que ser algún tipo de ordenador para entenderlo.
+158) SAM
+Este casco solo debería ser usado por personas que realicen actividades peligrosas o cuestionables.
+159) SAM
+Me he encariñado con mi propio sombrero. Tal vez alguien más pueda usarlo.
+160) SAM
+Mejor me quedo con esto. ¡Podría ser una pista importante en nuestro caso!
+161) SAM
+Es la insignia de prisionero de la Zona Penal de Skunkape, con baliza localizadora incorporada.
+162) SAM
+Aquí dice en las instrucciones, “solo utilizable por hombres topo”.
+163) SAM
+¡Esta cosa podría valer millones! Será mejor que tenga más cuidado con ella.
+164) SAM
+No, voy a necesitar esta cosa para atrapar a Skunkape.
+165) SAM
+No, esta cosa es inútil ahora que la Zona Penal ha sido volada.
+166) SAM
+Ahora que la Zona Penal ha sido destruida, esta cosa no sirve de nada.
+167) SAM
+No, esto del caldo es demasiado importante para desperdiciarlo.
+168) SAM
+¡Sonaba como si el caldo demoníaco del abuelo Stinky fuera lo suficientemente potente como para despertar a los muertos!
+169) SAM
+No, mejor guardo esto para alguien que necesite una sacudida.
+170) SAM
+No puedo conectar un generador de grietas dimensionales a ESO.
+171) SAM
+Será mejor que guarde esta nota. Podría haber información valiosa en ella.
+172) SAM
+Skunkape consiguió este anillo en ALGÚN sitio, pero la inscripción solo dice “Mala suerte”.
+173) SAM
+Esta postal es de alguien que colecciona y vende juguetes antiguos y reliquias familiares.
+174) MOVIEFONE
+Soy perfectamente capaz de hacer llamadas telefónicas sin eso, gracias.
+175) MAX
+¿Qué se supone que debo hacer con eso? Tú eres el de los bolsillos.
+176) MAX
+No lo quiero.
+177) SAM
+Bueno, ya me has oído, amiguito. ¡Tenemos que encontrar algo de caldo de demonio, y el núcleo de energía futurista de Mamá Bosco!
+178) MOVIEFONE
+¡Has descubierto una nueva ubicación!
+179) SYNTH
+ESCANEO COMPLETADO. NUEVA UBICACIÓN DESBLOQUEADA.
+180) MOVIEFONE
+¡Éxito! ¡Se ha revelado un nuevo destino en tu mapa!
+181) SYNTH
+OBJETO NO ENCONTRADO EN LA BASE DE DATOS.
+182) SYNTH
+OBJETO NO RECONOCIDO.
+183) MAX
+Parece que ahora mismo no puedo recordar ese número de teléfono, Sam.
+184) MAX
+¡No quiero ir ahí ahora, y no puedes obligarme!
+185) MAX
+¡Oye, mi poder psíquico no funcionó! Debe haber una mancha solar dramáticamente conveniente cerca.
+186) 
+Colgar
+187) MOVIEFONE
+¡Enhorabuena! ¡Has desbloqueado un juguete secreto sorpresa!
+188) SYNTH
+HEMOS LOCALIZADO LA UBICACIÓN DEL NUEVO JUGUETE EN TU MAPA. DE NADA.
+189) SAM
+¡Cálmate, Max! Mira el móvil de Stinky: ¡vamos a necesitar eso y tus espeluznantes nuevos poderes cerebrales para salir de esta jaula!
+190) SAM
+¿Alguna idea, Max?
+191) MAX
+Un ratón de campo detective a dos días de jubilarse forma equipo con un halcón peregrino novato para detener a un asesino en serie. Lo llamo "Una presa y un halcón". Drama de una hora, posible reemplazo a mitad de temporada.
+192) SAM
+¿Alguna idea de cómo enviar a Skunkape de vuelta a la Zona Penal?
+193) MAX
+Hmm... bueno, tengo poderes psíquicos.
+194) SAM
+¿Recuerdas la lista de “Qué hacer en caso de invasión alienígena”, pequeño?
+195) MAX
+¡Oh, lo sé! 1) Interrogar al líder alienígena. 2) Liberar a las horribles criaturas experimentales atrapadas en su nave espacial.
+196) SAM
+¿Y...?
+197) MAX
+3) Hacerles creer que la arena para gatos es la moneda oficial de la Tierra.
+198) SAM
+Luego siéntate y observa cómo se desata la hilaridad. ¡Buen trabajo, Max!
+199) SAM
+¿Dónde se supone que vamos a encontrar caldo de demonio?
+200) MAX
+Siempre hago el mío propio. Poner un demonio fresco en el caldo le da un sabor casero que no encuentras en los restaurantes.
+201) SAM
+¿Puedes usar tus extraños poderes mentales para OBLIGAR al abuelo apestoso a darnos ese caldo del demonio?
+202) MAX
+Eso depende. ¿Qué tan importante es que su cabeza no explote?
+203) SAM
+Eso sería un problema. Deberías practicar con objetos inanimados primero.
+204) SAM
+¿Has sabido algo de Mamá Bosco últimamente?
+205) MAX
+No desde que se mudó al otro lado de la ciudad. Las cosas se complicaron después de que rompí con ella.
+206) SAM
+No rompiste con ella, viajamos en el tiempo y luego ella murió y se convirtió en fantasma.
+207) MAX
+Como ya dije: complicado.
+208) SAM
+¿Qué ha estado haciendo Flint Paper mientras renuevan nuestro edificio?
+209) MAX
+He oído que ha desarticulado bandas callejeras, se ha cargado a jefes mafiosos y ahora se está comiendo todos los platos del menú de Stinky.
+210) SAM
+Oh, oh, ha cruzado la línea de “imprudente” a “deseo de muerte”.
+211) SAM
+¿Por qué se aliaría Stinky con el general Skunkape?
+212) MAX
+Ya sabes cómo son las mujeres. No les dan ni la hora a los chicos buenos, pero en cuanto llama el tipo “peludo, malvado y señor de la guerra intergaláctico”, vienen corriendo.
+213) SAM
+¿Cómo se conectan un núcleo de energía y un cerebro alienígena?
+214) MAX
+No puedes apresurarlo, Sam. Déjalos solos juntos en el asiento trasero de un coche y deja que la naturaleza siga su curso.
+215) SAM
+¿Qué se supone que tenemos que hacer?
+216) MAX
+Algo sobre un cerebro alienígena, ¿no? Yo veo el futuro, Sam. No se me da tan bien el presente.
+217) SAM
+¿Alguna vez te ha preocupado que tu visión del futuro fuera sólo un gran malentendido y Skunkape resulte ser un buen tipo después de todo?
+218) MAX
+Preocuparse es para criaturas inferiores, Sam. Soy un ser psíquico altamente avanzado, el siguiente paso en nuestra evolución.
+219) SAM
+Bueno, cuando lo pones así, no puedo evitar estar aún más aterrorizado.
+220) SAM
+¿Tu familia tiene antecedentes de poderes psíquicos, Max?
+221) MAX
+No, mi viejo Papa Maximus siempre creyó en las formas tradicionales de prender fuego o hacer explotar cosas.
+222) SAM
+¿No tenías un montón de poderes psíquicos geniales en tu visión del futuro?
+223) MAX
+¡Sí! ¡Ese estúpido cerebro debe estar ocultándonos algo!
+224) SAM
+¿Dónde crees que se fue Stinky?
+225) MAX
+A confesarse, si sabe lo que le conviene a su alma.
+226) SAM
+No todo el mundo ha abrazado la religión como tú, Max.
+227) MAX
+¡Tengo al Padre McCallister en marcación rápida!
+228) SAM
+¿Crees que la cursi idea del ordenador para crímenes de los COPS realmente funcionará?
+229) MAX
+Probablemente no, pero ¿qué es lo peor que podría pasar?
+230) SAM
+Nos envía a un callejón sin salida en la peor parte de la ciudad, donde nos come una banda callejera caníbal que alimenta los restos a tiburones mutantes de alcantarilla y luego nos da cáncer.
+231) MAX
+No entiendo cómo se puede ser tan gruñón en una ciudad con bandas callejeras de caníbales Y tiburones mutantes de alcantarilla.
+232) SAM
+¿Crees que tenemos lo necesario para unirnos al ejército de Skunkape?
+233) MAX
+Creo que te vendría bien un buen entrenamiento de estómago, Sam. Pierde peso a la manera apestosa.
+234) SAM
+Purgar sí que tonifica los abdominales, te lo concedo.
+235) SAM
+¿Crees que deberíamos contarle a la familia de Harry Moleman lo de sus... err, "vacaciones"?
+236) MAX
+Depende de si crees que nos dejó algo en su... eh, “última voluntad y testamento”.
+237) SAM
+¿Cómo vamos a entrar en el laboratorio de Mamá Bosco?
+238) MAX
+¡Prueba la escalera de incendios!
+239) SAM
+¿De qué va a servir?
+240) MAX
+Probablemente nada. Pero entonces puedes tirarte desde el tejado en un ataque de desesperación.
+241) SAM
+¿Cómo vamos a atrapar a un alienígena?
+242) MAX
+¿Por qué no preguntarle al Agente Superball? Creo que es uno de ellos. ¡Nunca he visto su ombligo!
+243) SAM
+Tú tampoco has visto nunca MI ombligo.
+244) MAX
+Mantengámoslo así, Sam, o como quiera que te llames de verdad.
+245) SAM
+¿Estás seguro de que esa visión de futuro tuya funciona? ¡Se supone que estamos ganando!
+246) MAX
+Tal vez solo sean gafas de visión del futuro con tinte rosa.
+247) SAM
+¿Qué hacemos ahora, Max? ¡El General Skunkape intenta matarnos con láseres y rencor!
+248) MAX
+¡Puede destrozar nuestro vecindario, pero nunca nos matará! Somos los héroes del juego, Sam.
+249) SAM
+Creo que estás sobreestimando nuestra comerciabilidad, amiguito.
+250) SAM
+¿Te apetece volver a bordo de la nave de Skunkape?
+251) MAX
+¡Es el momento perfecto para atacar! Nos ha humillado y derrotado tantas veces, ¡que debe sentirse demasiado confiado!
+252) SAM
+¿De dónde vamos a sacar suficiente energía para encender el chisme dimensional de Mamá Bosco?
+253) MAX
+El verdadero poder viene de dentro, Sam.
+254) SAM
+¿Desde dentro de qué?
+255) MAX
+Reactores, generadores, baterías, turbinas, artefactos antiguos... muchas cosas.
+256) SAM
+¿Qué hacemos ahora?
+257) MAX
+Sigue probando cosas. Al final lo descubrirás.
+258) SAM
+¡Es como un sauna aquí dentro!
+259) MAX
+¡No puedo soportar mucho más, Sam! ¡Ya estoy tan desnudo como sé estarlo!
+260) SAM
+¡No puedo creer todas las locuras que nos llevaron a este enfrentamiento épico!
+261) MAX
+Probablemente será más creíble una vez que lo hayamos visto todo en orden.
+262) SAM
+¡Se siente bien estar en un caso otra vez!
+263) MAX
+Probablemente será más creíble una vez que lo hayamos visto todo en orden.Ahora bien, ¿es realmente un "caso" si no tenemos cliente y nadie nos paga?
+264) SAM
+El cliente es la Justicia, Max, y la Justicia es ciega y frugal.
+265) SAM
+Ahora todo tipo de malos van a ir detrás de tus espeluznantes poderes y tu cuerpo de monstruo.
+266) MAX
+Diles que hagan cola. Tengo a todo tipo de damas intentando conseguir un pedazo de este cuerpo.
+267) SAM
+Ya te lo expliqué, Max. Esas señoras te quieren para pruebas de cosméticos.
+268) SAM
+Espero que esos poderes psíquicos no sean un peligro para las personas con las que trabajas o que están cerca, Max.
+269) MAX
+Cada vez que los uso, siento como si alguien estuviera microondas una pistola de radar cerca de un cable de alta tensión en mi cráneo.
+270) SAM
+Menos mal que ninguno de los dos está permitido legalmente, moralmente o éticamente para reproducirse.
+271) SAM
+Sybil nos ha enviado una postal. Ella y la gigantesca cabeza de piedra de Abraham Lincoln siguen de luna de miel prolongada.
+272) MAX
+Y tú decías que su matrimonio no duraría.
+273) SAM
+En realidad, dije que era una violación de las leyes de la naturaleza y de la mayoría de las grandes religiones.
+274) SAM
+Estoy sorprendido y decepcionado de que hayas logrado seguir siendo Presidente tanto tiempo.
+275) MAX
+Sí, ese repentino e inexplicable brote de peste bubónica realmente unió a la nación para mi reelección.
+276) SAM
+Eso me recuerda, ¿dónde están Jimmy Two-Teeth y todos sus amigos ratas?
+277) MAX
+Lo peor: de repente recibieron mucho dinero de un benefactor anónimo.
+278) SAM
+Espero que terminen pronto las obras de reparación de nuestro edificio. Echo de menos ducharme.
+279) MAX
+Podríamos darnos baños de lengua, como hacen los gatos y las azafatas.
+280) SAM
+Bueno... vale, supongo. Solo ten cuidado alrededor de la nuca, ahí es donde soy más propenso a las erupciones por corbata.
+281) SAM
+La ciudad tiene un aspecto muy diferente del que yo recordaba.
+282) MAX
+Es el nuevo alcalde y su campaña “¡Hombre, Nueva York! Es una ciudad, no una maldita guardería”.
+283) SAM
+Sin embargo, su toma de posesión ha sido la más llena de acción de los últimos años.
+284) MAX
+¡Llevaba un collar hecho de dedos humanos!
+285) SAM
+Me pregunto cómo sería vivir en otro planeta.
+286) MAX
+Probablemente muy parecido a este, pero más saltarín. Y más rico en metano.
+287) SAM
+No necesito ir a otro planeta para tener un entorno rico en metano, mientras te tenga a ti, amigo.
+288) MAX
+Eso es muy dulce y obvio, Sam.
+289) 
+Cerebro alienígena
+290) SAM
+¿Cómo se supone que vamos a devolver a la vida a nuestro amigo el cerebro alienígena?
+291) MAX
+Seguro que al final se te ocurre algo.
+292) SAM
+No tengo ese tipo de paciencia, pequeño.
+293) MAX
+¿Qué quieres, Sam? No es como si pudiera ver el futuro... oh, espera.
+294) SAM
+Espero que ese cerebro alienígena aprecie todo el lío por el que estamos pasando para devolverlo a la vida.
+295) MAX
+Eh, ya sabes cómo son esos intelectuales. Probablemente empezará a presumir de que no tiene tele.
+296) 
+Skunkape
+297) SAM
+¡Si no lo detenemos, el general Skunkape destruirá toda la ciudad!
+298) MAX
+Sí, esperemos a que termine con Queens. Estoy bastante harto de su actitud.
+299) SAM
+¿Cómo vamos a devolver al General Skunkape a la Zona Penal?
+300) MAX
+Si eres un gorila espacial malvado y lo sabes, ¡da palmas!
+301) MAX
+Este demonio es más listo de lo que imaginábamos.
+302) SAM
+Espero que el planeta no caiga en el plan de Skunkape. Sea cual sea.
+303) MAX
+Bueno, ES bastante carismático, Sam. Y es del espacio, lo cual es un plus.
+304) MAX
+Pero tú eres el único fanático del control, peludo, con sobrepeso y dominante que necesito, Sam.
+305) SAM
+Vaya, gracias, Max. Creo.
+306) SAM
+¡Skunkape podría estar en cualquier parte de la ciudad!
+307) MAX
+Es un matón musculoso con un acento raro y excesivo pelo en la espalda. Debería ser fácil de detectar, al menos hasta que lleguemos al Bronx.
+308) SAM
+¡Después de eso, necesitaríamos algún tipo de ordenador para encontrarlo!
+309) SAM
+Me pregunto adónde se habrá ido el general Skunkape.
+310) MAX
+Probablemente está haciendo lo que todos hacen en su primera vez en Nueva York.
+311) SAM
+¿Asociarse con mujeres sueltas y emprender una búsqueda por toda la ciudad de juguetes psíquicos mágicos?
+312) MAX
+Por algo es un cliché, Sam.
+313) SAM
+Estoy deseando deshacerme de ese imbécil de Skunkape de una vez por todas.
+314) MAX
+Pero si es el gran villano, ¿qué haríamos después de derrotarlo?
+315) SAM
+Bueno... ¡podríamos dejarlo salir cada pocas semanas y darle más palizas!
+316) 
+Max
+317) SAM
+Mi memoria está borrosa, pero estoy bastante seguro de que todo esto es culpa tuya, Max.
+318) MAX
+¿Qué puedo decir, Sam? Las naves alienígenas adoran abducirme. No es mi culpa que parezca tan... sondable.
+319) SAM
+Esos poderes psíquicos tuyos son muy buenos.
+320) MAX
+Supongo. Qué pena que no los tuviera en la noche del baile de graduación.
+321) SAM
+¡Anímate, amigo! Piensa en toda la destrucción que puedes causar en la reunión de la clase.
+322) SAM
+No te preocupes, pequeño. No dejaré que te pase nada malo o demasiado mortal.
+323) MAX
+¡Eres mi mejor amigo, Sam! ¡Sé que recibirías una bala por mí!
+324) SAM
+Bueno... al menos sería muy grosero con el tipo que te disparara.
+325) 
+Adiós
+326) SAM
+Sigue vigilando los cielos, Max.
+327) MAX
+Dispararé si intentan algo raro.
+328) SAM
+Hasta luego, Max.
+329) MAX
+¡Mantén el contacto!
+330) MOVIEFONE
+Coloque dos pruebas cualesquiera en el multiescáner Crime-Tron XL.
+332) MAX
+Sam, ¿dónde crees que fue ese hombre topo?
+333) 
+Invasión extraterrestre
+334) 
+¿Y ahora qué?
+337) 
+¿Y ahora qué?
+339) 
+¿Y ahora qué?
+335) 
+¿Preocupado?
+336) 
+¿Historia psíquica?
+338) 
+¿Visión de futuro?
+340) 
+¡Quema!
+341) 
+¡Estoy confuso!
+342) 
+¡Caso nuevo!
+343) 
+¡Poderes psíquicos!
+344) 
+¡Poderes psíquicos!
+345) 
+Sybil
+346) 
+Presidencia
+347) 
+Edificio
+348) 
+New York
+349) 
+Otros planetas
+350) MAX
+Vamos a dar una vuelta en el DeSoto, Sam. Quiero ver qué maldades han causado los COPS.
+351) MAX
+¡Vamos a hablar con Momma Bosco! La respeto porque es inteligente, descarada y semitransparente.
+352) MAX
+No puedo creer que Skunkape nos deje entrar en su nave sin supervisión. ¡Es como si nunca nos hubiera conocido!
+353) 
+Nop
+354) SAM
+Un destornillador, del tipo que se usa para atornillar y desatornillar.
+355) SAM
+Realmente no quiero atornillar eso.

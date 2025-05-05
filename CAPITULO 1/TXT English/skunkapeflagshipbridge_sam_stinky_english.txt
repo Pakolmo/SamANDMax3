@@ -1,0 +1,146 @@
+﻿1) STINKY
+{suspicious} Sam and Max? Don’t tell me Skun-ka’pe wants YOU guys to be his love slaves, too?
+2) MAX
+{sarcastic} You’d be surprised just how many fetishes there are that involve Sam and me.
+3) SAM
+{confused} What are you doing locked in here, Stinky?
+4) STINKY
+{cocky} I’ve got no idea. I assumed it was Grandpa Stinky’s fault.
+5) STINKY
+{disgusted} Ugh. Hang on a second.
+6) STINKY
+[annoyed] {disgusted} “I M U R LUV MONKEE.” Yes, hi, Skun-ka’pe. I see you. That’s very clever. [to Sam & Max]{suspicious}He’s been texting me non-stop. I tried to throw the phone away just to get away from it.
+7) SAM
+Did you lose your cell ph—? [cut off]
+8) SAM
+Can you call for help on your fancy futuristic phone?
+9) STINKY
+{sarcastic} I already tried that when you guys were knocked out. {disgusted}There’s no signal off this spaceship.
+10) 
+Skunkape’s not so bad
+11) 
+Skunkape’s a jerk!
+12) SAM
+{confused} Why aren’t you out there on your throne?
+13) MAX
+{confused} Yeah, isn’t Skunkape your boyfriend?
+14) STINKY
+{disgusted} Eww. He wishes. He is SO not my type. You only have to date an evil gorilla once to learn never to make THAT mistake again.
+15) MAX
+{cocky} Oh, we’ve all been there, girlfriend.
+16) SAM
+{confused} How is this Grandpa Stinky’s fault?
+17) STINKY
+{disgusted} He’s been going on and on about Skun-ka’pe ever since he landed. {sarcastic}“THAT’s the kind of gentleman you should get involved with.” “HE’s got a future.” {disgusted}Ugh.
+18) SAM
+{stern} You’ve got to stay away from Skunkape! {incredulous} The guy’s a total butt horn.
+19) STINKY
+{sarcastic} You’re telling me! {cocky} I was just going to meet my... to meet a friend at the top of the Empire State Building. Then all of a sudden this giant gorilla shows up and carries me off to be his queen or something.
+20) SAM
+{stern} Gee, you’d think a hyper-intelligent alien could’ve come up with something more original.
+21) MAX
+{suspicious} I’m not buying this “super-advanced technology” business if they haven’t even mastered the technique of margaritas and unexpected car trouble.
+22) STINKY
+{disgusted} Whatever. Let me know if you’ve got any brilliant ideas.
+23) SAM
+You’ve got to help us take care of that jerk, Skunkape.
+24) SAM
+I think you’re being too hard on Skunkape. {sarcastic}He’s just misunderstood.
+25) STINKY
+{cocky} Oh yeah? Did I “misunderstand” this picture he sent me?
+26) SAM
+[shocked] {surprised} Good heavens!
+27) MAX
+[shocked, quietly] {Scared} I think I should put on some clothes now.
+28) SAM
+{incredulous} Well, Skunkape’s got a lot of good points, too.
+29) STINKY
+{Stern} Name one.
+30) SAM
+Yeah, you got me. I can’t think of any.
+31) SAM
+{sarcastic} He’s super-strong!
+32) SAM
+{incredulous} He must be pretty smart, being from an advanced alien culture and all.
+33) SAM
+{happy} He’s got that effortless charm.
+34) SKUNKAPE
+{evil} Die, Earthlings! Ha ha ha ha ha ha!
+35) MAX
+{happy} And a gentle, carefree laugh like a warm summer’s day.
+36) SAM
+He’s got his own spaceship!
+37) STINKY
+{disgusted} I noticed. That may impress you boys, but...
+38) MAX
+{worried} But then she wouldn’t be able to talk to us anymore!
+39) STINKY
+[sing-song] {cocky} Yoo-hoo, General Skun-ka’pe!
+40) STINKY
+{disgusted} That kind of thing may impress Sybil, but it doesn’t do anything for me.
+41) MAX
+{happy} And he deflects bullets!
+42) STINKY
+{suspicious} Gee, it sounds like YOU two should go out with him. Would you like me to give you guys some privacy?
+43) SAM
+{sarcastic} Well, to be fair, she does lead people on.
+44) STINKY
+[sarcastic] {suspicious} Oh yeah, he’s a genius. He spent an hour trying to hit on the Statue of Liberty before his minions convinced him it was a statue.
+45) MAX
+{suspicious} Waving that torch around, inviting strangers up in her crown. {sarcastic}She’s asking for it.
+46) STINKY
+[insincere] {seatedthrone} Oh, great! You’ll have to catch up with me later and tell me how you did it.
+47) SAM
+Don’t worry, Stinky! {sarcastic} We made it out okay!
+48) SAM
+{confused} Any idea how we can beat Skunkape?
+49) STINKY
+{seatedthrone} Aren’t you guys supposed to be detectives or something? I thought you’d be used to figuring these things out.
+50) MAX
+{sarcastic} We tend to focus on wacky and irreverent hijinks over the actual detective work.
+51) SAM
+[loudly] {angry} You’ll live to regret betraying us, “Queen” Stinky!
+55) SAM
+[loudly] {angry} You’ll live to regret betraying us, “Queen” Stinky!
+52) STINKY
+{seatedthrone} You’re no match for General Skun-ka’pe, Sam & Max! When he’s done, the world will never have to listen to your idiotic nonsense ever again!
+53) STINKY
+{seatedthrone} You’re no match for General Skun-ka’pe, Sam & Max! When he’s done, the world will never have to listen to your idiotic nonsense ever again!
+54) MAX
+[loudly] {angry} Soon you’ll be serving TIME instead of serving BAD FOOD... in the Penal Zone!
+56) SAM
+[quieter] {happy} Nice performance, Stinky! I think Skunkape believed it!
+57) STINKY
+Oh, uh, right. “Performance.”
+58) SAM
+[sarcastic] {sarcastic} Don’t bother getting up, Stinky.
+59) MAX
+{cocky} Yeah, we got this.
+60) 
+Stinky
+61) 
+Grandpa Stinky
+62) 
+Cell phone
+63) 
+Bye
+64) SAM
+Stay strong, Stinky.
+65) MAX
+{cocky} You gotta keep a cool head when you’re in the joint.
+66) STINKY
+{suspicious} I liked it better when you guys were unconscious.
+67) 
+Strength
+68) 
+Intelligence
+69) 
+Charm
+70) 
+Spaceship
+71) 
+Never mind
+72) SAM
+[pickup1] ...and the keys to your cage, so he could let you out.
+73) SAM
+[pickup1] We’re all set, Max! Now we’ve just got to get out of this cage so we can wrap this case up once and for all!

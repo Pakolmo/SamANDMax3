@@ -1,0 +1,20 @@
+﻿1) 
+© 2010–2024 Skunkape Games LLC and Steve Purcell. All rights reserved.
+All trademarks are the property of their respective owners.
+2) 
+Progress is saved whenever this icon is displayed.
+Please do not turn the power off while the icon is on screen.
+3) 
+Press <ui_controllerButtonRight.d3dtx> to start
+4) 
+Press <ui_controllerButtonDown.d3dtx> to start
+5) 
+Click to start
+6) 
+Tap to start
+7) 
+Some scenes contain bright flashes or strobing effects that
+may affect players who are susceptible to photosensitive
+epilepsy or have other light sensitivities.
+
+^color:#ff742f^These effects can be disabled in the Accessibility Settings menu.^^

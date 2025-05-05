@@ -1,0 +1,372 @@
+﻿1) SAM
+Need a hard hat, Flint?
+2) FLINT
+Thanks, but no thanks, fellas. {arrogant}Safety’s not my style.
+3) FLINT
+That’s swell, fellas, but—
+4) SAM
+We’d feel better if you wore this hard hat, Flint.
+5) FLINT
+{worried}[shocked] PEANUTS?!
+6) FLINT
+{angry}[angry] You know I’m allergic to peanuts, Stinky! Are you trying to kill me?
+7) FLINT
+{normal}[to Sam & Max] Something’s fishy with that dame. Now what do you want to know?
+8) STINKY
+{sarcastic}[nervous denial] Ha ha, kill you? Don’t be silly!
+9) FLINT
+{disgusted}[moved] Aww, you’re right, pals.{normal} I’ve just been thinking of myself all this time. {happy}Hand it over.
+10) MAX
+[pointedly] Doris would want you to have it.
+11) SAM
+I guess having just a jukebox wasn’t loud and annoying enough.
+12) GRANDPASTINKY
+{suspicious}A lottery ticket? Pah! {angry}Don’t ye know that nobody ever wins these... [cut off by radio announcer]
+13) GRANDPASTINKY
+Pah, take it! After today, I never need to worry about money again!
+14) SAM
+{confused}What about your super-secret demon broth?
+15) GRANDPASTINKY
+Did you hear that? I TOLD ye I would win!
+16) RADIOANNOUNCER
+This just in... in a surprising upset, we’re told that the winning ticket was transferred to local diner owner Grandpa Stinky. Sorry, Harry Moleman! Better luck next time!
+17) RADIOANNOUNCER
+We interrupt this program for a breaking news bulletin: officials for the city’s 700 million dollar lottery jackpot drawing have announced that there is one winning ticket, sold to unemployed and somewhat pathetic Moleopolis resident Harry Moleman.
+18) SAM
+We’re all torn up about stealing your patent 30 years ago, Grandpa Stinky. Maybe this will make up for it.
+19) GRANDPASTINKY
+{happy}Wha ha! So long, suckers!
+20) SAM
+{happy}Wow! Would you look at that, Max? Amazing!
+21) MAX
+{aloof}[deadpan] It’s a secret passage, Sam. Really not that big a deal.
+22) FLINT
+{disgusted}[dying] Tell Doris... sorry... I wasn’t more... careful...
+23) STINKY
+{cellphoneStanding}[talking on phone] I was hoping you’d call. No, no, no, don’t speak! Those detectives are finally gone, but someone might be listening in. We should meet in person.
+24) SAM
+We’d better find a use for this quick, Max. {worried}I don’t like the way it sloshes around in my coat and gets everything disconcertingly moist.
+25) MAX
+{aloof}Oh sure, blame the demon broth.
+26) MAX
+{aloof}[slightly annoyed] We’ve been hearing that an awful lot lately.
+27) STINKY
+[talking on phone] Perfect, I’ll leave right away.
+28) STINKY
+[talking on phone] What? Of course not! And Sam & Max don’t suspect a thing.
+29) SAM
+{suspicious}Looks like SOMEBODY had an old ship’s wheel lying around and just threw it up on the wall.
+30) MAX
+{sarcastic}You hear the phrase “threw it up on the wall” a lot around here.
+31) SAM
+{enthused}From the days when captains’ wives would stand on the beach, looking out towards the ocean, longing for the day the waitress would come back with the check.
+32) SAM
+{realizing}[asking permission] Is anybody gonna eat this?
+33) SAM
+I knew Flint Paper was brave, {worried}but ordering Spaghetti a la Stinky is just plain reckless.
+34) SAM
+Stinky’s award-winning spaghetti, mentioned in the past five issues of the Occupational Safety and Health Administration’s Journal of Workplace Hazards.
+35) SAM
+Convenient his and hers post-dinner purging barrels.
+36) SAM
+{confused}Hmm, they still haven’t added “Banjo & Bagpipe Fantasia” or anything by Max’s favorite Chilean nu metal bands.
+37) MAX
+{sarcastic}It’s almost like those 42,000 comments & suggestions cards I filled out were a waste of time.
+38) SAM
+A long coil of rope might be useful... {worried}if it weren’t made of fiberglass, varnished, and bolted to the floor.
+39) SAM
+This phone only accepts Dutch guilder coins.
+40) MAX
+{aloof}Sorry, Sam. All I’ve got are some yuan, a few Euros, and six bucks in Italian lira.
+41) SAM
+{confused}Where do you keep all that change?
+42) MAX
+{regal}That’s none of your damn business.
+43) MAX
+In my sock, of course.
+44) SAM
+You’re naked! Where do you keep your sock?
+45) SAM
+{realizing}You’re right, Max. {stern}And he won’t stop pestering me about the twenty bucks he loaned me.
+46) SAM
+I could probably empty out this cash register and no one would know.
+47) MAX
+{aloof}[stern] God would know, Sam.
+48) SAM
+{worried}I can’t shoot Flint Paper! Max would never forgive me.
+49) SAM
+Just hand over the cheesy jalapeño poppers and nobody has to get hurt.
+50) STINKY
+{disgusted}[annoyed] Hello? What part of “please wait to be seated” don’t you understand?
+51) MAX
+{aloof}Well, all right. But this is coming out of your tip, lady!
+52) MAX
+{sarcastic}No kidding! You should really wear some sort of protective headgear if you’re gonna fall face first into a plate of spaghetti.
+53) SAM
+{worried}Wow, that looked painful.
+186) SAM
+{worried}Wow, that looked painful.
+54) MAX
+{confused}How come all the coolest stuff is kept behind counters? {angry}It’s like they don’t trust us, Sam.
+55) SAM
+{stern}Yeah, somehow I don’t see us getting back there with all these Stinkys hanging around.
+56) GRANDPASTINKY
+{suspicious}Oh, you’d LIKE to steal my super-secret Demon Broth recipe, wouldn’t ye? {angry}Well, hands off!
+57) MAX
+Come on, Stinky, stop fighting it. {sarcastic}You know we’re just gonna take it as soon as we find some way to get rid of you.
+58) GRANDPASTINKY
+{angry}FAH! I’ll win the lottery {sarcastic}before you ever get your conniving paws on my masterpiece.
+59) 
+radio
+60) 
+secret button
+61) 
+secret passage
+62) 
+ship’s wheel
+63) 
+bell
+64) 
+barrels
+65) 
+jukebox
+66) 
+rope coil
+67) 
+leftovers
+68) 
+pay phone
+69) 
+cash register
+70) 
+exit
+71) SAM
+[pickup1] Oh, no! Now we’ll NEVER be able to find Momma Bosco’s power core!
+72) GRANDPASTINKY
+{angry}Paaaah!
+164) GRANDPASTINKY
+{angry}Paaaah!
+73) SAM
+[pickup1] Yikes!
+74) MAX
+[pickup1] What?
+75) SAM
+[pickup1] Your Nutri-Specs indicate that, aside from the expected levels of snark, coffee ice cream, tar, and fish sticks, Girl Stinky is chock full of... love!
+76) MAX
+[pickup1] You must be reading that thing wrong.
+77) MAX
+[pickup1] As a certified coffee achiever, I demand to know what’s in Grandpa Stinky’s crummy coffee!
+78) SAM
+[pickup1][reading] Hmm. Looks like nothing but coffee.
+79) MAX
+[pickup1] What, no gym socks? No squid ink? No exotic subatomic particles?
+80) SAM
+[pickup1] Nope, nothing but coffee. Really horrible coffee.
+81) MAX
+[pickup1] I feel a curious combination of relief and annoyance.
+82) SAM
+[pickup1] Judging from the elevated levels of hair gel, gold chains and pinkie rings in this pie, I think we can finally close the case of Lester the Lisping Loan Shark.
+83) SAM
+[pickup1] This half-eaten “bagonut” is actually made of pork, red dye, and children’s glue.
+84) MAX
+[pickup1] Ooh, unhealthy AND unkosher.
+85) SAM
+[pickup1] Let’s see what’s in Grandpa Stinky’s mysterious demon broth...
+86) SAM
+[pickup1][reading] Celery... chicken stock... carrots...
+87) MAX
+[pickup1] BORing!
+88) SAM
+[pickup1] [reading, continuing] Finely ground cherub bones... minced albino buffalo tongues...
+89) MAX
+[pickup1][impatient] What is this, a demon broth or a kindergarten pot luck? Where’s the EVIL?
+90) SAM
+[pickup1] Ah, here we go... 2 percent aspartame.
+91) MAX
+[pickup1] The fiend!
+92) SAM
+[pickup1] Surprisingly, this plate of spaghetti seems on the up-and-up... nothing but dough, water, ground beef, tomatoes, and something called “arachis hypogea.”
+93) MAX
+[pickup1] What’s that?
+94) SAM
+[pickup1] I think it’s Latin for “parmesean cheese.”
+95) SAM
+[pickup1] No wonder Flint freaked out... this thing has got “Arachis hypogea” sprinkled all over it!
+96) MAX
+[pickup1] Archi what now?
+97) SAM
+[pickup1] Peanuts, peanut brain.
+98) MAX
+[pickup1][lisping] Godthpeed, Lethter!
+99) SAM
+[pickup1] Algae, fish poop, rust... yup, this tank is 100 percent fish free.
+100) MAX
+[pickup1] Uh, so what HAVE we been eating here every Friday?
+101) SAM
+{confused}[pickup1] You know, now that I think about it, I don’t think I’ve ever seen a fish in this aquarium.
+102) MAX
+{sarcastic}[pickup1] They’re probably just hiding from the Stinkys.
+103) MAX
+[pickup1] The insect bits give the dough that extra bit of crunch!
+104) SAM
+[pickup1] Ever since Girl Stinky took over the kitchen, Stinky’s signature pies have gotten marginally more edible.
+105) SAM
+[pickup1] Songs have been sung about Stinky’s awful coffee.
+106) MAX
+[pickup1][starting to sing] My diuretic friend...
+107) SAM
+[pickup1] {incredulous}[context: interrupting Max] Songs we don’t sing.
+108) MAX
+[pickup1]{stern} [context: darn!] Rats.
+109) SAM
+[pickup1] Wow, Grandpa Stinky really IS nothing but a seething cauldron of bitterness, rage, and bile.
+110) MAX
+[pickup1] We needed mystical psychic specs to tell us THAT?
+111) SAM
+[pickup1] Well, his sodium level’s a little high.
+112) SAM
+[pickup1] Flint’s fists are made of steel, his belly is full of booze, his lungs are a symphony of cigarette smoke and cheap perfume, and his brain is awash in regrets and revenge.
+113) MAX
+[pickup1] That’s one damn poetic nutritional card, Sam.
+114) SAM
+[pickup1] Ahhh, Stinky’s Diner. The perfect place to catch up with old friends.
+115) MAX
+[pickup1] And meet new ones, like emergency medical technicians, and the friendly folks at Poison Control!
+116) SAM
+[pickup1] [context: seeing it on the wall] A souvenir from Grandpa Stinky’s first food order.
+117) MAX
+[pickup1] And the first city-wide trichinosis outbreak in decades.
+118) SAM
+[pickup1] [context: caught sneaking] Um... shame on you, Max! You know how Stinky explicitly told us never to go back in the kitchen!
+119) SAM
+[pickup1] [context: caught sneaking] Err... we, uh... got lost, Stinky. Our table must be on the OTHER side of the counter.
+120) SAM
+[pickup1] It’s locked from the inside.
+121) MAX
+[pickup1] It’s just as well. Seeing how they make the food would ruin the magic.
+122) SAM
+[pickup1] You’re right, pal.
+123) SAM
+{suspicious}[pickup1] I didn’t want to go in there, anyway.
+124) SAM
+[pickup1] {sarcastic}Just because the food’s bad is no excuse to take it out on the kitchen.
+125) SAM
+[pickup1] {sarcastic}Nah, Grandpa Stinky’s survived this long on pure spite. I don’t want to break his record.
+126) RADIOANNOUNCER
+[pickup1] And that was “Paddy Me Up the Dingle Down” by Cap’n Cod and the Crusty Salts. Stay tuned for more shanties and breaking news.
+127) RADIOANNOUNCER
+[pickup1] Coming up soon, an important bulletin. And tune in this Friday, Friday, Friday for our ALL CONCERTINA WEEKEND!
+128) RADIOANNOUNCER
+[pickup1] Coming up, the latest news. But first: more songs about whales and icebergs!
+129) SAM
+[pickup1] [sarcastic, smarmy, context: giving her an engagement ring] {sarcastic}I don’t think Girl Stinky’s the marrying kind, if you know what I mean.
+130) MAX
+[pickup1] {confused}Uh... what DO you mean?
+131) SAM
+[pickup1] I have no idea.
+132) SAM
+[pickup1][reading] Vanilla, ice cream, and... yak milk?
+133) MAX
+[pickup1] No WONDER I always wanna yak after drinking one of these!
+134) SAM
+[pickup1] Got any idea where Girl Stinky scampered off to?
+135) GRANDPASTINKY
+[pickup1] {disgusted}Pfah! How should I know? The ungrateful wretch comes and goes at the drop of a hat! And does she ever tell her overworked grandpa where she’s going in such a blasted hurry?
+136) MAX
+[pickup1] {incredulous}Well? Does she?
+137) GRANDPASTINKY
+[pickup1] NO!
+138) SAM
+[pickup1] {confused}[context: looking at a milkshake] Strawberry?
+139) MAX
+[pickup1] {aloof}Beet juice and ham.
+140) SAM
+[pickup1] We’re all torn up about trying to steal your demon broth, Grandpa Stinky. Maybe this will make up for it.
+141) SAM
+[pickup1] Sheesh, Grandpa Stinky. We just thought you could stand to get out of the diner once in a while.
+142) MAX
+[pickup1] [sarcastic] You’re welcome!
+143) 
+aquarium
+144) 
+pie
+145) 
+coffee pot
+146) 
+framed bacon
+147) 
+kitchen door
+148) 
+milkshake
+149) 
+listen to
+150) 
+exit to the street
+151) 
+push
+152) 
+use
+153) 
+enter secret passage
+154) 
+pick up
+178) 
+pick up
+155) 
+open
+156) 
+show mysterious note to Stinky
+157) STINKY
+{disgusted}Do you guys mind? I’m waiting for an important phone call.
+158) MAX
+Sam, {confused} where do you think that mole man went?
+159) MAX
+Let’s take the DeSoto for a spin, Sam. I want to see what evil the COPS have wrought.
+160) MAX
+{realizing}Intriguing!
+161) 
+Stinky
+162) 
+Grandpa Stinky
+163) 
+Flint Paper
+165) SAM
+I wish I could predict what I was about to do, ‘cause then I wouldn’t have to waste time trying to think of what it is.
+166) FLINT
+{happy}Hiya, furry pals!
+167) SAM
+I sure hope those psychic powers aren’t a danger to the people you work on or around, Max.
+168) SAM
+These psychic powers of yours are pretty neat.
+169) MAX
+I can’t believe Skunkape just let us walk into his ship unsupervised. It’s like he’s never even met us.
+170) MAX
+I’m tired of interdimensional space gorillas, Sam. Let’s go for a drive.
+171) SAM
+Max’s teleportation power is pretty cool; {suspicious}I just wish there weren’t so much inappropriate touching involved.
+172) 
+spaghetti
+173) 
+look at
+184) 
+look at
+174) SAM
+[pickup1] I still need this! Besides, the contract explicitly says that the minutes are non-transferrable.
+175) 
+ask Grandpa Stinky about Stinky’s cell phone
+176) 
+give Stinky’s cell phone to Grandpa Stinky
+177) MAX
+{angry}Grrrrrrr!
+179) 
+examine
+180) 
+inspect
+181) 
+consider
+182) 
+appreciate
+183) 
+analyze
+185) 
+inquire about

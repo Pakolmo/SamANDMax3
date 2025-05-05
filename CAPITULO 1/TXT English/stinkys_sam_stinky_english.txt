@@ -1,0 +1,106 @@
+﻿1) STINKY
+{sarcastic}[distracted] Oh, hi, Barney and Jug-Jug.
+2) MAX
+{incredulous}“Barney and Jug-Jug”? {suspicious}You’re not even TRYING with the names anymore, are you?
+3) STINKY
+Look, I’ve got a lot going on. {sarcastic}Can I just give you your key, or your crystal shard, or {normal}whatever it is you’re looking for, so you guys can go off and do{suspicious} whatever it is you do?
+4) SAM
+{worried}Sorry, Stinky. We’ve gotta go through all the questions. It’s the rules.
+5) STINKY
+{disgusted}Whatever.
+6) STINKY
+{suspicious}Are you still here?
+7) SAM
+{confused}Okay let’s see... {normal}I’ll take a double bacon cheddar butter deluxe, heavy on the wacky sauce. Two orders of the jalapeno cheesy poofters, Rhode Island style.
+8) STINKY
+{sarcastic}I’m on break.
+9) MAX
+{surprised}No! Three!
+10) MAX
+{aloof}Small side salad, please. {happy}Oh! And some bangers and mash. {aloof}HOLD the mash.
+11) SAM
+Okay, three. And let’s throw in one of the eight bean casseroles with extra onion rings,{enthused} and finish it off with a jumbo-sized frosty banana mint pickle cyclone chugger, with extra jimmies.
+12) STINKY
+{sarcastic}[covering up] You boys must be mistaken. It’s always been just me here, working the kitchen, no one else. [trying to sound sincere]That’s why I’m so grateful Grandpa Stinky’s back.
+13) MAX
+{confused}Yeah, what was his name? Sal or Pablo or Mohammed or something?
+14) SAM
+{confused}What happened to your fry cook?
+15) STINKY
+Nope, haven’t seen it. Momma Bosco would know about that kind of thing.{suspicious} I mean... I’m guessing.
+16) SAM
+[context: what does it look like?] Futuristic.
+17) MAX
+{aloof}[context: what does it look like?] Core-shaped. Kind of power-ish.
+18) SAM
+You haven’t seen a futuristic power core around here, have you?
+19) STINKY
+{sarcastic}[denial] What? No, of course not! [trying to recover] Uh... what does it look like?
+20) STINKY
+{disgusted}Look at what he’s doing to the place! He’s totally destroying the ambience.
+21) MAX
+SIX senses, Sam! {sarcastic}You always had the uncanny premonition of severe stomach upset in your future.
+22) SAM
+{sarcastic}Yeah, this place USED to be an aggravated assault on all five senses. {normal}Now it’s just a misdemeanor battery.
+23) SAM
+Things must be easier now that Grandpa Stinky’s back...
+24) STINKY
+{sarcastic}[sarcastic] Oh, yes, it’s heaven.
+25) STINKY
+{sarcastic}[very sinister] Oh, I don’t think Grandpa Stinky is going to be a problem {disgusted}for much longer.
+26) MAX
+{realizing}Intriguing!
+27) STINKY
+{cocky}[matter of factly] I signed us up for relationship counseling and a business management seminar.
+28) SAM
+You and Grandpa Stinky should patch things up. {worried}Can’t you see what it’s doing to Max?
+29) MAX
+{sad}[disappointed] Oh.
+30) MAX
+{sad}[eyes shut, throwing a tantrum] I hate it when they fight.
+31) SAM
+{worried}The aliens have landed!
+32) STINKY
+{suspicious}[lying] Oh... really? I haven’t heard anything about that at all.
+33) SAM
+{Stern}Keep your guard up, we’re about 99.8% sure he’s evil.
+34) SAM
+See you again soon, Stinky!
+35) STINKY
+{disgusted}[cold shoulder] Yeah. Take your time.
+36) MAX
+{realizing}[back to normal] Oh, I thought we were doing “good cop, incontinent cop.”
+37) SAM
+{confused}What was that all about, Max?
+38) SAM
+{stern}What can you tell us about this note, Stinky?
+39) STINKY
+{suspicious}[paranoid] Where did you find that? [recovering] {cocky}I mean... I’ve never seen that before.
+40) MAX
+{worried}[has to go to the bathroom] Hurry up and tell us right now I gotta go real bad oh god please hurry I don’t think I can hold it!
+41) SAM
+{confused}This note is signed “S.” Want to tell us who that is?
+42) STINKY
+{sarcastic}Could be anybody. Sybil, Superball, Santa, the Shambling Corporate Presence, Satan, the Statue Head of Abraham Lincoln...
+43) MAX
+{sarcastic}Salma Hayek, Screamin’ Jay Hawkins...
+44) SAM
+{Stern}You’re not helping the interrogation, Max.
+45) STINKY
+{disgusted}Do you guys mind? I’m waiting for an important phone call.
+46) MAX
+{cocky}[scandalous] He’s not even human!
+47) 
+Power core
+48) 
+Grandpa Stinky
+49) 
+Skunkape
+50) 
+Flint’s note
+51) 
+Bye
+52) 
+Food
+53) 
+Fry Cook

@@ -1,0 +1,678 @@
+﻿1) SAM
+Lock and load, Max!
+2) NARRATOR
+{stern} Friends, you have just participated in a troubling vision of the future... the first of many such disturbing revelations. {arrogant}Over the next five chapters, you will witness things that baffle you. Horrify you. Even disgust you.
+3) NARRATOR
+{surprised} BUT YOU MUST NOT LOOK AWAY! {stern} Pay close attention to everything that you see and hear!
+4) NARRATOR
+Because when our story reaches its bowel-tingling climax, only YOU, my friends, will possess the ability to save the entire universe!
+5) MAX
+{confused} Uh, wait... which one of us is “the fuzzy one”?
+6) NARRATOR
+It’s a familiar tale: a power-mad space gorilla pitted against a canine detective and a sociopathic bunny with psychic powers.
+7) NARRATOR
+[opening VO] In all the universe... the only power beyond the mind’s comprehension... is the power to comprehend the power of the mind.
+8) MAX
+{realizing} You know, Sam, Skunkape may be a tool, {sarcastic} but he brings a refreshingly childlike glee to his work.
+9) SAM
+{sarcastic} Yeah, Max. It’s hard to stay mad at the guy.
+10) NARRATOR
+[opening VO] If any one of us could unlock this terrible power, would we use it to explore the mysteries of the infinite? Or would we use it... to destroy?
+11) SKUNKAPE
+{evil} Yes! YES! Tremble, Earthlings! Tremble before the might of General Skun-ka’pe! HA ha ha ha ha!
+12) SAM
+[disappointed] {angry} Totally ruined the moment.
+13) NARRATOR
+But, my friends, this story is different. In this story, YOU are in control.
+14) MAX
+Hey, Sam! It’s our new pal, the disembodied alien brain!
+219) MAX
+Hey, Sam! It’s our new pal, the disembodied alien brain!
+15) ALIENBRAIN
+The same. I am speaking to you telepathically. No one else can hear me, Sam & Max!
+220) ALIENBRAIN
+The same. I am speaking to you telepathically. No one else can hear me, Sam & Max!
+16) STINKY
+[context: “no one else can hear me”] I can.
+221) STINKY
+[context: “no one else can hear me”] I can.
+17) ALIENBRAIN
+Did you really believe it would be that easy?
+18) MAX
+{aloof} Kinda, yeah.
+19) SKUNKAPE
+[context: “did I just hear something?”] {surprised} Eh?
+20) ALIENBRAIN
+Uh, hang on. [grunting]Errrgghh... there we go.
+21) SAM
+It’s a lump of Rhinoplasty, the wacky modeling clay that promises hours of fun!
+22) MAX
+{sarcastic} And delivers about five to ten minutes’ worth!
+23) SAM
+It’s an ordinary deck of playing cards.
+24) MAX
+{Stern} OR IS IT?!
+25) SAM
+[grossed out] Eww.
+26) MAX
+{happy} Only you could take something as beautiful and natural as telepathy {suspicious} and make it sound wrong.
+27) SKUNKAPE
+[context: “Did I hear something?”] Hmmm?
+28) SKUNKAPE
+Oh. A... plant. [insincere]I love what you’ve done with the place, my queen.
+29) MAX
+Now what?
+30) SAM
+Now we just use the remote control Momma Bosco gave us, and Skunkape gets sucked right in the Penal Zone!
+31) SAM
+So to speak.
+32) SKUNKAPE
+Ha ha ha! Well done, Sam & Max! But I’m far too strong to be captured again! Soon this gateway will close, and there will be nothing to stop me!
+33) MAX
+Okay! That’s enough of that.
+34) ALIENBRAIN
+That won’t work, Max. It must be a picture of an inanimate object!
+35) MAX
+Okay, fine. {aloof}It was just an idea.
+36) ALIENBRAIN
+[process echo/mind-reading] I know what you’re doing, Max. Cut it out.
+37) STINKY
+[process echo/mind-reading] {seatedthrone} ...Mustn’t find out... I wonder if they suspect anything? What is he doing? Is he reading my mind right now? [blocking her thoughts] La-la-la-la-la.
+38) SKUNKAPE
+[process echo/mind-reading] {cocky} Stay strong, Skun-ka’pe! {worried} Never let them know you’re crying inside.
+39) SAM
+[process echo/mind-reading] [singing] {happy} Let’s all go for a ride... in my magical balloon...
+40) SAM
+[process echo/mind-reading] {confused} No, no. Fudge nuggets! {stern}THOSE are my favorite. {happy}THEN pork fruit jerky strips.
+41) SAM
+[process echo/mind-reading] {confused} Wonder if I should remind Max to get Harry Moleman’s phone number. {incredulous}Nah, he’ll feel better if he figures it out himself.
+42) MAX
+Hey, get a load of me! I’m pollinating!
+43) SAM
+[context: getting his attention, then “Scarface”] {angry} Hey, Skunkape! Say hello to my little buddy!
+44) MAX
+Careful with that trigger finger, Sam.
+45) SAM
+{enthused} Good work, Max! Now let’s...
+46) MAX
+[overwhelmed] I’m a bazooka, Sam, a BAZOOKA! Oh, just give me a moment to savor this. Ohhh, yes!
+47) SAM
+It’s locked. We’ll have to find another way to get upstairs.
+48) SAM
+It’s locked.
+49) SAM
+[worried] I don’t know!
+50) MAX
+What do we do now, Sam?
+51) MAX
+{cocky} Don’t sweat it, Sam. I’ve got psychic powers!
+52) SAM
+If I open the Penal Zone before I get rid of this homing beacon, I’LL get sucked in!
+53) SAM
+The gateway’s already open.
+54) SAM
+Nothing in there but fear and death and time-wasting.
+55) MAX
+And sweat! {suspicious} Don’t forget the sweat.
+56) SAM
+Nothing interesting in there.
+57) CONSTRUCTIONWORKER
+{cocky} Step aside, ladies. Big winner comin’ through!
+58) COMPUTERVOICE
+Congratulations!
+59) SAM
+Hey, pal, we want to ask you—
+60) CONSTRUCTIONWORKER
+I been listenin’ to suits like you for too long already. You can dig your own tunnels now, whiles I enjoy an all expenses paid off-world vacation! So long, suckers!
+61) COMPUTERVOICE
+We’re sorry. Our fabulous off-world vacations are for mole men only.
+62) SAM
+Hey, brain, can you open this door for us?
+63) SAM
+{suspicious} Official business.
+64) ALIENBRAIN
+Odd, you don’t look Molish.
+65) COMPUTERVOICE
+Welcome.
+66) SKUNKAPE
+Witness, Sam & Max!
+67) CONSTRUCTIONWORKER
+[process muffled, behind door] Squeeeak!
+68) ALIENBRAIN
+Besides, it’s for mole people only.
+69) MAX
+{happy} Perfect! We’re part mole man!
+70) SAM
+{Sarcastic} By marriage.
+71) ALIENBRAIN
+Very well, I will try...
+72) ALIENBRAIN
+You did it, Sam & Max! You awakened me from the sleep of one hundred deaths!
+73) SAM
+Well, that’s encouraging.
+74) MAX
+{confused} So, uh... how DID we do it?
+75) SAM
+{confused} I dunno, we haven’t done it yet.
+76) ALIENBRAIN
+How did you do it?
+77) SAM
+{realizing} I know! What if you use that future vision on ME?
+78) SAM
+{enthused} Easy-peasy! All it took was Stinky’s demon broth, and Momma Bosco’s futuristic power core!
+79) MAX
+{incredulous} Don’t forget the jumper cables, Sam. They were very important.
+80) ALIENBRAIN
+Whatever the case, listen carefully: do not trust General Skun-ka’pe! He is... he is... oh... something’s happening...
+81) SAM
+{stern} That won’t work until we get a power supply.
+82) SAM
+This should give that brain the jolt he needs to face the morning!
+83) SAM
+{realizing} Now we just need some way to hook it up.
+84) MAX
+[to the brain] Mmm, it’s too bad you don’t have a nose, {happy} ‘cause you smell DELICIOUS!
+85) SAM
+[matter-of-factly] Well, that’s ominous.
+86) SAM
+[reading] “Fabulous Off-World Vacation Departure Center.”
+87) SAM
+[reading] “Mole Man Processing.”
+88) SKUNKAPE
+{cocky} Ha ha ha! Engines to full power! {happy} YES! Destroy the city!
+89) NARRATOR
+{arrogant} Look familiar? {stern} I certainly hope that you were paying attention, my friends, because our story seems to have hurtled to its inevitable conclusion.
+90) NARRATOR
+{arrogant} No longer can you blindly mash buttons to unleash a torrent of irreverent banter and comic mischief. Now, {surprised} YOU {stern} are all that stands in the way of the total annihilation of the planet Earth!
+91) NARRATOR
+{arrogant} The villain has made his move. The players are yours to command. Only {stern} YOU can return General Skun-ka’pe to... the Penal Zone.
+92) MAX
+*snicker* {happy} Penal Zone.
+93) SAM
+{happy} Tee hee.
+94) MAX
+That won’t do any good. Stinky’s right here with us!
+95) ALIENBRAIN
+Well done, Freelance Police! Now, you must place the homing beacon on Skunkape’s back to trap him in... the Penal Zone!
+96) SAM
+[context: “We’re on the case!”] {enthused} We’re on it!
+97) MAX
+{cocky} Now light up those toys!
+98) MAX
+{confused}...The hell?
+99) SKUNKAPE
+{evil} Looking for these?
+100) SAM
+{surprised} Uh-oh.
+322) SAM
+{surprised} Uh-oh.
+101) MAX
+{scared} So... what was our “Plan B” again?
+102) SKUNKAPE
+{cocky} I believe you planned to turn on the dimensional destabilizer, yes? Luckily, I have my own.
+103) SAM
+{confused} But I’ve still got the homing beacon!
+104) SKUNKAPE
+{proud} Exactly. Ha ha ha ha ha!
+105) SKUNKAPE
+{proud} Did you see that, my Queen? Not only did I defeat Sam & Max, but I took care of the Penal Zone in one stroke!
+106) MAX
+{aloof} Unfortunate word choice.
+107) ALIENBRAIN
+Sam & Max, you survived! Have you returned with a... how do I put this tactfully... better thought-out plan to stop Skun-ka’pe?
+108) SAM
+[offended] {stern} Hey, our last plan would’ve worked fine if he hadn’t changed the future!
+109) MAX
+{cocky} Yeah! {aloof}How do I put this tactfully... {angry}hmm... bite me.
+110) ALIENBRAIN
+You’ll need to get your personal belongings... let me see if I can... nngggghhh. OH, that hurts! Does everyone else taste butterscotch?
+111) SAM
+{enthused} Thanks, brain! Now we just need a way to get this homing beacon on Skunkape’s back without his noticing.
+112) SAM
+Hey brain, any way you can open this door?
+113) ALIENBRAIN
+I am growing weak, but I will try... nnnggggrrrggghhhh!
+114) ALIENBRAIN
+[pained] Oowww, that did NOT feel right. [realizing]Oh, great, and now I can’t remember how to multiply by 6. Just perfect.
+115) ALIENBRAIN
+I can’t remember the name of my elementary school.
+116) SKUNKAPE
+[heard something] {surprised} Hmm...?
+273) SKUNKAPE
+[heard something] {surprised} Hmm...?
+117) STINKY
+[bored, annoyed] {seatedthrone} What? Don’t you have planets to blow up or something?
+118) SAM
+[quietly] Thanks, Stinky! [calling out] Hey, brain! Can you give us a hand here?
+119) ALIENBRAIN
+I grow weak, Jam & Tracks, and I fear my time in this wharf is drawing to a clone. But if I can prevent but one villain from massaging another appointment book, my sacrifice is but a small, small bacon melt to pay.
+120) MAX
+{aloof} Great. Could you hurry it up?
+121) SAM
+[scolding]{stern} Max, show some respect for this noble creature’s sacrifice. [to the brain]{worried}Could you hurry it up, PLEASE?
+122) ALIENBRAIN
+Donut button, Sam & Max! Donut button til we meet again in the plaid! Nggggghhhhhhh...
+123) COMPUTERVOICE
+Emergency. Engine failure. Emergency.
+124) MAX
+Maybe cause a subtle yet stylish distraction?
+125) SKUNKAPE
+{surprised} No! NO! {angry} Not in my moment of triumph!
+126) SAM
+[quietly] That’s it, little buddy! Let’s go!
+127) SKUNKAPE
+{angry} Sam & Max must somehow be responsible for this! I must find them! {evil} AND DESTROY THEM!
+128) SKUNKAPE
+Ha ha ha ha ha!
+146) MAXSKELETON
+[process scary demonic laugh] HA HA HA HA HA!
+129) SKUNKAPE
+Full power to right mandible! YES!
+130) SKUNKAPE
+Take THAT!
+131) SKUNKAPE
+Die, Earthlings! DIE!
+132) ALIENBRAIN
+[process: echo on “teleportation”] Max, this unassuming telephone unlocks the gift of TELEPORTATION.
+133) ALIENBRAIN
+Using the power of your mind, you can teleport yourself to any phone number you have memorized.
+134) MAX
+{happy} Oh boy! I want to try it RIGHT NOW!
+135) SAM
+{worried} We can’t jump out; we’re in mid-air!
+136) ALIENBRAIN
+[disappointed] Aren’t you going to try the teleportation power?
+226) ALIENBRAIN
+[disappointed] Aren’t you going to try the teleportation power?
+137) MAX
+{aloof} Sure, we’ll try it out later!
+302) MAX
+{aloof} Sure, we’ll try it out later!
+138) ALIENBRAIN
+[really disappointed] Oh. Okay. *Sigh*
+303) ALIENBRAIN
+[really disappointed] Oh. Okay. *Sigh*
+139) SAM
+{worried} Is everything okay, brain?
+304) SAM
+{worried} Is everything okay, brain?
+140) ALIENBRAIN
+[forlorn] It’s just... I’ve never seen it. I’m just a brain in a jar, can’t really use it. It sounded cool, is all.
+305) ALIENBRAIN
+[forlorn] It’s just... I’ve never seen it. I’m just a brain in a jar, can’t really use it. It sounded cool, is all.
+141) MAX
+[annoyed] {aloof} Okay, fine, we’ll do it now.
+306) MAX
+[annoyed] {aloof} Okay, fine, we’ll do it now.
+142) MAX
+Hey, Sam, I got Harry Moleman’s phone number!
+143) SAM
+Nice work, little buddy! Make sure you wait three days to call, or he’ll think you’re desperate.
+144) NARRATOR
+Well done, my friends. Now select a phone number that Max has memorized to teleport himself, and his furry longtime companion, to that location. And also Sam.
+145) MAXSKELETON
+[process scary demonic voice] ENJOYING THE RIDE, SAM?
+147) SAM
+{worried} Note to self: when traveling through Max’s brain, keep your eyes SHUT.
+148) SKUNKAPE
+[angry] {evil} Gordon’s ALIVE? [recovering, friendly] {happy} I mean, what a pleasant surprise! Tell me, friend brain, where is the toy?
+149) ALIENBRAIN
+I can’t help it! I’m... [chanting]Oooommmmmm... Yog-Soggoth nagul oram! Yog-Soggoth nagul oram!
+150) ALIENBRAIN
+[dying] Two... toys... too weak... can’t trace... aaahhh.
+151) SAM
+[panic] {worried} What are you doing, brain? Cut it out!
+152) COMPUTERVOICE
+Toys detected. Toys detected.
+153) ALIENBRAIN
+[checking for coast is clear] Is he gone?
+154) SAM
+{normal} Yeah, the coast is clear. {confused}What just happened?
+155) SUPERBALL
+Spaceship is secure. If I could have a moment, sirs.
+156) SKUNKAPE
+[outraged] {evil} Curses! {angry} Very well, I’ll find them myself!
+157) ALIENBRAIN
+I don’t know, I’ve never felt anything like that! The toys of this planet must have astonishing power!
+158) SAM
+I can’t just wander around, or Skunkape will see me!
+159) SAM
+I can’t leave before I plant this homing beacon on Skunkape!
+160) SAM
+There’ll be time for wandering around AFTER we finish Skunkape, Max!
+161) MAX
+I’ve achieved my life’s goal of becoming a bazooka. No WAY am I turning back now!
+162) MAX
+Hey Sam, in the future all the cool stuff is upstairs. So why are we still down here?
+163) MAX
+Sam, {confused} where do you think that mole man went?
+164) SAM
+{worried} Well, uh... {sad}I’m sure he went off to a nice big farm upstate where he can run and jump and dig through the fields all he wants.
+165) MAX
+Oh... well, if he isn’t coming back, can I have all of his stuff?
+166) SAM
+[a little annoyed] {stern} I don’t like the thought of you teleporting off without me, Max.
+167) ALIENBRAIN
+You can go, too, Sam! Max will teleport anyone he’s touching!
+168) MAX
+[warning Sam] {incredulous} Watch the hands.
+169) MAX
+{suspicious} And THAT is why we’re doing a staycation this year.
+170) MAX
+[scandalous] {suspicious} There were rituals!
+171) STINKY
+[bored, sarcastic] Hooray, it’s the Freelance Police.
+172) SKUNKAPE
+{cocky} Your future viewer has proven to be most... {evil}enlightening. Ha ha ha ha! {proud}Here, use it to witness how I am going to destroy you!
+173) SAM
+{suspicious} This place looks eerily familiar. {realizing}Check it out, Max: the control center for invaders from distant stars!
+174) MAX
+[impatient] {aloof} Yeah, yeah. Alien spaceship. SEEN IT. {cocky}I just wanna get to the part where I have those sweet psychic powers!
+175) SAM
+{enthused}We just need our friend the brain to hook you up and... {surprised}Oh no! He’s dead!
+176) MAX
+{realizing} Didn’t he look more... {incredulous}moist in the future?
+177) SAM
+{worried} We’ve got to find some way to wake him up so he can explain what’s going on!
+178) SAM
+[loudly, like talking to hard-of-hearing] {realizing} Hey Harry, do you know how we can beat Skunkape?
+179) SAM
+[loudly, like talking to hard of hearing] Hey Harry, do you have a phone or something we can borrow?
+284) SAM
+[loudly, like talking to hard of hearing] Hey Harry, do you have a phone or something we can borrow?
+180) SAM
+{stern}Nothing. {worried}Are we SURE he’s not dead in there?
+181) SAM
+In a better world, aliens and Earthlings would be able to unite under our shared love of really cool guns.
+182) SAM
+We’d need more than just a PICTURE of a space bazooka to do any damage to somebody as big as Skunkape.
+183) SAM
+Looks like Skunkape is about three hundred thousand miles overdue for an oil and filter change.
+184) SAM
+I wish I could predict what I was about to do, ‘cause then I wouldn’t have to waste time trying to think of what it is.
+185) MAX
+This spaceship looks a lot bigger from the outside. Have we tried all the secret doors?
+186) MAX
+Why aren’t we out looking for clues instead of hanging out in the one place we know Skunkape ISN’T?
+187) SAM
+Nothing.
+188) SAM
+{suspicious}Weird, there’s a hard hat and... {realizing}some kind of vacation ticket.
+189) COMPUTERVOICE
+All the personal effects confiscated from our fuel resources are collected and donated to various intergalactic mole man charities.
+190) MAX
+{happy} What a nice gesture! We should leave it for when that mole man gets back, Sam.
+191) SAM
+{worried} I think he, uh... went to live on a farm to play with other mole men.
+192) MAX
+{realizing}Ohhhh. {devilish}Check if he left his wallet.
+193) SAM
+{stern} No such luck.
+194) SAM
+{surprised} Hey, it’s all my stuff!
+195) SAM
+Looks like Grandpa Stinky’s stuff got mixed in with all of mine.
+196) MAX
+What has he got in his pocketses?
+197) SAM
+His victory badge from Skunkape, and... [excited]{happy}jackpot! A collectible shot glass from Meesta Pizza!
+198) SAM
+[disdain] Give a gorilla a cool, heavily-armed spaceship and all of a sudden he thinks he owns the galaxy.
+199) SAM
+It’s too bad Skunkape decided to go into galaxy domination. He’s got a real eye for interior decorating.
+200) 
+display case
+201) 
+display case
+202) 
+display case
+203) 
+exit
+204) 
+ominous door
+205) 
+mole processing chamber
+206) 
+lower deck
+207) 
+upper deck
+208) 
+button
+209) 
+personal effects button
+210) 
+personal effects drawer
+211) 
+sign
+212) 
+status display
+213) 
+weapons display
+214) 
+fine art
+215) HARRY
+[process echo/mind-reading] Don’t let them break you, Harry!
+216) HARRY
+[process echo/mind-reading] Your name is Harry Moleman. Your serial number is 2483562. Your cell number is 212-555-4865.
+217) HARRY
+[process echo/mind-reading] Your favorite color is taupe. You have an infection of the lower—
+218) MAX
+[pickup1] {cocky} We can’t leave the spaceship now! There’s still so much ape-thwarting to do!
+222) SAM
+[pickup1] {incredulous} We’re gonna need some kind of cover to get up close and personal with Skunkape.
+223) SAM
+[pickup1] {sad} Poor Harry. General Skunkape put him in this penny conscious terrarium to make an example out of him.
+224) SAM
+[pickup1] {suspicious} Skunkape’s got him under a super-powered sunlamp. {worried}It’s horrible.
+225) MAX
+[pickup1] {surprised} You think that’s horrible? {aloof} Just be glad you’re not the one who has to CLEAN that terrarium.
+227) 
+Gordon the Brain
+228) 
+Bazooka Max
+229) 
+Potted Plant Max
+230) SAM
+[pickup1] How are we supposed to get up there? The door’s locked.
+231) MAX
+[pickup1] [calling out to him] Hey, brain! Aren’t you hooked into all the controls of this spaceship, or something? Can you give us a hand with this thing?
+232) SAM
+[pickup1] [scolding, under his breath] Max, be a little more sensitive. He doesn’t HAVE hands.
+233) MAX
+[pickup1] [under his breath] So what’s he gonna do, punch me? No hands!
+234) SAM
+[pickup1] [to his gun] Oh, baby, I’ve missed you.
+235) MAX
+[pickup1] I can’t wait to get my stinking paws on that damn dirty ape!
+236) SAM
+[pickup1] It’s empty.
+239) SAM
+[pickup1] It’s empty.
+237) SAM
+[pickup1] [context: that didn’t do anything] Nothing. We’re gonna need more firepower.
+238) SKUNKAPE
+[pickup1] {cocky} Ha ha ha. Each of your pitiful Earth bullets is like a {happy} gentle caress by a precious kitten. Meow.
+240) SAM
+[pickup1] I can’t just drop this anywhere. It’ll only work if Skunkape’s WEARING it.
+241) SAM
+Try to look leafy and inconspicuous, Max.
+242) MAX
+I always do.
+243) SAM
+[pickup1] Your Nutri-Specs indicate that, aside from the expected levels of snark, coffee ice cream, tar, and fish sticks, Girl Stinky is chock full of... love!
+244) MAX
+[pickup1] What?
+245) SAM
+[pickup1] Yikes!
+246) MAX
+[pickup1] You must be reading that thing wrong.
+247) SAM
+[pickup1][reading] Hmmm. Maybe we don’t have to defeat Skunkape after all. If your Nutri-Specs are right, he’ll keel over from mercury poisoning in a few years anyway.
+248) MAX
+[pickup1] Where’s the fun in that?
+294) MAX
+[pickup1] Where’s the fun in that?
+249) MAX
+[pickup1] {sarcastic}Ooh, look! He still contains trace amounts of hope! That’s so cute.
+250) SAM
+[pickup1] {Sarcastic}If I’m reading this right, Harry’s been swallowing a lot of pride over the last few months, with side dishes of shredded dreams.
+251) SAM
+[pickup1] Ninety percent dried out protein, one percent water, zero percent electrical activity.
+252) SAM
+[pickup1] His synapses’ll never fire up with those ratios.
+253) MAX
+[pickup1] Maybe he should run for Congress!
+254) SAM
+[pickup1][reading] 50 percent alien protein, 40 percent chicken stock, 3 percent jackalope eyes... That’ll get the cortexes firing on all cylinders.
+255) MAX
+[pickup1] Mmm, tasty!
+256) SAM
+[pickup1] [reading] 99 percent water, 1 percent icky mole man lip germs.
+257) MAX
+[pickup1] Ewww.
+258) SAM
+[pickup1] I never drink when I’m on a case.
+259) SAM
+[pickup1] I don’t want to get too close, or else I may get sucked in, too.
+260) ALIENBRAIN
+LISTEN TO THE BRAIN!
+261) 
+water bottle
+262) 
+prisoner’s container
+263) SAM
+[pickup1] [context: bitter film noir Sam from 303] I’m not gonna rest until I find the guy who killed my partner!
+264) MAX
+[pickup1] Killed your partner? Is there something you’re not telling me?
+265) SAM
+[pickup1] Must be ominous foreshadowing, pal. Whatever the case, I’m going to sound really cool in the future!
+266) STINKY
+{seatedthrone} You’re no match for General Skun-ka’pe, Sam & Max! When he’s done, the world will never have to listen to your idiotic nonsense ever again!
+267) HARRY
+Arrrgghh!
+268) NARRATOR
+[pickup3] Only YOU can release our heroes from General Skun-ka’pe’s bizarre space zoo. Only YOU can guide them in their quest to bring the villain to space justice.
+269) SAM
+[pickup3] If I could just... reach my gun, we could administer an old-school Freelance Police-style beatdown to that guy.
+270) NARRATOR
+[pickup3] Are you ready? Let’s begin by finding the proper tool...
+271) SAM
+[pickup3] Simmer down, Max! Check out Stinky’s cell phone: we’re going to need that and your creepy new brain powers to get OUT of this cage!
+272) NARRATOR
+[pickup3] You are now inside the dankest recesses of Max’s mind, where you can attempt to control his horrible psychic abilities, unlocked by the Toys of Power.
+274) ALIENBRAIN
+[pickup3] [quickly, dismissively] Shut up. [to Sam & Max]Your Earth weapons will never be enough to defeat General Skun-ka’pe. Don’t you still have that homing beacon?
+275) ALIENBRAIN
+Perfect! Now you must place the homing beacon on General Skun-ka’pe’s back to trap him in... [dramatically]THE PENAL ZONE!
+276) ALIENBRAIN
+[pickup3] Max, remember that you have been blessed with the Gift! You must unlock your abilities with the remaining Toys of Power!
+277) ALIENBRAIN
+[pickup3] Max, the Rhinoplasty will grant you the incredible power of shapeshifting!
+278) ALIENBRAIN
+[pickup3] You can use the Rhinoplasty to pick up a picture of any inanimate object. Then, use the power of your mind to transform into that object! It’s fun!
+279) ALIENBRAIN
+[pickup3] Max, the playing cards have granted you the power to thrust your consciousness into the fleshy minds of others and pluck out their most intimate thoughts!
+280) ALIENBRAIN
+[pickup3] Well done, Freelance Police! Now, you must get that homing beacon onto General Skun-ka’pe before he reaches the Bronx, or all will be lost!
+281) ALIENBRAIN
+[pickup3] Before he was imprisoned, your friend the moleman was screaming something about taking over the ship. Find out what he knows!
+282) ALIENBRAIN
+[pickup3] Hmm, I can’t open the doors now, but I have an idea!
+283) ALIENBRAIN
+[pickup3] With all the flashing lights and panels up here, there must be something that can help.
+285) ALIENBRAIN
+[pickup3] Even if he could hear you through the glass, Sam, the sunlamp has made him even more worthless than usual.
+286) ALIENBRAIN
+[pickup3] Max, you’ll have to use another one of the Toys of Power!
+287) ALIENBRAIN
+[pickup3] Excellent, Max! That phone number might be enough, because General Skun-ka’pe locked the mole man’s cell phone and other belongings inside this container.
+288) SAM
+[pickup3] Good job, Max. Now there must be something here that’ll help us knock Skunkape back into the Penal Zone.
+289) 
+alien brain
+290) SAM
+[pickup3] We’ve got to find some way to bring him back to life, so he can explain what’s going on!
+291) ALIENBRAIN
+[pickup3] You want to go into the mole processing room? But it’s a horrible place!
+292) SAM
+Well you heard the me, little buddy. We’ve gotta find some demon broth and Momma Bosco’s futuristic power core!
+293) SAM
+Nope, don’t think so.
+295) SAM
+{confused} Where is Skunkape’s collection of magic toys?
+296) ALIENBRAIN
+He keeps them on display as a show of power. I’m regaining control over the ship’s functions, so I can reveal them to you. BEHOLD!
+297) MAX
+{confused} That’s it?
+298) ALIENBRAIN
+“That’s it”? It’s a toy that lets you teleport across vast distances in the blink of an eye using only the power of your mind! That’s not cool enough for you?
+299) SAM
+{confused} It’s just... we saw more toys in Max’s vision.
+300) ALIENBRAIN
+More toys? You must not have found them yet! They must still be somewhere in this city!
+301) ALIENBRAIN
+You have to find them before Skun-ka’pe does, or he’ll destroy us all!
+307) 
+read
+308) 
+go to lower deck
+309) 
+go to upper deck
+310) 
+exit the spaceship
+311) 
+open
+312) 
+enter
+313) 
+pick up
+314) 
+talk to
+315) 
+drink from
+316) 
+dig through
+317) 
+press
+318) 
+appreciate
+319) 
+check out
+320) SKUNKAPE
+With my unstoppable dreadnaught, my shaven queen at my side, and the power trapped in the fuzzy one’s brain, I will destroy your pitiful planet and then dominate the entire galaxy!
+321) ALIENBRAIN
+BEHOLD!
+323) 
+put homing beacon on General Skun-ka’pe
+324) MAX
+WOOOHOOHOOHOOOWEE!
+325) 
+steal from
+327) 
+steal from
+326) 
+ransack
+328) SKUNKAPE
+What’s that?
+329) SAM
+{stern} That power core won’t do any good unless we can think of a way to hook it up.
+330) 
+
+331) MAX
+[pickup1] Hmm, that’s down ten percent from last season.
+332) SAM
+[pickup1] Agent Superball is comprised of 20 percent mystery and 80 percent sheer awesome.
+333) SAM
+[pickup1] Let’s see what’s in Grandpa Stinky’s mysterious demon broth...
+334) SAM
+[pickup1][reading] Celery... chicken stock... carrots...
+335) MAX
+[pickup1] BORing!
+336) SAM
+[pickup1] [reading, continuing] Finely ground cherub bones... minced albino buffalo tongues...
+337) MAX
+[pickup1][impatient] What is this, a demon broth or a kindergarten pot luck? Where’s the EVIL?
+338) SAM
+[pickup1] Ah, here we go... 2 percent aspartame.
+339) MAX
+[pickup1] The fiend!

@@ -1,0 +1,324 @@
+﻿1) SAM
+{Sad} I still can’t believe Bosco left town without saying goodbye.
+2) SAM
+{stern} Now we’ll have to go out into the city when we want to buy stuff.
+3) MAX
+{sarcastic} I don’t mind! I embrace change!
+4) SAM
+{incredulous} That’s hobos, Max. You embrace hobos.
+5) MAX
+{happy} Right. {confused}What did I say?
+6) SAM
+I know, I saw it, too! {confused} Somehow.
+7) SKUNKAPE
+I have come to you... with a message of {happy} peace and {cocky} love!
+8) MAX
+{happy} Hey, Sam! This haunted toy I found just gave me an uncanny vision of our violent future!
+9) SKUNKAPE
+{proud} Creatures of Earth! I am General Skun-ka’pe! Hear my words!
+10) SAM
+{realizing} It had a spaceship, a friendly alien brain in a jar, and an evil space gorilla trying to destroy the city. {confused}What could it all mean?
+11) MAX
+{confused} Did your version have credits?
+12) SAM
+{happy} It means we’ve got to find a way on board that spaceship, Max!
+137) SAM
+{happy} It means we’ve got to find a way on board that spaceship, Max!
+13) MAX
+{incredulous} Hmmm, what COULD it all mean?
+136) MAX
+{incredulous} Hmmm, what COULD it all mean?
+14) SUPERBALL
+{proud} Hello, sir, Mr. President.
+15) SKUNKAPE
+{surprised} President? {cocky}You are the ruler of this planet?
+16) MAX
+[modest] {surprised} Oh, no. {regal}I’m just President of the United States. We’re only one of many united nations working together to achieve...
+17) SUPERBALL
+{stern} We’re alone here, sir. You can speak freely.
+18) MAX
+[to Superball] {surprised} Oh, okay. [to Skunkape]{aloof}Yeah, I’m in charge, pretty much.
+19) SKUNKAPE
+[slightly menacing] {happy} Perfect! {proud}Just the one I wanted to see, ha ha ha ha ha!
+20) SKUNKAPE
+{surprised} No catch, ha ha ha! {cocky}All I ask in return is your help while my... {proud}research assistants search for... {cocky}an artifact of interest to my people.
+21) SAM
+[threatening] {suspicious} Keep the hands where we can see ‘em, pal.
+22) SKUNKAPE
+[cheerfully] {surprised} But of course! {proud}I have come to your pitif—beautiful world for a peaceful exchange of technology. All the wonders of the galaxy, yours! Ha ha ha ha ha!
+23) SKUNKAPE
+[quickly, embarrassed] {worried} Sorry about that building.
+24) SAM
+[suspicious] {suspicious} What’s the catch?
+25) SAM
+{sarcastic} It’s a good thing Sybil packed all her junk into these boxes for safe-keeping.
+26) SKUNKAPE
+[process loudspeaker] THERE they are! I don’t know how you escaped the Penal Zone, Sam & Max, but you will never escape my disintegrator eyes! Ha ha ha ha ha!
+27) SAM
+{worried} Gee, I hope Sybil’s stuff is okay.
+28) MAX
+{incredulous}You live on our street, there’s a good chance you’re gonna get blown up. {aloof}She should understand that by now, Sam.
+29) SAM
+Yeah, this way’s a lot cheaper, and {happy} EVERYBODY gets to enjoy it!
+30) MAX
+{sarcastic} And I’m especially glad we didn’t put it in a secure, environmentally regulated storage facility like she asked us to.
+31) SAM
+[reading] {stern} “BoscoTech Labs. Visit our new location.”
+32) SAM
+{incredulous} Well, this is kind of a bad neighborhood to be a ghost. All the best cemeteries are on the other side of town.
+33) MAX
+{surprised} Oh, {suspicious} so Momma Bosco’s too good to haunt {angry} our street anymore?
+34) MAX
+My brain feels all tingly, Sam. It tingles with usefulness.
+35) MAX
+I can’t believe Skunkape just let us walk into his ship unsupervised. It’s like he’s never even met us.
+36) MAX
+I’m tired of interdimensional space gorillas, Sam. Let’s go for a drive.
+37) MAX
+I can’t believe Skunkape lets us just walk into his ship unsupervised. It’s like he’s never even met us.
+38) MAX
+I miss Grandpa Stinky and his blasphemous recipes.
+39) MAX
+Let’s go talk to Momma Bosco! I respect her because she’s smart, sassy, and semi-transparent.
+40) MAX
+Let’s take the DeSoto for a spin, Sam. I want to see what evil the COPS have wrought.
+41) SKUNKAPE
+[enthusiastic listening] {Happy}Yes... YES!
+42) SKUNKAPE
+[enthusiastic listening] {Happy} Yes! Ha ha ha!
+43) SKUNKAPE
+[enthusiastic listening] {Happy} Yes, go on!
+44) SKUNKAPE
+[enthusiastic listening] {Happy} Mahvelous!
+45) SKUNKAPE
+[enthusiastic listening] {Happy}Yes, I see!
+46) SAM
+{stern} Locked out of our own building, {sarcastic} like computer science majors from a sorority house.
+47) MAX
+{confused} Why do they have to do a “seismic retrofitting” anyway, Sam? We don’t live on a fault line!
+48) SAM
+{confused} I don’t know, Max. The letter from the city said something about robot and alien attacks and weekly explosions. {stern}A lot of bureaucratic nonsense.
+49) SAM
+[reading newspaper] “City Dirtification Project a Resounding Success.”
+50) SAM
+[reading newspaper] “Mayor credits New Jersey’s rich supplies of rust, grime, crud, and skank.”
+51) SAM
+[reading newspaper] “Aliens Invade City.”
+52) SAM
+{surprised} Wow, those newspaper guys are getting {stern} pretty aggressive with their up-to-date reporting.
+53) MAX
+[not impressed] {aloof} Eh, they probably just write a bunch of alien gorilla stories in advance and just change the dates.
+54) SAM
+[reading newspaper] “General Skunkape Named Savior of Humanity.”
+55) MAX
+[not impressed] {aloof} Eh, they named ME savior of humanity once, and THAT didn’t last.
+56) SAM
+[reading newspaper] “Alien Gorilla on City-Wide Terror Spree.”
+57) MAX
+Now can you really call it a “spree” if he’s just attacking the two of us?
+58) SAM
+{incredulous} Did you remember to feed the parking meter, Max?
+59) MAX
+{suspicious} I slaved all day over a hot stove for it, and do I hear a word of thanks?
+60) SAM
+{suspicious} I think your expletive-laden acceptance speech is what started the backlash.
+61) SAM
+{worried} Oops, I’m sorry. I’ve got the wrong number.
+62) SAM
+[poorly disguising his voice] {sarcastic} See you wherever that is, then... uh, my love.
+63) SAM
+[panic, terrified] {surprised} Max, NO! Not the Chrysler building!
+64) MAX
+{happy} That sounds fun, I can hardly wait!
+65) SAM
+{confused} I can’t use these two things together.
+66) MAX
+{aloof} I really need to get a partner with a more interesting future.
+67) SAM
+{sarcastic} Gee, little buddy, here in 2109 our street looks pretty much the same as it did a hundred years ago!
+68) MAX
+[gruff] {devilish} Keep moving, Earthling! Emperor Skun-ka’pe II has demanded tribute!
+69) SAM
+{sad} You used to be so much cooler, Max.
+70) SAM
+[reading newspaper] “Sam & Max Save Earth from Alien Invader.”
+71) MAX
+{sad} Aww, I gave away the ending.
+72) SAM
+[reading newspaper] “Max Rampage In Fourth Devastating Week.”
+73) SAM
+{scared} “Devastating rampage”? {suspicious} Just what have you got planned, Max?
+74) MAX
+{sarcastic} Just my usual Tuesday night rampage, nothing that would make the newspapers.
+75) 
+Skun-ka’pe’s flagship
+76) 
+parking meter
+77) 
+Bosco’s
+78) 
+Sybil’s boxes
+79) 
+gaping hole
+80) 
+notice
+81) 
+Sam & Max’s office
+82) 
+Bad News
+83) 
+Worse News
+84) 
+Stinky’s Diner
+85) 
+entrance to subway
+86) GRANDPASTINKY
+[pickup1] {angry} I don’t have time for your shenanigans.
+87) NARRATOR
+[pickup1] My friends, you seem a bit confused. But there’s no cause for alarm, we’ve merely let the story get ahead of itself. Let’s take a brief journey back to properly set the scene.
+88) NARRATOR
+[pickup1] Our story begins twenty-five minutes ago, on a street very much like this one.
+89) MAX
+{stern}[pickup1] [defensive] It wasn’t my fault this time!
+90) SAM
+{enthused}[pickup1] [talking on phone] This is Sam & Max, Freelance Police! Mobile Division.
+91) SAM
+[pickup1] [talking on phone] {normal}Hello, Commissioner... {sarcastic}No, we’re not in the office, we’re locked out of our building.
+92) MAX
+[pickup1] {suspicious}[upset] One gaping, treacherous crack in the street and those pansies from City Hall {stern}shut down the whole block!
+93) SAM
+[pickup1] [casual conversation, to fill up time] {confused}What’s that, Commissioner? A sudden wave of lawfulness and goodwill spreading through the city? No, we didn’t have anything to do with that.
+94) SAM
+[pickup1] [casually] I’ll have to call you back, Commissioner. Max has psychic powers now, apparently.
+95) MAX
+[pickup1] [intoning, creepy, ominous vision] The brain is dying.
+96) NARRATOR
+[pickup1] That should bring us all up to speed. Now, where were we? Something about a spaceship?
+97) MOVIEFONE
+[pickup1] You’ve got a phone call!
+98) SAM
+[pickup1] Agent Superball is comprised of 20 percent mystery and 80 percent sheer awesome.
+99) MAX
+[pickup1] Hmm, that’s down ten percent from last season.
+100) MAX
+[pickup1] Where’s the fun in that?
+101) SAM
+[pickup1][reading] Hmmm. Maybe we don’t have to defeat Skunkape after all. If your Nutri-Specs are right, he’ll keel over from mercury poisoning in a few years anyway.
+102) SAM
+[pickup1] Even if I COULD toss the phone in our office, we never get reception because of the dead zone.
+103) MAX
+[pickup1] [spooky] {Stern} The dead zone that emanates from the fiery pits of Hell below our building.
+104) SAM
+[pickup1] Besides, there’s nothing useful in our office anyway.
+105) SAM
+[pickup1] I’m not giving this away to the bad guy! I’ll save it for somebody who really needs it.
+106) SAM
+[pickup1] [context: bitter film noir Sam from 303] I’m not gonna rest until I find the guy who killed my partner!
+107) MAX
+[pickup1] Killed your partner? Is there something you’re not telling me?
+108) SAM
+[pickup1] Must be ominous foreshadowing, pal. Whatever the case, I’m going to sound really cool in the future!
+109) MAX
+[pickup1] Hey, look, Sam! It likes me!
+110) SAM
+[pickup1] [panic] Don’t look at it, Max! Stand clear of its unholy power!
+111) SAM
+[pickup1] [context: talking about a vision] That one was kind of hazy. It must happen a lot later.
+112) SAM
+[pickup1] It’s General Skunkape’s horrible spaceship. Good likeness.
+113) SAM
+[pickup1] [start out scolding, then getting worried] Max, what’s wrong with you? Max? Little buddy?
+114) SAM
+[pickup1] Well, THAT didn’t sound good.
+115) MAX
+[pickup1] [dismissive] Ah, that was one of the “distant future” ones. We don’t have to worry about it for a while.
+116) SAM
+[pickup1] [zombie-like drone] Toys... toys... we must prepare... the toys...
+117) MAX
+[pickup1] Well, that’s just a typical Friday night for YOU, Sam.
+118) SAM
+[pickup1] I hate to have to do this, Max, but it’s the only way to save the city!
+119) MAX
+[pickup1] What the heck was THAT all about?
+120) SAM
+[pickup1] No clue, Max. Your future visions need an index or something.
+121) SAM
+[pickup1] [context: giving Max fashion advice] I don’t know, Max. I know that Nehru jackets are back in style, but maybe it’s just not the style for YOU.
+122) SAM
+[pickup1] Well, I guess they can’t ALL be helpful visions.
+123) MAX
+[pickup1] [haunted] I was just about to BUY a Nehru jacket. Creepy!
+124) SAM
+[pickup1] It’s been months and they still haven’t sealed up this crack. Somebody should do something about it.
+125) MAX
+[pickup1] I say we all wear gray ribbons to raise crack awareness.
+126) SAM
+[pickup1] {Normal} I don’t want to fill the subway station with litter. {Sarcastic}Well, any more than it already is.
+127) SAM
+[pickup1] [reading] “Stinkys’ Diner.”
+128) SAM
+[pickup1] In the mood for some delicious, nutritious food, Max?
+129) MAX
+[pickup1] Not at all.
+130) SAM
+[pickup1] Then we’ve come to the right place.
+131) 
+read
+132) 
+read
+135) 
+read
+139) 
+read
+133) 
+enter
+140) 
+enter
+134) 
+look at
+157) 
+look at
+158) 
+look at
+138) 
+Stinkys’ Diner sign
+141) 
+ask about
+142) 
+enter the subway
+143) SAM
+That alien brain had all the answers. I bet he’d know what to do.
+144) 
+Sybil’s phone & knick-nacks
+145) SAM
+Nothing interesting in there.
+146) MAX
+What do we do now, Sam?
+150) MAX
+What do we do now, Sam?
+147) SAM
+[worried] I don’t know!
+151) SAM
+[worried] I don’t know!
+148) SAM
+The power’s out in the whole building.
+149) SAM
+The power’s out in the whole building.
+152) SAM
+The power’s out in the whole building.
+153) SAM
+I hope they finish the repair work on our building soon. I miss taking showers.
+154) MAX
+We could just give ourselves tongue baths, like cats and flight attendants do!
+155) SAM
+Well... okay, I guess. Just be careful around the back of my neck, that’s where I’m most prone to tie rash.
+156) 
+enter Sam & Max’s office
+159) SAM
+There aren’t any crimes for us to solve? Okay, then, we’ll be on the lookout for anything suspicious.
+160) SAM
+Hello? Anybody in there?
+161) SAM
+I already found what I needed in there.
+162) 
+sewer grate

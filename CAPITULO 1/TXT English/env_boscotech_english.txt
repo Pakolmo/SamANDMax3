@@ -1,0 +1,284 @@
+﻿1) MOMMABOSCO
+{happy}My missing power core! {proud}I knew you were the right one to find it, Flint Paper!
+2) FLINT
+{arrogant}Ah, it was nothing.
+3) MOMMABOSCO
+{happy}Now that you’ve returned it, I’ll never ever give it to anyone for any reason at all! Ever!
+4) HARRY
+{happy}Thanks, Sam & Max! This is exactly what I need to turn my life around!
+5) MAX
+{happy}[happy, proud] Harry’s got a great big wonderful surprise waiting for him!
+6) SAM
+{enthused}And to think all it took was this...
+7) SAM
+{confused}Are you sure you can’t make those future visions last a little longer, Max?
+8) MAX
+{angry}That would take all the fun out of it!
+9) SAM
+{sarcastic}I know what would cheer you up, Harry: an all-expenses-paid vacation!
+10) HARRY
+{happy}[excited] You actually have one of Skun-ka’pe’s golden tickets?
+11) HARRY
+{embarrassed}[disappointed] Well, it’s a nice gesture, but I don’t take charity. {normal}I’d have to give you something in return.
+12) MAX
+{sarcastic}Okay, fine. {incredulous}What’ve you got?
+13) HARRY
+{happy}Oh, lots of stuff! Like... {embarrassed}[dejected]nothing you’d want.
+14) SAM
+{confused}Uh... you wouldn’t happen to have a lottery ticket, would you?
+15) HARRY
+Well sure, I buy one every week. {sad}But it’s worthless. I never win anyth— [realizing]{normal}I mean... {happy}it’s incredibly valuable to me. I don’t know if I could part with it.
+16) MAX
+{sarcastic}[quickly, brush-off] Okay, then. See ya, Harry!
+17) HARRY
+{normal}[desperate] Wait! I can part with it! Just give me that vacation ticket!
+18) HARRY
+{happy}So long, suckers! Prepare yourselves, Mole Women of Outer Space! The Love Digger is on his way!
+19) SAM
+It’s a torn receipt for... {confused}something. {normal}Skunkape must’ve dropped it when he came through here.
+20) MAX
+{realizing}[excited] A clue! {sarcastic}Which store?
+21) SAM
+Can’t tell from half a receipt, little buddy. This looks like a job for... {enthused}the Crime-Tron!
+22) MOMMABOSCO
+{happy}[happy] Gotcha!
+23) SUPERBALL
+Welcome back, sirs.
+24) SAM
+{stern}[dismissive] Yeah, yeah. Just tell us how we can get back at Skunkape for crimes against the Freelance Police! And humanity!
+25) MAX
+{Angry}I say let’s cover him in candy bar wrappers and feed him to starving raccoons!
+26) MOMMABOSCO
+{enthused}[proudly] I detected a spike in antimatter radiation, so I locked onto the signal from your homing beacon and reversed the polarity of the dimensional stabilization field to intercept— [cut off]
+27) SUPERBALL
+{Stern}You failed to trap him in the Penal Zone?
+28) SAM
+{confused}I wouldn’t say “failed,” exactly. {sarcastic}Maybe “underperformed.”
+29) MAX
+{happy}And we blew up the Penal Zone with an antimatter bomb.
+30) SUPERBALL
+{normal}Oh dear.
+31) MAX
+{confused}Uh, what just happened?
+32) SAM
+We’ll be careful with your rift generator, Momma Bosco.
+33) MOMMABOSCO
+Just make sure you don’t turn it on until you’ve got that homing beacon on General Skun-ka’pe!
+34) MAX
+{realizing}[excited] Spoooooky!
+35) SAM
+{worried}[nervous] M-momma Bosco?
+36) HARRY
+[process: ghostly whisper] Geeeeettttt... ouuuuuuuttt...
+37) HARRY
+[friendly] [clears throat] Ahem... Get out of here! It’s Sam & Max!
+38) SAM
+{suspicious}[disappointed to see him] Uh... hiya, Harry. We were looking for Momma Bosco.
+39) HARRY
+[ominous] Do not be afraid! Momma Bosco has passed on to the other realms, but I shall attempt to establish a link to—
+40) MAX
+[casually, matter-of-fact] Oh, there she is! {cocky}Hey, good lookin’!
+41) MOMMABOSCO
+Oh. {happy}Hey, guys.
+42) HARRY
+[ominous] Momma Bosco sends greetings from the ethereal planes!
+43) MOMMABOSCO
+Welcome to the labs! {enthused}You’re my first visitors!
+44) HARRY
+[offended, emphasis on I] Wait, I was your first visitor!
+45) MOMMABOSCO
+{sarcastic}[awkward] Right.
+46) SAM
+{confused}Is this the remote control for your destabilizer thing, Momma Bosco?
+47) MOMMABOSCO
+{proud}That’s the one. {sarcastic}Make sure you don’t press it before you really need to, because you only get one chance!
+48) MINION2
+{angry}No visitors!
+93) MINION2
+{angry}No visitors!
+49) SAM
+{confused}Can’t we just plug in this dimensional doo-hickey here?
+50) MOMMABOSCO
+That dimensional rift generator will take a LOT more power than I’ve got.
+51) MAX
+Plus it’ll blow a fuse if the toaster oven is running.
+52) SUPERBALL
+You’ll need to use it at a place where the border between reality and nonsense is already weakened, sirs.
+53) SAM
+Charmingly outdated science textbooks.
+54) SAM
+[reading book title] “Medical Advancements in Dispelling Evil Humors Via Leeches and Bloodletting.”
+55) MAX
+{angry}[angry] Hey, that’s mine!
+56) SAM
+[reading book title] “From The Earth to the Elaborate Moon-Landing Hoax.”
+57) SAM
+[reading book title] “Breakthrough Technological Discoveries by Women and Also Real Scientists.”
+58) SAM
+{confused}Does anybody mind if I change the channel?
+59) SAM
+Harry must’ve dug his way in here.
+60) MAX
+{confused}Is this the one with the space gorilla?{normal} I’ve already seen it.
+61) MAX
+{suspicious}They say they don’t like to be in bright sunlight, but I say it’s just an excuse to do more property damage. {devilish}A BRILLIANT excuse.
+62) SAM
+{realizing}[in awe] If these findings are true, then that would mean... it’s scientifically impossible for Max and me to exist!
+63) SAM
+{suspicious}Oh, no, wait. I was reading it wrong.
+64) SAM
+{surprised}[impressed] No way! I didn’t think they’d come out with the XKJ-S3 model yet! {happy}This baby is eight times as fast and has eighteen USB slots!
+65) MAX
+{confused}What does it do?
+66) SAM
+No idea.
+67) SAM
+This thing does science so hard, you say, {surprised}“I’ve never SEEN that much science” {normal}and it’s all, {incredulous}“Check THIS out,” {normal}and then {surprised}BOOM: more science.
+68) SAM
+Not having to worry about fire safety is one of the many advantages of being a ghost.
+69) MAX
+{sarcastic}Or being us.
+70) SAM
+It’s Momma Bosco’s dimensional destabilizer thing.
+71) MAX
+{realizing}Push that green button! {sarcastic}What’s the worst it could do?
+72) MOMMABOSCO
+{sarcastic}[matter of factly] Tear a hole in the fabric of existence and bring the Elder Gods back to this dimensional plane.
+73) MAX
+{worried}Oh. {realizing}What happens if you double-click it?
+74) SAM
+{stern}That won’t work. These are similar but {realizing}completely separate inventions that open portals to alternate dimensions. {stern}Get it straight.
+75) HARRY
+So Momma Bosco: after you hire me as your research assistant, we’ll need to talk about my vacation time.
+76) SUPERBALL
+I suggest you pick up that rift generator and get to work, sirs.
+77) 
+bank of screens
+78) 
+CrimeAlert
+79) 
+dimensional destabilizer
+80) 
+mole man tunnel
+81) 
+power outlet
+82) 
+textbooks
+83) 
+positronic reticulator
+84) 
+hadron array decelerator
+85) 
+reverse seismic wave generator
+86) 
+multi-frequency ion emitter
+87) 
+the TechnoloTron 8500
+88) 
+the Computo-Vac TX-90
+89) 
+the iThing 4G
+90) 
+the MetalloPod VGX (beta)
+91) 
+exit
+92) GRANDPASTINKY
+[pickup1] Jerks.
+94) SAM
+[pickup1] {Sarcastic}If I’m reading this right, Harry’s been swallowing a lot of pride over the last few months, with side dishes of shredded dreams.
+95) MAX
+[pickup1] {sarcastic}Ooh, look! He still contains trace amounts of hope! That’s so cute.
+96) SAM
+[pickup1] {surprised}Dr. Momma Bosco’s ghost is made of... ionized air?
+97) MAX
+[pickup1] {incredulous}Funky.
+98) SAM
+[pickup1][reading] Flies... mosquitos... fingernails... Fingernails?
+99) MAX
+[pickup1] {cocky}That’s one tough spider.
+100) SAM
+[pickup1] {realizing}I’ve always wanted to know what’s in this ghostly goop...
+101) SAM
+[pickup1][reading] {normal}Cow hooves, lime flavoring, vodka...
+102) SAM
+[pickup1] {surprised}This isn’t ectoplasm from beyond the veil, Max! It’s a batch of lukewarm gelatin shots!
+103) MAX
+[pickup1]{sarcastic} Funny, I always pictured Momma Bosco as more of a gin and tonic woman.
+104) SAM
+[pickup1] Spider webs and spooky houses go together like well-dressed dogs and naked bunnies.
+105) MAX
+[pickup1] How many times have I told you not to use the ‘b’ word, Sam?
+106) SAM
+[pickup1] Hey neat, the eerie, oozing remains of Momma Bosco’s ghostly visitations.
+107) MAX
+[pickup1] That must be ectoplasmic jelly, ‘cause ectoplasmic jam don’t shake like that!
+108) SAM
+[pickup1] Apparently, it’s the remains of Doctor Momma Bosco’s spring break party.
+109) MAX
+[pickup1] Who knew Momma Bosco was a Ghost Gone Wild?
+110) SAM
+[pickup1] Hey Max, why don’t you hop in there and see where it leads?
+111) MAX
+[pickup1] [sarcastic] Yeah, sure. Crawl through a narrow tunnel to nowhere filled with Harry Moleman spoor. GREAT idea.
+112) SAM
+[pickup1] [context: looking at painting] Ah, one of Jan Hooksforhaans’ rare portraits.
+113) SAM
+[pickup1] He took so long to finish a painting, his subjects often died while posing.
+114) SAM
+[pickup1] Can’t tell from half a receipt, little buddy. If only we had some way to piece all these clues together...
+115) SAM
+[pickup1] [context: looking at a wardrobe] Hmm, wonder what’s in here?
+116) MAX
+[pickup1] Don’t open it, Sam! It probably leads to a fantastic land of wonder and thinly-disguised religious allegory.
+117) SAM
+[pickup1] Good call, Max. We already wasted enough time poking around that tollbooth.
+118) SAM
+[pickup1] Hello, operator?
+119) SAM
+[pickup1] Oops, sorry!
+120) SAM
+[pickup1] You know how those spirits are once they get talking about “the good old days” when they were alive. I guess we can’t make outgoing calls.
+121) SAM
+[pickup1] Nah, she probably didn’t need this thing anyway.
+122) MAX
+[pickup1] If she wanted it so bad, she should’ve taken better care of it.
+123) SAM
+[pickup1] I think this demon broth only brings people back to life if they’ve still got their body. Or at least, part of it.
+124) MAX
+[pickup1] Either way, it’s pretty impressive.
+125) SAM
+[pickup1] I can’t tell if that’s something Momma Bosco invented, or an award Momma Bosco got for inventing something.
+126) 
+skeleton painting
+127) 
+spider web
+128) 
+telephone
+129) 
+wardrobe
+130) SAM
+[pickup1] Oh, no! Now we’ll NEVER be able to find Momma Bosco’s power core!
+131) SAM
+{confused}So you’re suggesting we trap Skunkape in our own building?
+132) MOMMABOSCO
+Well, kind of. {proud}You’d actually be turning your building into an alternate dimension, {sarcastic}so it won’t really exist anymore.
+133) MOMMABOSCO
+What can I do for you boys?
+134) 
+study
+135) 
+read
+136) 
+weird ball thing
+137) 
+open
+138) 
+ectoplasm
+139) 
+elevator
+140) MAX
+Let’s take the DeSoto for a spin, Sam. I want to see what evil the COPS have wrought.
+141) MAX
+Why aren’t we out looking for clues instead of hanging out in the one place we know Skunkape ISN’T?
+142) 
+painting

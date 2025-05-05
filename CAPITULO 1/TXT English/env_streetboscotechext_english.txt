@@ -1,0 +1,170 @@
+﻿1) MINION1
+{angry}Beat it.
+2) MINION1
+{angry}Beat it.
+3) SAM
+It’s okay, sir. We’re close personal friends of Momma Bosco’s.
+4) MINION1
+We’re closed.
+5) SAM
+[friendly]{enthused} Hey, Space Gorilla. {confused}You’re kind of blocking the door there. {realizing}Mind if we scooch on by?
+6) MAX
+{worried}[context: unlike this one, ...] This sucks, Sam. The old Bosco’s NEVER closed.
+7) SAM
+I suspect Momma Bosco’s got something in there that General Skunkape doesn’t want us to find.
+8) SAM
+{worried}But my little buddy’s trapped inside!
+80) SAM
+{worried}But my little buddy’s trapped inside!
+9) MAX
+{confused} [accusingly] Really, Sam? That’s the best you’ve got for “use gun with gorilla”? {incredulous}It’s like I don’t even know you anymore.
+10) SAM
+{enthused}Hey buddy, I’ll give you this cool gun if you let us in the lab!
+11) MINION1
+{angry}Scram.
+12) SAM
+{surprised}Wow, those space gorillas are tough!
+13) SAM
+Well, that knocked him out cold!
+14) MAX
+{happy}Do it again! Do it again!
+15) SAM
+{worried}[terrified] Max, no! Stop! Heel!
+16) MAX
+{angry}[giant monster mode] Grrrwoooowl!
+17) MAX
+{realizing}An ominous shadow of our violent and destructive future? {happy}I can’t wait!
+18) SAM
+{confused}What was THAT all about?
+19) MAX
+{scared}[being choked] Arrggllggllrrrglll...
+20) MINION1
+[dropped from a great height] Oooof!
+21) SAM
+{enthused}[pleased with himself] Two in one blow! And without any significant injuries, either!
+22) MAX
+[hoarse] I think he crushed my trachea.
+23) MINION1
+{angry}Looks to me like we just did.
+24) SAM
+At least give me back my sidekick!
+25) MINION1
+{normal}You’ll get the rabbit once Jerome’s done workin’ him over.
+26) SAM
+{stern}Hey, you guys can’t do that to me!
+27) SAM
+Talking to that guy is a waste of time. I’ve got to figure out some better way to get the drop on him.
+28) MAX
+[being choked] Arrgglllgglll...
+29) SAM
+Max’s teleportation power is pretty cool; {suspicious}I just wish there weren’t so much inappropriate touching involved.
+30) SAM
+When I get stuck on a case like this, I miss my days as a circus acrobat. I’m not making that up.
+31) SAM
+{worried}Poor Max keeps getting strangled by that gorilla, and he can’t even call for help because I’ve got the phone!
+32) SAM
+{sarcastic}The name “Bosco” and science go together like church and state.
+33) SAM
+It’s kind of tacky, the way Momma Bosco hung that banner right out over the sidewalk.
+34) SAM
+They say that if you get up high enough, you can see the Liberal Elite headquarters hovering over Staten Island.
+35) SAM
+{enthused}Hello, lamp post! What ya knowin’?
+36) SAM
+{Stern}[offended] Sheesh, what a jerk.
+37) SAM
+I could climb this thing to get a better perspective on the situation, {confused}but I need to get higher.
+38) SAM
+Nah, I already took care of that before we left.
+39) SAM
+Oh, hi! I remember you from the reception.
+40) SAM
+This antenna is way too flimsy to support my weight.
+41) SAM
+Pretty cool! Not useful, though.
+42) 
+fire escape
+43) 
+banner
+44) 
+lamp post
+45) 
+fire hydrant
+46) 
+TV antenna
+47) 
+air conditioner
+48) 
+BoscoTech Labs entrance
+49) GRANDPASTINKY
+[pickup1] What the devil?
+50) SAM
+65 percent oxygen, 18 percent carbon, 10 percent hydrogen... Well, ain’t that a stitch! These alien gorillas share the same elemental composition as you and me!
+51) MAX
+[pickup1] Speak for yourself, Sam. I have wayyyyyy more bismuth than those stupid apes.
+52) SAM
+[pickup1][reading] Hmmm. You wouldn’t expect a fire hydrant to have so much kerosene...
+53) MAX
+[pickup1] [context: ...but I would] Maybe YOU wouldn’t.
+54) MAX
+[pickup1] [while being strangled] We’re... already... there...
+55) SAM
+[pickup1] Hey, NEXT time you go to Stinky’s, bring me back one of those salted banana nut logs, would you?
+56) MAX
+[pickup1] [sullen] Shut up.
+57) MAX
+[pickup1] That gorilla cut off the oxygen to my brain. I don’t even remember grade school.
+58) SAM
+[pickup1] Do you remember where we parked?
+59) SAM
+[pickup1] Cut out the tomfoolery, Max. We’ve got to get rid of that gorilla.
+60) SAM
+[pickup1] You went to Skunkape’s spaceship without me?
+61) MAX
+[pickup1] If you want to be the one who gets strangled from now on, go right ahead.
+62) SAM
+[pickup1] There must be something pretty important in Momma Bosco’s lab if Skunkape left his goons to guard the place.
+63) SAM
+[pickup1] All right, pigeon. Hand over the shiny thing and nobody has to get hurt.
+81) SAM
+[pickup1] All right, pigeon. Hand over the shiny thing and nobody has to get hurt.
+64) SAM
+[pickup1] Hey, careful where you drop that thing!
+82) SAM
+[pickup1] Hey, careful where you drop that thing!
+65) SAM
+[pickup1] It’s an engagement ring!
+66) MAX
+[pickup1] Sam, this is all so sudden! I... I don’t know what to say!
+67) SAM
+[pickup1] Quiet, bonehead.
+68) SAM
+[pickup1] Hmm, I’ve got a feeling Skunkape picked it up while he was out looking for toys.
+69) SAM
+[pickup1] Ahh, there’s an engraving: “Hard Luck.” Classy.
+70) SAM
+[pickup1] [context: cut off mid-proposal] Will you do me the honor of...?
+71) SAM
+[pickup1] Geez, buddy. You could’ve at least let me down easy.
+72) 
+gleaming pigeon
+73) 
+use gun with gorilla
+74) 
+shoot Research Assistant
+75) 
+enter BoscoTech Labs
+76) 
+harass
+77) MOVIEFONE
+We’re sorry, we’re not driving anywhere with that Space Gorilla on the loose.
+78) SYNTH
+YOU SHOULD JUST TELEPORT THERE IF YOU’RE IN SUCH A DANG HURRY TO GET YOURSELVES KILLED.
+79) SAM
+Keep your tiny black eyes open, Max. Skunkape or one of his minions might have left a clue as to where they were going.
+83) SAM
+Nah.
+84) 
+flagpole
+85) 
+exit

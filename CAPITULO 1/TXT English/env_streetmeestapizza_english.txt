@@ -1,0 +1,146 @@
+﻿1) MAX
+[sniffing]{incredulous}Skunkape was here... twenty... no, {suspicious}twenty-eight minutes ago. [more sniffing]{sarcastic}He should really get more fiber in his diet.
+2) SAM
+{suspicious} There’s got to be some clue telling us where he went next. {sarcastic}Keep your beady little eyes open, pal.
+3) SAM
+{happy} Good work, Max! Now let’s see if we can...
+4) SAM
+{enthused} AHA! A clue!
+5) MAX
+A paddle ball toy?
+6) SAM
+Skunkape must’ve tossed it out when he realized it wasn’t magical. We’ve gotta find what store he got it from.
+7) SAM
+[as an afterthought] And pick up that phone, Max.
+8) MAX
+{suspicious} I’m not touching it.
+9) MAX
+{enthused} Mmmm... hot and delicious, dripping with rollover minutes!
+10) SAM
+{surprised} Swallowed whole! {enthused} I’ve never seen anything like that before!
+11) MAX
+{sarcastic} Not since we accidentally wandered into that theater on Times Square.
+12) MAX
+No need to teleport! We’re already here.
+13) MAX
+{confused} How are we supposed to get on the roof?
+14) SAM
+{sarcastic} What a senseless waste of perfectly-soiled pizza boxes.
+15) MAX
+{happy} The boxes are the tastiest part!
+16) SAM
+[reading] {sarcastic} Meesta Pizza.
+17) SAM
+[reciting a slogan] {happy} “For the Unforgettable Taste of Old Nipples.”
+18) MAX
+{confused} Uh, isn’t that supposed to be “Old Naples”?
+19) SAM
+{realizing} They had to change it on account of truth-in-advertising laws.
+20) SAM
+[satisfied] {happy} Ahh. You can’t get taste like that from REAL cheese.
+21) MAX
+{confused} Uh, were we supposed to be looking for clues or something?
+22) SAM
+No clues in there.
+23) SAM
+Anything valuable in here has already been carried away by rats or other animals.
+24) MAX
+Hey Sam, they mentioned seeing a giant space gorilla around here. {incredulous}Do you think that could be General Skunkape?
+25) SAM
+{realizing} Hmm, could be. {suspicious}Let’s see if he left a clue somewhere out back.
+26) SAM
+These boxes have been picked clean.
+27) MAX
+{sarcastic} The pigeons carry the wood-like crusts away to build nests and primitive temples to their pigeon god!
+28) SAM
+Anything I put here would get stolen by those chubby sky-rats.
+29) SAM
+Max, you ever get the feeling you’re going to do something really clever in the future, but you haven’t figured out what it is yet?
+30) 
+pizza boxes
+31) 
+sign
+32) 
+trash cans
+33) 
+Meesta Pizza entrance
+34) GRANDPASTINKY
+[pickup1] {angry} Meesta Pizza? Bah, rubbish.
+35) SAM
+[pickup1] Hmmm. Looks like Meesta Pizza’s “Meat Hugger’s Explosion” has been using a particularly broad definition of “meat.”
+36) MAX
+[pickup1] [indignant] Hey, lips CAN be meat!
+37) SAM
+[pickup1] [reading] Hey Max, check this out. Meesta Pizza’s Swamp Dish Delight has started using artificial cooter beak FLAVORING instead of authentic cooter beaks paste.
+38) MAX
+[pickup1] I THOUGHT my acid reflux tasted less cootery the last time I was here.
+39) SAM
+[pickup1] From the looks of things, someone couldn’t get through their Deep Dish Swamp Ditch Delight.
+40) MAX
+[pickup1] Wimp.
+41) SAM
+[pickup1] Looks like this little fella’s had his fill of Meesta Pizza’s rotting remnants for one day.
+42) MAX
+[pickup1] Can I poke his belly with a pencil and make him explode in a horrific shower of dough and anchovies?
+43) SAM
+[pickup1] Maybe later.
+44) SAM
+[pickup1][reading] Lime, silica, gypsum... no wonder this poor little guy can’t move. He’s got more cement in his gut than the Hoover Dam.
+45) MAX
+[pickup1] Gypsum? You just made that up, didn’t you?
+46) SAM
+[pickup1] Even if that pigeon WASN’T stuffed to the gills, I don’t think it’d eat anything that doesn’t taste like Meesta Pizza pizza.
+47) MAX
+[pickup1] Pigeons don’t have gills, Sam.
+48) SAM
+[pickup1] Idiot.
+49) SAM
+[pickup1] It’s locked, broken, and doesn’t go anywhere we want to go.
+50) MAX
+[pickup1] Just like our social life.
+51) SAM
+Hmm, a vintage postcard from somebody who collects old, rare toys.
+52) SAM
+I don’t know, Max. The name and most of the address are smudged out. This looks like a job for the Crime-Tron!
+53) MAX
+What’s the address?
+54) MAX
+[pickup1] Well, that’s just a typical Friday night for YOU, Sam.
+55) SAM
+[pickup1] [zombie-like drone] Toys... toys... we must prepare... the toys...
+56) 
+leftovers
+57) 
+pigeon
+58) 
+back door
+59) 
+read
+60) 
+investigate
+61) 
+inspect
+62) 
+enter Meesta Pizza
+63) 
+look at
+64) 
+spend time with
+65) 
+place Stinky’s cell phone on pizza boxes
+66) 
+give Stinky’s cell phone to pigeon
+67) SAM
+Hey, it’s Flint Paper!
+68) FLINT
+{happy}Hiya, furry pals!
+69) FLINT
+{happy}What’s the word, pals?
+70) MAX
+Don’t bother him, Sam!
+71) 
+
+72) SAM
+[pickup1] Flint’s fists are made of steel, his belly is full of booze, his lungs are a symphony of cigarette smoke and cheap perfume, and his brain is awash in regrets and revenge.
+73) MAX
+[pickup1] That’s one damn poetic nutritional card, Sam.
